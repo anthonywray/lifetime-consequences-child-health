@@ -1,4 +1,4 @@
-Replication Package for “Lifetime and intergenerational consequences of
+Replication package for “Lifetime and intergenerational consequences of
 poor childhood health”
 ================
 Krzysztof Karbownik and Anthony Wray,
@@ -341,7 +341,7 @@ nysiis, reghdfe, regsave, unique
 
 ## Tables and figures
 
-The `.tex` or `.png` files containing the tables and figures can be
+The `.tex` or `.eps` files containing the tables and figures can be
 found in `/output`.
 
 ## Data citations

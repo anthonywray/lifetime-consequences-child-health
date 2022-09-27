@@ -1,0 +1,6246 @@
+Description: 1881 Census of England
+Samples selected:
+      England and Wales 1881 (100%)
+            Note: England and Wales only
+            Density of the full data file:  100.0%
+            Density of your extract: 100.0%
+
+File Type:                    rectangular
+Case Selection:               No
+  Variable               Columns        Len    GB81   
+  SAMPLE             H   1-4            4      X 
+  SERIAL             H   5-14          10      X 
+  CNTRY              H  15-17           3      X 
+  YEAR               H  18-21           4      X 
+  URBAN              H  22              1      X 
+  CNTRYGB            H  23              1      X 
+  DIVISNGB           H  24-25           2      X 
+  COUNTYGB           H  26-28           3      X 
+  DISTGB             H  29-31           3      X 
+  SUBDISGB           H  32-37           6      X 
+  PARISHGB           H  38-43           6      X 
+  GB81A_ADDRESS      H  44-133         90      X 
+  GB81A_PIECEGB      H 134-138          5      X 
+  GB81A_FOLIOGB      H 139-144          6      X 
+  GB81A_PAGEGB       H 145-149          5      X 
+  PERNUM             P 150-153          4      X 
+  PERWT              P 154-157          4      X 
+  MOMLOC             P 158-159          2      X 
+  POPLOC             P 160-161          2      X 
+  SPLOC              P 162-163          2      X 
+  FAMSIZE            P 164-165          2      X 
+  NCHILD             P 166-167          2      X 
+  NSIBS              P 168-169          2      X 
+  CFU                P 170-171          2      X 
+  RELATE             P 172-175          4      X 
+  AGE                P 176-178          3      X 
+  SEX                P 179              1      X 
+  MARST              P 180              1      X 
+  BPLCNTRY           P 181-185          5      X 
+  NAPPSTER           P 186-187          2      X 
+  BPLCTYGB           P 188-190          3      X 
+  LABFORCE           P 191              1      X 
+  OCCGB              P 192-194          3      X 
+  ORDERGB            P 195-196          2      X 
+  OCCSTRNG           P 197-226         30      X 
+  NAMELAST           P 227-258         32      X 
+  NAMEFRST           P 259-290         32      X 
+  GB81A_BPSTPAGB     P 291-340         50      X 
+  AGE_MOM            P 341-343          3      X 
+  AGE_POP            P 344-346          3      X 
+  MARST_MOM          P 347              1      X 
+  MARST_POP          P 348              1      X 
+
+Variable Availability Key:
+All Years X - available in this sample
+All Years . - not available in this sample
+
+
+ SAMPLE		Sample identifier
+1241		Canada 1852
+1242		Canada 1871
+1243		Canada 1881
+1244		Canada 1891
+1245		Canada 1901
+3521		Iceland 1801
+3522		Iceland 1901
+2761		Mecklenburg-Schwerin 1819
+5781		Norway 1801
+5782		Norway 1865
+5783		Norway 1875
+5784		Norway 1900
+5785		Norway 1910
+7521		Sweden 1890
+7522		Sweden 1900
+8261		Great Britain 1851a
+8262		Great Britain 1881a
+8263		Great Britain 1881b
+8401		United States 1850
+8402		United States 1860
+8403		United States 1870
+8404		United States 1880a
+8405		United States 1880b
+8406		United States 1900
+8407		United States 1910
+
+ CNTRY		Country of residence
+124		Canada
+276		Germany
+352		Iceland
+578		Norway
+752		Sweden
+826		Great Britain
+840		United States
+
+ YEAR		Census year
+1801		1801
+1819		1819
+1850		1850
+1851		1851
+1852		1852
+1860		1860
+1865		1865
+1870		1870
+1871		1871
+1875		1875
+1880		1880
+1881		1881
+1890		1890
+1891		1891
+1900		1900
+1901		1901
+1910		1910
+
+ URBAN		Urban/rural status
+1		Rural
+2		Urban
+8		N/A: Enumerated on board ship
+9		Unknown
+
+ CNTRYGB		Country within Great Britain
+1		England
+2		Scotland
+3		Wales
+4		Islands in the British Seas
+5		On board ship, no parish of landing
+9		Unknown
+
+ DIVISNGB		Census division, Britain
+01		Eastern
+02		Islands
+03		London
+04		Monmouth/Wales
+05		Northern
+06		North-Midland
+07		North-Western
+08		Scotland
+09		South-East
+10		South-Midland
+11		South-Western
+12		West-Midland
+13		Yorkshire
+99		No division
+
+ COUNTYGB		County, Britain
+010		Aberdeenshire
+011		Anglesey
+012		Alderney
+013		Angus
+014		Argyll
+015		Ayr
+016		Banff
+017		Bedfordshire
+018		Berkshire
+019		Berwickshire
+020		Brecknockshire
+021		Buckinghamshire
+022		Bute
+023		Caernarvonshire
+024		Caithness
+025		Cambridgeshire
+026		Cardiganshire
+027		Carmarthenshire
+028		Cheshire
+029		Clackmannanshire
+030		Cornwall
+031		Cumberland
+032		Denbighshire
+033		Derbyshire
+034		Devonshire
+035		Dumfriesshire
+036		Dunbartonshire
+037		Dorset
+038		Durham
+039		East Lothian
+040		Essex
+041		Fife
+042		Flintshire
+043		Glamorganshire
+044		Gloucestershire
+045		Guernsey
+046		Hampshire
+047		Herefordshire
+048		Hertfordshire
+049		Huntingdonshire
+050		Inverness-shire
+051		Isle of Man
+052		Jersey
+053		Kincardinshire
+054		Kent
+055		Kirkudbrightshire
+056		Kinross-shire
+057		Lancashire
+058		Leicestershire
+059		Lincolnshire
+060		Lanarkshire
+061		Merionethshire
+062		Middlesex
+063		Mid Lothian
+064		Monmouthshire
+065		Montgomeryshire
+066		Morayshire
+067		Nairnshire
+068		Norfolk
+069		Northamptonshire
+070		Northumberland
+071		Nottinghamshire
+072		Orkney
+073		Oxford
+074		Peeblesshire
+075		Pembrokeshire
+076		Perthshire
+077		Radnorshire
+078		Renfrewshire
+079		Ross and Cromarty
+080		Roxburghshire
+081		Rutland
+082		Shropshire
+083		Selkirk
+084		Shetland
+085		Somerset
+086		Stirlingshire
+087		Staffordshire
+088		Suffolk
+089		Surrey
+090		Sussex
+091		Sutherland
+092		Warwick
+093		Westmorland
+094		Wigtown
+095		Wiltshire
+096		West Lothian
+097		Worcestershire
+100		Yorkshire (East, North, and West)
+103		Elginshire
+104		Forfarshire
+105		Kent London
+106		Surrey London
+107		Edinburghshire
+108		Haddingtonshire
+109		Linlithgowshire
+110		Middlesex London
+200		Adjacent Islands - Herm
+201		Adjacent Islands - Little Sark
+997		On board ship, no parish of landing
+
+ DISTGB		District, Britain
+001		Kensington
+002		Fulham
+003		Chelsea
+004		St George Hanover Square
+005		Westminster
+006		Marylebone
+007		Hampstead
+008		Pancras
+009		Islington
+010		Hackney
+011		St Giles
+012		Strand
+013		Holborn
+014		London City
+015		Shoreditch
+016		Bethnal Green
+017		Whitechapel
+018		St George in the East
+019		Stepney
+020		Mile End Old Town
+021		Poplar
+022		St Saviour Southwark
+023		St Olave Southwark
+024		Lambeth
+025		Wandsworth
+026		Camberwell
+027		Greenwich
+028		Lewisham
+029		Woolwich
+030		Epsom
+031		Chertsey
+032		Guildford
+033		Farnham
+034		Hambledon
+035		Dorking
+036		Reigate
+037		Godstone
+038		Croydon
+039		Kingston
+040		Richmond
+041		Bromley
+042		Dartford
+043		Gravesend
+044		North Aylesford
+045		Hoo
+046		Medway
+047		Malling
+048		Sevenoaks
+049		Tunbridge
+050		Maidstone
+051		Hollingbourn
+052		Cranbrook
+053		Tenterden
+054		West Ashford
+055		East Ashford
+056		Bridge
+057		Canterbury
+058		Blean
+059		Faversham
+060		Milton
+061		Sheppey
+062		Thanet
+063		Eastry
+064		Dover
+065		Elham
+066		Romney Marsh
+067		Rye
+068		Hastings
+069		Battle
+070		Eastbourne
+071		Hailsham
+072		Ticehurst
+073		Uckfield
+074		East Grinstead
+075		Cuckfield
+076		Lewes
+077		Brighton
+078		Steyning
+079		Horsham
+080		Petworth
+081		Thakeham
+082		East Preston
+083		Westhampnett
+084		Chichester
+085		Midhurst
+086		Westbourne
+087		Havant
+088		Portsea Island
+089		Alverstoke
+090		Fareham
+091		Isle Of Wight
+092		Lymington
+093		Christchurch
+094		Ringwood
+095		Fordingbridge
+096		New Forest
+097		Southampton
+098		South Stoneham
+099		Romsey
+100		Stockbridge
+101		Winchester
+102		Droxford
+103		Catherington
+104		Petersfield
+105		Alresford
+106		Alton
+107		Hartley-Wintney
+108		Basingstoke
+109		Whitchurch
+110		Andover
+111		Kingsclere
+112		Newbury
+113		Hungerford
+114		Faringdon
+115		Abingdon
+116		Wantage
+117		Wallingford
+118		Bradfield
+119		Reading
+120		Wokingham
+121		Cookham
+122		Easthampstead
+123		Windsor
+124		Staines
+125		Uxbridge
+126		Brentford
+127		Hendon
+128		Barnet
+129		Edmonton
+130		Ware
+131		Bishop Stortford
+132		Royston
+133		Hitchin
+134		Hertford
+135		Hatfield
+136		St Albans
+137		Watford
+138		Hemel Hempstead
+139		Berkhampstead
+140		Amersham
+141		Eton
+142		Wycombe
+143		Aylesbury
+144		Winslow
+145		Newport Pagnell
+146		Buckingham
+147		Henley
+148		Thame
+149		Headington
+150		Oxford
+151		Bicester
+152		Woodstock
+153		Witney
+154		Chipping Norton
+155		Banbury
+156		Brackley
+157		Towcester
+158		Potterspury
+159		Hardingstone
+160		Northampton
+161		Daventry
+162		Brixworth
+163		Wellingborough
+164		Kettering
+165		Thrapston
+166		Oundle
+167		Peterborough
+168		Huntingdon
+169		St Ives
+170		St Neots
+171		Bedford
+172		Biggleswade
+173		Ampthill
+174		Woburn
+175		Leighton Buzzard
+176		Luton
+177		Caxton
+178		Chesterton
+179		Cambridge
+180		Linton
+181		Newmarket
+182		Ely
+183		North Witchford
+184		Whittlesey
+185		Wisbech
+186		West Ham
+187		Epping
+188		Ongar
+189		Romford
+190		Orsett
+191		Billericay
+192		Chelmsford
+193		Rochford
+194		Maldon
+195		Tendring
+196		Colchester
+197		Lexden
+198		Halstead
+199		Braintree
+200		Dunmow
+201		Saffron Walden
+202		Risbridge
+203		Sudbury
+204		Cosford
+205		Thingoe
+206		Bury St Edmunds
+207		Mildenhall
+208		Stow
+209		Hartismere
+210		Hoxne
+211		Bosmere
+212		Samford
+213		Ipswich
+214		Woodbridge
+215		Plomesgate
+216		Blything
+217		Wangford
+218		Mutford
+219		Yarmouth
+220		Flegg
+221		Smallburgh
+222		Erpingham
+223		Aylsham
+224		St Faiths
+225		Norwich
+226		Forehoe
+227		Henstead
+228		Blofield
+229		Loddon
+230		Depwade
+231		Guiltcross
+232		Wayland
+233		Mitford
+234		Walsingham
+235		Docking
+236		Freebridge Lynn
+237		Kings Lynn
+238		Downham
+239		Swaffham
+240		Thetford
+241		Highworth
+242		Cricklade
+243		Malmesbury
+244		Chippenham
+245		Calne
+246		Marlborough
+247		Devizes
+248		Melksham
+249		Bradford on Avon
+250		Westbury
+251		Warminster
+252		Pewsey
+253		Amesbury
+254		Alderbury
+255		Wilton
+256		Tisbury
+257		Mere
+258		Shaftesbury
+259		Sturminster
+260		Blandford
+261		Wimborne
+262		Poole
+263		Wareham
+264		Weymouth
+265		Dorchester
+266		Sherborne
+267		Beaminster
+268		Bridport
+269		Axminster
+270		Honiton
+271		St Thomas
+272		Exeter
+273		Newton Abbot
+274		Totnes
+275		Kingsbridge
+276		Plympton St Mary
+277		Plymouth
+278		East Stonehouse
+279		Stoke-Damerel
+280		Tavistock
+281		Okehampton
+282		Crediton
+283		Tiverton
+284		South Molton
+285		Barnstaple
+286		Torrington
+287		Bideford
+288		Holsworthy
+289		Stratton
+290		Camelford
+291		Launceston
+292		St Germans
+293		Liskeard
+294		Bodmin
+295		St Columb
+296		St Austell
+297		Truro
+298		Falmouth
+299		Helston
+300		Redruth
+301		Penzance
+302		Scilly Islands
+303		Williton
+304		Dulverton
+305		Wellington
+306		Taunton
+307		Bridgwater
+308		Langport
+309		Chard
+310		Yeovil
+311		Wincanton
+312		Frome
+313		Shepton Mallet
+314		Wells
+315		Axbridge
+316		Clutton
+317		Bath
+318		Keynsham
+319		Bedminster
+320		Bristol
+321		Barton Regis
+322		Chipping Sodbury
+323		Thornbury
+324		Dursley
+325		Westbury on Severn
+326		Newent
+327		Gloucester
+328		Wheatenhurst
+329		Stroud
+330		Tetbury
+331		Cirencester
+332		Northleach
+333		Stow on the Wold
+334		Winchcomb
+335		Cheltenham
+336		Tewkesbury
+337		Ledbury
+338		Ross
+339		Hereford
+340		Weobly
+341		Bromyard
+342		Leominster
+343		Kington
+344		Ludlow
+345		Clun
+346		Church Stretton
+347		Cleobury Mortimer
+348		Bridgnorth
+349		Shifnal
+350		Madeley
+351		Atcham
+352		Oswestry
+353		Ellesmere
+354		Wem
+355		Whitchurch
+356		Market Drayton
+357		Wellington
+358		Newport
+359		Stafford
+360		Stone
+361		Newcastle Under Lyme
+362		Wolstanton
+363		Stoke upon Trent
+364		Leek
+365		Cheadle
+366		Uttoxeter
+367		Burton upon Trent
+368		Tamworth
+369		Lichfield
+370		Cannock
+371		Wolverhampton
+372		Walsall
+373		West Bromwich
+374		Dudley
+375		Stourbridge
+376		Kidderminster
+377		Tenbury
+378		Martley
+379		Worcester
+380		Upton on Severn
+381		Evesham
+382		Pershore
+383		Droitwich
+384		Bromsgrove
+385		Kings Norton
+386		Birmingham
+387		Aston
+388		Meriden
+389		Atherstone
+390		Nuneaton
+391		Foleshill
+392		Coventry
+393		Rugby
+394		Solihull
+395		Warwick
+396		Stratford on Avon
+397		Alcester
+398		Shipston on Stour
+399		Southam
+400		Lutterworth
+401		Market Harborough
+402		Billesdon
+403		Blaby
+404		Hinckley
+405		Market Bosworth
+406		Ashby-de-la-Zouch
+407		Loughborough
+408		Barrow upon Soar
+409		Leicester
+410		Melton-Mowbray
+411		Oakham
+412		Uppingham
+413		Stamford
+414		Bourn
+415		Spalding
+416		Holbeach
+417		Boston
+418		Sleaford
+419		Grantham
+420		Lincoln
+421		Horncastle
+422		Spilsby
+423		Louth
+424		Caistor
+425		Glanford Brigg
+426		Gainsborough
+427		East Retford
+428		Worksop
+429		Mansfield
+430		Basford
+431		Nottingham
+432		Southwell
+433		Newark
+434		Bingham
+435		Shardlow
+436		Derby
+437		Belper
+438		Ashborne
+439		Chesterfield
+440		Bakewell
+441		Chapel-en-le-Frith
+442		Hayfield
+443		Stockport
+444		Macclesfield
+445		Altrincham
+446		Runcorn
+447		Northwich
+448		Congleton
+449		Nantwich
+450		Chester
+451		Wirral
+452		Birkenhead
+453		Liverpool
+454		Toxteth Park
+455		West Derby
+456		Prescot
+457		Ormskirk
+458		Wigan
+459		Warrington
+460		Leigh
+461		Bolton
+462		Bury
+463		Barton upon Irwell
+464		Chorlton
+465		Salford
+466		Manchester
+467		Prestwich
+468		Ashton under Lyne
+469		Oldham
+470		Rochdale
+471		Haslingden
+472		Burnley
+473		Clitheroe
+474		Blackburn
+475		Chorley
+476		Preston
+477		Fylde
+478		Garstang
+479		Lancaster
+480		Lunesdale
+481		Ulverston
+482		Barrow in Furness
+483		Sedbergh
+484		Settle
+485		Skipton
+486		Pateley Bridge
+487		Ripon
+488		Great Ouseburn
+489		Knaresborough
+490		Wetherby
+491		Wharfedale
+492		Keighley
+493		Todmorden
+494		Saddleworth
+495		Huddersfield
+496		Halifax
+497		Bradford
+498		Hunslet
+499		Holbeck
+500		Bramley
+501		Leeds
+502		Dewsbury
+503		Wakefield
+504		Pontefract
+505		Hemsworth
+506		Barnsley
+507		Wortley
+508		Ecclesall Bierlow
+509		Sheffield
+510		Rotherham
+511		Doncaster
+512		Thorne
+513		Goole
+514		Selby
+515		Tadcaster
+516		York
+517		Pocklington
+518		Howden
+519		Beverley
+520		Sculcoates
+521		Hull
+522		Patrington
+523		Skirlaugh
+524		Driffield
+525		Bridlington
+526		Scarborough
+527		Malton
+528		Easingwold
+529		Thirsk
+530		Helmsley
+531		Pickering
+532		Whitby
+533		Guisbrough
+534		Middlesbrough
+535		Stokesley
+536		Northallerton
+537		Bedale
+538		Leyburn
+539		Aysgarth
+540		Reeth
+541		Richmond
+542		Darlington
+543		Stockton
+544		Hartlepool
+545		Auckland
+546		Teesdale
+547		Weardale
+548		Lanchester
+549		Durham
+550		Easington
+551		Houghton-le-Spring
+552		Chester-le-Street
+553		Sunderland
+554		South Shields
+555		Gateshead
+556		Newcastle upon Tyne
+557		Tynemouth
+558		Castle Ward
+559		Hexham
+560		Haltwhistle
+561		Bellingham
+562		Morpeth
+563		Alnwick
+564		Belford
+565		Berwick
+566		Glendale
+567		Rothbury
+568		Alston
+569		Penrith
+570		Brampton
+571		Longtown
+572		Carlisle
+573		Wigton
+574		Cockermouth
+575		Whitehaven
+576		Bootle
+577		East Ward
+578		West Ward
+579		Kendal
+580		Chepstow
+581		Monmouth
+582		Abergavenny
+583		Bedwelty
+584		Pontypool
+585		Newport
+586		Cardiff
+587		Pontypridd
+588		Merthyr Tydfil
+589		Bridgend
+590		Neath
+591		Pontardawe
+592		Swansea
+593		Gower
+594		Llanelly
+595		Llandovery
+596		Llandilofawr
+597		Carmarthen
+598		Narberth
+599		Pembroke
+600		Haverfordwest
+601		Cardigan
+602		Newcastle in Emlyn
+603		Lampeter
+604		Aberayron
+605		Aberystwith
+606		Tregaron
+607		Builth
+608		Brecknock
+609		Crickhowell
+610		Hay
+611		Knighton
+612		Rhayader
+613		Machynlleth
+614		Newtown
+615		Forden
+616		Llanfyllin
+617		Holywell
+618		Wrexham
+619		Ruthin
+620		St Asaph
+621		Llanrwst
+622		Corwen
+623		Bala
+624		Dolgelley
+625		Festinog
+626		Pwllheli
+627		Carnarvon
+628		Bangor
+629		Conway
+630		Anglesey
+631		Isle of Man
+632		Jersey
+633		Guernsey
+634		Adjacent Islands
+635		Shetland
+636		Orkney
+637		Caithness
+638		Sutherland
+639		Ross and Cromarty
+640		Inverness
+641		Nairn
+642		Elgin
+643		Banff
+644		Aberdeen
+645		Kincardine
+646		Forfar
+647		Perth
+648		Fife
+649		Kinross
+650		Clackmannan
+651		Stirling
+652		Dumbarton
+653		Argyll
+654		Bute
+655		Renfrew
+656		Ayr
+657		Lanark
+658		Linlithgow
+659		Edinburgh
+660		Haddington
+661		Berwick
+662		Peebles
+663		Selkirk
+664		Roxburgh
+665		Dumfries
+666		Kirkcudbright
+667		Wigtown
+999		On board ship - no parish of landing
+
+ SUBDISGB		Sub-district, Britain
+999999		On board ship - no parish of landing
+001001		St Mary Paddington
+001002		St John Paddington
+001003		Kensington Town
+001004		Brompton
+002001		St Peter Hammersmith
+002002		St Paul Hammersmith
+002003		Fulham
+003001		Chelsea South
+003002		Chelsea North-West
+003003		Chelsea North-East
+004001		Hanover Square
+004002		Mayfair
+004003		Belgrave
+004004		St John Westminster
+004005		St Margaret Westminster
+005001		Golden Square
+005002		Berwick Street
+005003		St Anne Soho
+006001		All Souls
+006002		Cavendish Square
+006003		Rectory
+006004		St Mary
+006005		Christchurch
+006006		St John
+007001		Hampstead
+008001		Regents Park
+008002		Tottenham Court
+008003		Grays Inn Lane
+008004		Somers Town
+008005		Camden Town
+008006		Kentish Town
+009001		Islington West
+009002		Islington East
+010001		Stoke Newington
+010002		Stamford Hill
+010003		West Hackney
+010004		Hackney
+010005		South Hackney
+011001		St George Bloomsbury
+011002		St Giles South
+011003		St Giles North
+012001		St Martin in the Fields
+012002		St Mary-le-Strand
+012003		St Clement Danes
+013001		St George the Martyr
+013002		St Andrew Eastern
+013003		Saffron Hill
+013004		St James Clerkenwell
+013005		Amwell
+013006		Pentonville
+013007		Goswell Street
+013008		Old Street
+013009		City Road
+013010		Whitecross Street
+013011		Finsbury
+014001		St Botolph
+014002		Cripplegate
+014003		St Sepulchre
+014004		St Bride
+014005		Castle Baynard
+014006		Allhallows Barking
+014007		Broad Street
+015001		Holywell
+015002		St Leonard
+015003		Hoxton New Town
+015004		Hoxton Old Town
+015005		Haggerston
+016001		Hackney Road
+016002		Green
+016003		Church
+016004		Town
+017001		Spitalfields
+017002		Mile End New Town
+017003		Whitechapel North
+017004		Whitechapel Church
+017005		Goodmans Fields
+017006		Aldgate
+018001		St Mary
+018002		St Paul
+018003		St John
+019001		Shadwell
+019002		Ratcliff
+019003		Limehouse
+020001		Mile End Old Town Western
+020002		Mile End Old Town Eastern
+021001		Bow
+021002		Bromley
+021003		Poplar
+022001		Christchurch Southwark
+022002		St Saviour Southwark
+022003		Kent Road
+022004		Borough Road
+022005		London Road
+022006		Trinity Newington
+022007		St Peter Walworth
+022008		St Mary Newington
+023001		St Olave Southwark
+023002		St John Horsleydown
+023003		Leather Market
+023004		St Mary Magdalen
+023005		St James Bermondsey
+023006		Rotherhithe
+024001		Waterloo Road First
+024002		Waterloo Road Second
+024003		Lambeth Church First
+024004		Lambeth Church Second
+024005		Kennington First
+024006		Kennington Second
+024007		Brixton
+024008		Norwood
+025001		Clapham
+025002		Battersea
+025003		Wandsworth
+025004		Putney
+025005		Streatham
+026001		Dulwich
+026002		Camberwell
+026003		Peckham
+026004		St George
+027001		St Paul Deptford
+027002		St Nicholas Deptford
+027003		Greenwich West
+027004		Greenwich East
+028001		Eltham
+028002		Lee
+028003		Lewisham
+028004		Sydenham
+029001		Charlton
+029002		Woolwich Dockyard
+029003		Woolwich Arsenal
+029004		Plumstead West
+029005		Plumstead East
+030001		Carshalton
+030002		Epsom
+030003		Leatherhead
+031001		Walton
+031002		Chertsey
+031003		Chobham
+032001		Woking
+032002		Ripley
+032003		Albury
+032004		Guildford
+032005		Godalming
+033001		Frimley
+033002		Farnham
+034001		Witley
+034002		Cranley
+035001		Capel
+035002		Dorking
+036001		Reigate
+036002		Horley
+037001		Godstone
+038001		Croydon
+038002		Mitcham
+039001		Wimbledon
+039002		Kingston
+039003		Esher
+039004		Hampton
+040001		Richmond
+040002		Mortlake
+041001		Bromley
+041002		Chislehurst
+042001		Bexley
+042002		Dartford
+042003		Farningham
+043001		Gravesend
+044001		Northfleet
+044002		Strood
+045001		Hoo
+046001		Rochester
+046002		Gillingham
+047001		Aylesford
+047002		East Peckham
+047003		Wrotham
+048001		Shoreham
+048002		Sevenoaks
+048003		Penshurst
+049001		Tunbridge Wells
+049002		Tunbridge
+049003		Brenchley
+050001		Yalding
+050002		Marden
+050003		Loose
+050004		West Maidstone
+050005		East Maidstone
+051001		Hollingbourn
+051002		Lenham
+051003		Headcorn
+052001		Cranbrook
+052002		Hawkhurst
+053001		Rolvenden
+053002		Tenterden
+054001		Calehill
+054002		Ashford
+055001		Aldington
+055002		Brabourne
+055003		Wye
+056001		Chartham
+056002		Barham
+057001		Canterbury
+058001		Sturry
+058002		Herne
+058003		Whitstable
+059001		Boughton
+059002		Faversham
+059003		Teynham
+060001		Milton
+061001		Minster
+061002		Eastchurch
+062001		Minster
+062002		Margate
+062003		Ramsgate
+063001		Sandwich
+063002		Wingham
+063003		Eythorn
+063004		Deal
+064001		St James
+064002		St Mary
+064003		Hougham
+065001		Folkestone
+065002		Elham
+065003		Hythe
+066001		New Romney
+066002		Lydd
+067001		Rye
+067002		Beckley
+068001		Ore
+068002		All Saints
+068003		St Mary in the Castle
+069001		Bexhill
+069002		Ewhurst
+069003		Battle
+070001		Westham
+070002		Eastbourne
+071001		Hailsham
+071002		Hellingly
+072001		Ticehurst
+072002		Salehurst
+072003		Wadhurst
+072004		Frant
+073001		Rotherfield
+073002		Framfield
+073003		Isfield
+073004		Maresfield
+074001		Withyham
+074002		East Grinstead
+074003		Worth
+075001		Lindfield
+075002		Cuckfield
+075003		Hurstpierpoint
+076001		Ditchling
+076002		Chailey
+076003		Lewes
+076004		West Firle
+076005		Newhaven
+076006		Rottingdean
+077001		Kemp Town
+077002		St Peter
+077003		The Palace
+078001		Shoreham
+078002		Steyning
+079001		South Horsham
+079002		North Horsham
+079003		West Horsham
+080001		Petworth Northern
+080002		Petworth Southern
+081001		Pulborough
+081002		Washington
+082001		Worthing
+082002		Littlehampton
+082003		Arundel
+083001		Manhood
+083002		Wyke
+083003		South Bersted
+083004		Yapton
+083005		Boxgrove
+083006		Singleton
+084001		Chichester
+085001		Midhurst
+085002		Fernhurst
+085003		Harting
+086001		Westbourne
+087001		Havant
+088001		Kingston
+088002		Portsea Town
+088003		Portsmouth Town
+088004		Landport
+089001		Alverstoke
+090001		Fareham
+090002		Titchfield
+091001		Cowes
+091002		Newport
+091003		Ryde
+091004		Godshill
+091005		Calbourne
+092001		Lymington
+092002		Milford
+093001		Christchurch
+094001		Ringwood
+095001		Fordingbridge
+096001		Lyndhurst
+096002		Fawley
+096003		Eling
+097001		Southampton
+098001		St Mary Extra
+098002		South Stoneham
+098003		Millbrook
+099001		Romsey
+099002		Michelmersh
+100001		Broughton
+100002		Stockbridge
+101001		Micheldever
+101002		The Worthys
+101003		Winchester
+101004		Twyford
+101005		Hursley
+102001		Bishops Waltham
+102002		West Meon
+102003		Hambledon
+103001		Horndean
+104001		Petersfield
+104002		East Meon
+105001		Ropley
+105002		Alresford
+106001		Alton
+106002		Binsted
+107001		Odiham
+107002		Farnborough
+107003		Hartley-Wintney
+108001		Basingstoke
+108002		Bramley
+108003		Dummer
+109001		Whitchurch
+110001		Longparish
+110002		Amport
+110003		Andover
+110004		Hurstbourne Tarrant
+111001		Highclere
+111002		Kingsclere
+112001		Thatcham
+112002		Newbury
+112003		Speen
+113001		Kintbury
+113002		Hungerford
+113003		Lambourn
+114001		Shrivenham
+114002		Faringdon
+114003		Buckland
+115001		Fyfield
+115002		Abingdon
+115003		Cumnor
+115004		Nuneham-Courtney
+115005		Sutton-Courtney
+116001		Wantage
+116002		Ilsley
+116003		Hendred
+117001		Cholsey
+117002		Wallingford
+118001		Bucklebury
+118002		Mortimer
+118003		Tilehurst
+119001		St Mary
+119002		St Lawrence
+119003		St Giles
+120001		Wokingham
+120002		Wargrave
+121001		Bray
+121002		Cookham
+122001		Bracknell
+122002		Sandhurst
+123001		Egham
+123002		Windsor
+124001		Sunbury
+124002		Staines
+125001		Hillingdon
+125002		Uxbridge
+125003		Hayes
+126001		Isleworth
+126002		Twickenham
+126003		Brentford
+126004		Chiswick
+126005		Acton
+127001		Harrow
+127002		Edgware
+127003		Willesden
+127004		Hendon
+128001		South Mimms
+128002		Barnet
+128003		Finchley
+129001		Hornsey
+129002		Tottenham
+129003		Edmonton
+129004		Enfield
+129005		Waltham Abbey
+129006		Cheshunt
+130001		Hoddesdon
+130002		Stanstead
+130003		Ware
+130004		Standon
+131001		Sawbridgeworth
+131002		Stansted
+131003		Bishop Stortford
+131004		Braughing
+132001		Buntingford
+132002		Royston
+132003		Melbourn
+133001		Baldock
+133002		Hitchin
+134001		Watton
+134002		Hertford
+135001		Hatfield
+135002		Welwyn
+136001		Harpenden
+136002		St Albans
+137001		Bushey
+137002		Watford
+137003		Rickmansworth
+137004		Abbots Langley
+138001		Kings Langley
+138002		Hemel Hempstead
+138003		Flamstead
+139001		Berkhampstead
+139002		Tring
+140001		Missenden
+140002		Chesham
+140003		Amersham
+140004		Chalfont
+140005		Beaconsfield
+141001		Iver
+141002		Eton
+141003		Burnham
+142001		High Wycombe
+142002		Great Marlow
+142003		West Wycombe
+142004		Wendover
+142005		Princes Risborough
+143001		Haddenham
+143002		Aylesbury
+143003		Aston-Clinton
+143004		Waddesdon
+144001		Winslow
+145001		Fenny Stratford
+145002		Newport Pagnell
+145003		Olney
+146001		Leckhampstead
+146002		Buckingham
+146003		Tingewick
+147001		Henley
+147002		Watlington
+148001		Lewknor
+148002		Thame
+148003		Brill
+149001		Wheatley
+149002		St Clement
+150001		Oxford
+151001		Bletchington
+151002		Bicester
+152001		Deddington
+152002		Woodstock
+153001		Ensham
+153002		Bampton
+153003		Witney
+153004		Burford
+154001		Charlbury
+154002		Chipping Norton
+155001		Bloxham
+155002		Swalcliffe
+155003		Cropredy
+155004		Banbury
+156001		Brackley
+156002		Sulgrave
+157001		Abthorpe
+157002		Towcester
+158001		Potterspury
+159001		Brafield
+159002		Hardingstone
+159003		Milton
+160001		St Giles
+160002		All Saints
+160003		Bugbrooke
+161001		Weedon
+161002		Daventry
+161003		Long Buckby
+162001		Spratton
+162002		Moulton
+162003		Brixworth
+163001		Earls Barton
+163002		Higham-Ferrers
+163003		Wellingborough
+164001		Kettering
+164002		Rothwell
+164003		Corby
+165001		Thrapston
+165002		Raunds
+166001		Oundle
+166002		Weldon
+166003		Fotheringhay
+167001		Stilton
+167002		Peterborough
+167003		Crowland
+167004		Thorney
+168001		Ramsey
+168002		Sawtry
+168003		Spaldwick
+168004		Huntingdon
+169001		Warboys
+169002		Somersham
+169003		Swavesey
+169004		St Ives
+170001		St Neots
+170002		Kimbolton
+171001		Riseley
+171002		Sharnbrook
+171003		Harrold
+171004		Turvey
+171005		Bedford and Kempston
+171006		Bedford and Cardington
+171007		Barford
+172001		Potton
+172002		Biggleswade
+173001		Shillington
+173002		Ampthill
+173003		Cranfield
+174001		Woburn
+174002		Toddington
+175001		Leighton Buzzard
+175002		Wing
+175003		Ivinghoe
+175004		Edlesborough
+176001		Dunstable
+176002		Luton
+177001		Caxton
+178001		Willingham
+178002		Fulbourn
+178003		Shelford
+179001		St Andrew the Less
+179002		St Mary the Great
+179003		St Andrew the Great
+179004		St Giles
+180001		Duxford
+180002		Linton
+180003		Balsham
+181001		Cheveley
+181002		Newmarket
+181003		Bottisham
+181004		Gazeley
+181005		Soham
+182001		Haddenham
+182002		Sutton
+182003		Ely
+182004		Littleport
+183001		Chatteris
+183002		March
+184001		Whittlesey
+185001		Leverington
+185002		Wisbech
+185003		Walpole St Peter
+185004		Terrington St Clement
+185005		Walsoken
+185006		Upwell
+186001		Stratford
+186002		West Ham
+186003		Leyton
+186004		Walthamstow
+187001		Chigwell
+187002		Epping
+187003		Harlow
+188001		Bobbingworth
+188002		Chipping Ongar
+189001		Romford
+189002		Ilford
+189003		Barking Town
+189004		Hornchurch
+190001		Grays
+190002		Orsett
+191001		Brentwood
+191002		Great Burstead
+191003		Wickford
+192001		Ingatestone
+192002		Chelmsford
+192003		Writtle
+192004		Great Waltham
+192005		Great Baddow
+193001		Rayleigh
+193002		Prittlewell
+193003		Rochford
+193004		Great Wakering
+194001		Southminster
+194002		Bradwell
+194003		All Saints
+194004		St Peter
+194005		Tollesbury
+195001		Thorpe
+195002		Harwich
+195003		Manningtree
+195004		Ardleigh
+196001		Colchester First Ward
+196002		Colchester Second Ward
+196003		Colchester Third Ward
+197001		Wivenhoe
+197002		Peldon
+197003		Stanway
+197004		Fordham
+197005		Dedham
+198001		Halstead
+198002		Hedingham
+199001		Finchingfield
+199002		Bocking
+199003		Coggeshall
+199004		Kelvedon
+199005		Witham
+199006		Braintree
+200001		Stebbing
+200002		Dunmow
+200003		Hatfield
+200004		Thaxted
+201001		Newport
+201002		Saffron-Walden
+201003		Radwinter
+202001		Haverhill
+202002		Wickhambrook
+202003		Clare
+203001		Bulmer
+203002		Bures
+203003		Sudbury
+203004		Melford
+203005		Hartest
+204001		Lavenham
+204002		Hadleigh
+205001		Rougham
+205002		Fornham
+205003		Ixworth
+206001		Bury St Edmunds
+207001		Worlington
+207002		Lakenheath
+208001		Walsham-le-Willows
+208002		Rattlesden
+208003		Stowmarket
+209001		Mendlesham
+209002		Botesdale
+209003		Eye
+210001		Stradbroke
+210002		Dennington
+211001		Coddenham
+211002		Needham Market
+212001		Capel St Mary
+212002		Holbrook
+213001		St Matthew
+213002		St Clement
+213003		St Margaret
+214001		Carlford
+214002		Colneis
+214003		Woodbridge and Wilford
+215001		Earl-Soham
+215002		Framlingham
+215003		Orford
+215004		Aldeburgh
+215005		Saxmundham
+216001		Westleton
+216002		Halesworth
+216003		Wenhaston
+217001		Bungay
+217002		Beccles
+218001		Kessingland
+218002		Lowestoft
+218003		Gorleston
+219001		Yarmouth Southern
+219002		Yarmouth Northern
+220001		East Flegg
+220002		West Flegg
+221001		Ludham
+221002		Smallburgh
+221003		Stalham
+221004		Bacton
+222001		North Walsham
+222002		Cromer
+222003		Holt
+223001		Eynsford
+223002		Buxton
+224001		St Faiths
+224002		Sprowston
+225001		Coslany
+225002		East Wymer
+225003		Conisford
+225004		Mancroft
+225005		West Wymer
+226001		Costessey
+226002		Wymondham
+227001		Humbleyard
+227002		Henstead
+228001		Blofield
+228002		South Walsham
+229001		Aldeby
+229002		Loddon
+229003		Woodton
+230001		Harleston
+230002		Diss
+230003		Stratton
+230004		Forncett
+231001		Banham
+231002		Kenninghall
+232001		Attleborough
+232002		Watton
+233001		Shipdham
+233002		Mattishall
+233003		Bawdeswell
+233004		East Dereham
+233005		Litcham
+233006		North Elmham
+234001		Fakenham
+234002		Walsingham
+234003		Wells
+235001		Burnham
+235002		Snettisham
+235003		Docking
+236001		Hillington
+236002		Gayton
+236003		Middleton
+236004		Castle Rising
+237001		Kings Lynn North
+237002		Kings Lynn South
+238001		Wiggenhall
+238002		Downham
+238003		Fincham
+239001		Swaffham
+240001		Methwold
+240002		Thetford
+241001		Highworth
+241002		Swindon
+242001		Wootton-Bassett
+242002		Cricklade
+243001		Malmesbury Eastern
+243002		Malmesbury Western
+244001		Castle Combe
+244002		Corsham
+244003		Chippenham
+244004		Christian Malford
+245001		Calne
+246001		Marlborough
+247001		Devizes
+247002		Lavington
+247003		Bromham
+248001		Melksham
+248002		Trowbridge
+249001		Bradford South-Eastern
+249002		Bradford North-Western
+250001		Bradley
+250002		Edington
+250003		Westbury
+251001		Warminster
+251002		Longbridge-Deverill
+251003		Heytesbury
+252001		Netheravon
+252002		Collingbourne
+253001		Orcheston
+253002		Amesbury
+253003		Winterbourne
+254001		Alderbury
+254002		Downton
+254003		Britford
+254004		Salisbury
+255001		Wilton
+255002		Bishopstone
+256001		Donhead
+256002		Tisbury
+256003		Hindon
+257001		Mere
+258001		Shaftesbury
+258002		Fontmell
+258003		Gillingham
+259001		Stalbridge
+259002		Sturminster
+260001		Milton Abbas
+260002		Blandford
+261001		Cranborne
+261002		Witchampton
+261003		Wimborne
+262001		Canford
+262002		Poole
+262003		Lytchett
+263001		Swanage
+263002		Corfe Castle
+263003		Wareham
+263004		Bere Regis
+264001		Upway
+264002		Weymouth
+264003		Portland
+264004		Abbotsbury
+265001		Dorchester
+265002		Puddletown
+265003		Maiden-Newton
+265004		Cerne
+266001		Yetminster
+266002		Sherborne
+266003		Bradford Abbas
+267001		Evershot
+267002		Netherbury
+267003		Beaminster
+268001		Burton-Bradstock
+268002		Bridport
+268003		Whitchurch-Canonicorum
+269001		Lyme
+269002		Axminster
+269003		Chardstock
+269004		Colyton
+270001		Honiton
+270002		Ottery St Mary
+271001		East Budleigh
+271002		Exmouth
+271003		Woodbury
+271004		Broad Clist
+271005		Topsham
+271006		Heavitree
+271007		St Thomas
+271008		Alphington
+271009		Christow
+271010		Kenton
+272001		Exeter Eastern
+272002		Exeter Western
+273001		Teignmouth
+273002		Chudleigh
+273003		Moreton Hampstead
+273004		Ashburton
+273005		Newton Abbot
+273006		Torquay
+274001		Paignton
+274002		Brixham
+274003		Dartmouth
+274004		Totnes
+274005		Buckfastleigh
+274006		Ugborough
+274007		Harberton
+275001		Blackawton
+275002		Stokenham
+275003		West Alvington
+275004		Kingsbridge
+275005		Modbury
+276001		Yealmpton
+276002		Plympton
+277001		Charles
+277002		St Andrew
+278001		East Stonehouse
+279001		St Aubyn
+279002		Morice
+279003		Stoke
+279004		Tamar
+280001		Calstock
+280002		Tavistock
+280003		Milton Abbot
+280004		Lifton
+281001		Bratton-Clovelly
+281002		Hatherleigh
+281003		Okehampton
+281004		Chagford
+281005		North Tawton
+282001		Morchard Bishop
+282002		Bow
+282003		Crediton
+282004		Cheriton Fitzpaine
+283001		Silverton
+283002		Cullompton
+283003		Uffculme
+283004		Tiverton
+283005		Washfield
+283006		Bampton
+284001		Witheridge
+284002		Chulmleigh
+284003		South Molton
+285001		Barnstaple
+285002		Paracombe
+285003		Combmartin
+285004		Ilfracombe
+285005		Braunton
+285006		Bishops Tawton
+286001		High Bickington
+286002		Winkleigh
+286003		Dolton
+286004		Shebbear
+286005		Great Torrington
+287001		Bideford
+287002		Northam
+287003		Parkham
+287004		Hartland
+287005		Bradworthy
+288001		Milton-Damerel
+288002		Holsworthy
+288003		Black Torrington
+288004		Broadwoodwidger
+288005		Clawton
+289001		Kilkhampton
+289002		Stratton
+289003		Week St Mary
+290001		Boscastle
+290002		Camelford
+291001		Altarnon
+291002		North Petherwin
+291003		St Stephen
+291004		Launceston
+291005		Northill
+292001		Antony
+292002		St Germans
+292003		Saltash
+293001		Callington
+293002		Liskeard
+293003		Looe
+293004		Lerrin
+294001		Lanlivery
+294002		St Mabyn
+294003		Bodmin
+294004		Egloshayle
+295001		Padstow
+295002		St Columb
+295003		Newlyn
+296001		Fowey
+296002		St Austell
+296003		Mevagissey
+296004		Grampound
+297001		Probus
+297002		St Just
+297003		St Agnes
+297004		St Clement
+297005		Kenwyn
+297006		Kea
+298001		Mylor
+298002		Falmouth
+298003		Penryn
+298004		Constantine
+299001		Wendron
+299002		Helston
+299003		St Keverne
+299004		Breage
+299005		Crowan
+300001		Gwennap
+300002		Redruth
+300003		Illogan
+300004		Camborne
+300005		Phillack
+301001		Uny-Lelant
+301002		St Ives
+301003		Marazion
+301004		Penzance
+301005		St Just in Penwith
+301006		St Buryan
+302001		Scilly Islands
+303001		Minehead
+303002		Dunster
+303003		Williton
+303004		Stogursey
+303005		Stogumber
+304001		Dulverton
+305001		Wiveliscombe
+305002		Milverton
+305003		Wellington
+305004		Culmstock
+306001		Pitminster
+306002		North Curry
+306003		Taunton St Mary Magdalen
+306004		Taunton St James
+306005		Bishops Lydeard
+307001		Stowey
+307002		North Petherton
+307003		Middlezoy
+307004		Bridgwater
+307005		Huntspill
+307006		Polden Hill
+308001		Somerton
+308002		Langport
+308003		Curry-Rivell
+309001		Ilminster
+309002		Combe St Nicholas
+309003		Chard
+309004		Crewkerne
+310001		Coker
+310002		South Petherton
+310003		Martock
+310004		Yeovil
+310005		Ilchester
+311001		Castle Carey
+311002		Milborne Port
+311003		Wincanton
+311004		Bruton
+312001		Nunney
+312002		Frome
+312003		Road
+312004		Kilmersdon
+313001		Shepton Mallet
+313002		Evercreech
+314001		Wells
+314002		Glastonbury
+315001		Wedmore
+315002		Burnham
+315003		Banwell
+315004		Axbridge
+315005		Blagdon
+316001		Harptree
+316002		Chew Magna
+316003		Clutton
+316004		Midsomer-Norton
+317001		Twerton
+317002		Bathwick
+317003		Lyncombe
+317004		Walcot
+317005		Lansdown
+317006		Batheaston
+318001		Bitton
+318002		Oldland
+318003		Newton
+318004		Keynsham
+319001		Bedminster
+319002		Long Ashton
+319003		Yatton
+319004		St George
+320001		St Mary Redcliff
+320002		Castle Precincts
+320003		St Paul
+320004		St James
+320005		St Augustine
+321001		Clifton
+321002		Ashley
+321003		St George
+321004		SS Philip and Jacob
+321005		Westbury
+321006		Stapleton
+322001		Chipping Sodbury
+322002		Marshfield
+322003		Hawkesbury
+322004		Iron-Acton
+323001		Almondsbury
+323002		Thornbury
+323003		Berkeley
+324001		Wotton under Edge
+324002		Uley
+324003		Dursley
+325001		Newnham
+325002		Huntley
+326001		Newent
+326002		Redmarley
+327001		Kingsholm
+327002		St Nicholas
+327003		St John the Baptist
+327004		South Hamlet
+328001		Haresfield
+328002		Frampton
+329001		Stonehouse
+329002		Painswick
+329003		Bisley
+329004		Stroud
+329005		Rodborough
+329006		Minchinhampton
+329007		Horsley
+330001		Didmarton
+330002		Tetbury
+331001		Cotswold
+331002		Cirencester
+331003		Fairford
+332001		Bibury
+332002		Chedworth
+333001		Bourton on the Water
+333002		Stow on the Wold
+334001		Guiting
+334002		Cleeve
+335001		Charlton Kings
+335002		Cheltenham
+336001		Tewkesbury
+336002		Overbury
+337001		Ledbury
+337002		Yarkhill
+338001		Sollershope
+338002		Ross
+338003		St Weonards
+339001		Dewchurch
+339002		Fownhope
+339003		Burghill
+339004		Hereford City
+339005		Madley
+339006		Kentchurch
+339007		Clodock
+340001		Weobly
+340002		Dilwyn
+341001		Bromyard
+341002		Bishops Frome
+341003		Brockhampton
+342001		Leominster
+342002		Bodenham
+342003		Kingsland
+343001		Brilley
+343002		Radnor
+343003		Kington
+343004		Kinsham
+344001		Leintwardine
+344002		Ludlow
+344003		Cainham
+344004		Munslow
+344005		Diddlebury
+345001		Clun
+345002		Bishops Castle
+345003		Norbury
+345004		Lydbury
+346001		Church Stretton
+346002		Wall
+347001		Cleobury Mortimer
+347002		Stottesden
+348001		Chetton
+348002		Bridgnorth
+348003		Worfield
+349001		Albrighton
+349002		Shifnal
+350001		Dawley
+350002		Madeley
+350003		Broseley
+350004		Much Wenlock
+351001		Condover
+351002		Pontesbury
+351003		Westbury
+351004		Alberbury
+351005		Montford
+351006		Battlefield
+351007		Atcham
+351008		St Mary
+351009		St Chad
+352001		Knockin
+352002		Llansilin
+352003		Oswestry
+352004		St Martin
+353001		Overton
+353002		Hanmer
+353003		Ellesmere
+353004		Baschurch
+354001		Wem
+354002		Prees
+355001		Whitchurch
+355002		Malpas
+356001		Moreton Say
+356002		Market Drayton
+356003		Hodnet
+357001		Ercall Magna
+357002		Wellington
+357003		Wombridge
+358001		Newport
+358002		Gnosall
+359001		Stafford
+359002		Colwich
+360001		Stone
+360002		Eccleshall
+360003		Trentham
+361001		Whitmore
+361002		Newcastle under Lyme
+361003		Audley
+362001		Wolstanton
+362002		Tunstall
+362003		Burslem
+363001		Hanley
+363002		Shelton
+363003		Stoke upon Trent
+363004		Fenton
+363005		Longton
+364001		Norton
+364002		Leek
+364003		Leek Frith
+364004		Longnor
+365001		Alton
+365002		Ipstones
+365003		Dilhorne
+365004		Cheadle
+366001		Uttoxeter
+366002		Abbots Bromley
+366003		Sudbury
+367001		Tutbury
+367002		Repton
+367003		Gresley
+367004		Burton upon Trent
+368001		Tamworth
+368002		Fazeley
+369001		Lichfield
+369002		Yoxall
+369003		Rugeley
+370001		Penkridge
+370002		Brewood
+370003		Cannock
+371001		Tettenhall
+371002		Kinver
+371003		Wombourn
+371004		Wolverhampton Western
+371005		Wolverhampton Eastern
+371006		Willenhall
+371007		Bilston
+372001		Darlaston
+372002		Bloxwich
+372003		Walsall
+372004		Aldridge
+373001		Handsworth
+373002		Oldbury
+373003		West Bromwich South-West
+373004		West Bromwich North-East
+373005		Wednesbury
+374001		Rowley Regis
+374002		Tipton
+374003		Sedgley
+374004		Dudley
+375001		Halesowen
+375002		Stourbridge
+375003		Kingswinford
+376001		Chaddesley-Corbett
+376002		Wolverley
+376003		Kidderminster
+376004		Lower Mitton
+376005		Bewdley
+377001		Tenbury
+377002		Bockleton
+378001		Martley
+378002		Witley
+378003		Holt
+378004		Leigh
+379001		West Worcester
+379002		North Worcester
+379003		South Worcester
+380001		Hanley Castle
+380002		Upton on Severn
+380003		Kempsey
+381001		Evesham
+381002		Broadway
+382001		Eckington
+382002		Pershore
+382003		Upton Snodsbury
+383001		Claines
+383002		Ombersley
+383003		Droitwich
+384001		Bromsgrove
+384002		Belbroughton
+384003		Tardebigg
+385001		Kings Norton
+385002		Edgbaston
+385003		Harborne
+386001		Lady Wood
+386002		St Thomas
+386003		St Martin
+386004		St George
+386005		All Saints
+387001		Deritend
+387002		Duddeston
+387003		Erdington
+387004		Sutton Coldfield
+388001		Coleshill
+388002		Meriden
+389001		Atherstone
+390001		Nuneaton
+391001		Foleshill
+391002		Sowe
+392001		St John
+392002		Holy Trinity
+393001		Rugby
+393002		Crick
+393003		Dunchurch
+394001		Solihull
+394002		Knowle
+394003		Tanworth
+395001		Warwick
+395002		Leamington
+395003		Kenilworth
+395004		Radford
+396001		Kineton
+396002		Wellesbourne
+396003		Stratford on Avon
+396004		Old Stratford
+396005		Wootton Wawen
+397001		Studley
+397002		Alcester
+397003		Feckenham
+397004		Bidford
+398001		Campden
+398002		Moreton
+398003		Shipston on Stour
+398004		Halford
+399001		Southam
+400001		Lutterworth
+401001		Market Harborough
+402001		Billesdon
+403001		Wigston
+403002		Enderby
+404001		Burbage
+404002		Hinckley
+404003		Earl Shilton
+405001		Market Bosworth
+405002		Ibstock
+406001		Measham
+406002		Hartshorn
+406003		Ashby-de-la-Zouch
+406004		Whitwick
+407001		Loughborough
+407002		Leake
+408001		Barrow upon Soar
+408002		Quorndon
+408003		Rothley
+408004		Syston
+409001		East Leicester
+409002		West Leicester
+410001		Somerby
+410002		Melton-Mowbray
+410003		Clawson
+410004		Waltham
+411001		Oakham
+412001		Uppingham
+412002		Great Easton
+412003		Barrowden
+413001		Stamford
+413002		Barnack
+414001		Corby
+414002		Aslackby
+414003		Bourn
+414004		Deeping
+415001		Pinchbeck
+415002		Donington
+415003		Gosberton
+415004		Spalding
+415005		Moulton
+415006		Deeping St Nicholas
+416001		Gedney Hill
+416002		Long Sutton
+416003		Holbeach
+417001		Kirton in Holland
+417002		Bennington
+417003		Sibsey
+417004		Boston
+417005		Swineshead
+418001		Billinghay
+418002		Sleaford
+418003		Leadenham
+418004		Heckington
+418005		Aswarby
+419001		Colsterworth
+419002		Denton
+419003		Grantham
+420001		Lincoln South-West
+420002		Lincoln Home
+420003		Lincoln North-East
+421001		Wragby
+421002		Horncastle
+421003		Tetford
+421004		Tattershall
+422001		Stickney
+422002		Wainfleet
+422003		Spilsby
+422004		Burgh
+422005		Alford
+423001		Withern
+423002		Louth
+423003		Binbrook
+423004		Saltfleet
+423005		Tetney
+424001		Great Grimsby
+424002		Caistor
+424003		Market Rasen
+425001		Brigg
+425002		Winterton
+425003		Barton
+426001		Owston
+426002		Scotter
+426003		Misterton
+426004		Gainsborough
+426005		Willingham
+426006		Marton
+427001		Gringley
+427002		Clarborough
+427003		East Retford
+427004		Tuxford
+428001		Worksop
+428002		Carlton
+428003		Anston
+428004		Carburton
+429001		Warsop
+429002		Pleasley
+429003		Blackwell
+429004		Sutton in Ashfield
+429005		Mansfield
+429006		Blidworth
+430001		Greasley
+430002		Ilkeston
+430003		Basford
+430004		Bulwell
+430005		Arnold
+430006		Carlton
+430007		Wilford
+431001		Lenton
+431002		Radford
+431003		Hyson Green
+431004		Snenton
+431005		Sherwood
+431006		St Mary
+431007		St Ann
+431008		Byron
+431009		Exchange
+431010		Castle
+431011		Park
+432001		Southwell
+432002		Kneesal
+433001		North Collingham
+433002		Bassingham
+433003		Newark
+433004		Bennington
+433005		Claypole
+434001		Bingham
+434002		Ratcliffe upon Trent
+435001		Castle Donington
+435002		Melbourne
+435003		Shardlow
+435004		Stapleford
+435005		Spondon
+436001		Derby
+437001		Duffield
+437002		Horsley
+437003		Belper
+437004		Ripley
+437005		Alfreton
+437006		Wirksworth
+438001		Brailsford
+438002		Mayfield
+438003		Ashborne
+438004		Calton
+438005		Hartington
+438006		Brassington
+439001		Ashover
+439002		Chesterfield
+439003		Bolsover
+439004		Eckington
+439005		Dronfield
+440001		Bakewell
+440002		Matlock
+440003		Tideswell
+441001		Buxton
+441002		Chapel-en-le-Frith
+442001		Glossop
+442002		Hayfield
+443001		Marple
+443002		Hyde
+443003		Heaton-Norris
+443004		Stockport First
+443005		Stockport Second
+443006		Cheadle
+443007		Hazelgrove
+444001		Prestbury
+444002		Bollington
+444003		Rainow
+444004		East Macclesfield
+444005		West Macclesfield
+444006		Sutton
+444007		Gawsworth
+444008		Alderley
+445001		Wilmslow
+445002		Altrincham
+445003		Lymm
+445004		Knutsford
+446001		Budworth
+446002		Daresbury
+446003		Runcorn
+446004		Frodsham
+447001		Weaverham
+447002		Northwich
+447003		Over
+447004		Middlewich
+448001		Church Hulme
+448002		Congleton
+448003		Sandbach
+449001		Wybunbury
+449002		Nantwich
+449003		Bunbury
+449004		Wrenbury
+450001		Tattenhall
+450002		Chester Castle
+450003		Chester Cathedral
+450004		Hawarden
+451001		Neston
+451002		Eastham
+451003		Woodchurch
+452001		Birkenhead
+452002		Tranmere
+452003		Wallasey
+453001		St Martin
+453002		Howard Street
+453003		Dale Street
+453004		St George
+453005		St Thomas
+453006		Mount Pleasant
+453007		Islington
+454001		Toxteth Park
+455001		Everton
+455002		Kirkdale
+455003		Walton
+455004		Crosby
+455005		Litherland
+455006		West Derby (Municipal)
+455007		West Derby (Rural)
+455008		Wavertree
+456001		Hale
+456002		Much Woolton
+456003		Huyton
+456004		Farnworth
+456005		Prescot
+456006		St Helens
+456007		Rainford
+457001		Bickerstaffe
+457002		Aughton
+457003		Halsall
+457004		Formby
+457005		North Meols
+457006		Tarleton
+457007		Scarisbrick
+457008		Ormskirk
+457009		Lathom
+458001		Standish
+458002		Aspull
+458003		Wigan
+458004		Hindley
+458005		Pemberton
+458006		Upholland
+458007		Ashton in Makerfield
+459001		Newton in Makerfield
+459002		Winwick
+459003		Sankey
+459004		Warrington
+459005		Latchford
+459006		Rixton
+460001		Lowton
+460002		Culcheth
+460003		Westleigh
+460004		Atherton
+461001		Farnworth
+461002		Hulton
+461003		West Houghton
+461004		Halliwell
+461005		Horwich
+461006		Tonge with Haulgh
+461007		Turton
+461008		Edgeworth
+461009		Sharples
+461010		Little Bolton
+461011		Bolton Eastern
+461012		Bolton Western
+461013		Lever
+462001		Holcombe
+462002		Tottington Lower End
+462003		Walmersley
+462004		Birtle
+462005		Heywood
+462006		South Bury
+462007		North Bury
+462008		Elton
+462009		Radcliffe
+462010		Pilkington
+463001		Worsley
+463002		Barton
+463003		Stretford
+464001		Didsbury
+464002		Ardwick
+464003		Chorlton upon Medlock
+464004		Hulme
+465001		Pendleton
+465002		Broughton
+465003		Greengate
+465004		Regent Road
+466001		Ancoats
+466002		Deansgate
+466003		Market Street
+466004		St George
+467001		Newton
+467002		Cheetham
+467003		Failsworth
+467004		Blackley
+467005		Prestwich
+468001		Knott Lanes
+468002		Ashton Town
+468003		Audenshaw
+468004		Denton
+468005		Newton
+468006		Dukinfield
+468007		Hartshead
+468008		Mottram
+468009		Stayley
+469001		Oldham Below Town
+469002		Oldham Above Town
+469003		Chadderton
+469004		Middleton
+469005		Royton
+469006		Crompton
+470001		Butterworth Freehold Side
+470002		Butterworth Lordship Side
+470003		Castleton Further
+470004		Castleton Nearer
+470005		Spotland Nearer Side
+470006		Spotland Further Side
+470007		Wardleworth
+470008		Wuerdle
+470009		Blatchinworth
+470010		Whitworth
+471001		Newchurch
+471002		Rossendale
+471003		Edenfield
+471004		Haslingden
+471005		Accrington
+472001		Burnley
+472002		Padiham
+472003		Colne
+472004		Pendle
+473001		Gisburn
+473002		Slaidburn
+473003		Chipping
+473004		Clitheroe
+473005		Whalley
+474001		Billington
+474002		Harwood
+474003		Mellor
+474004		Blackburn
+474005		Oswaldtwisle
+474006		Darwen
+474007		Witton
+475001		Brindle
+475002		Leyland
+475003		Rivington
+475004		Chorley
+475005		Croston
+476001		Longton
+476002		Trinity
+476003		St Peter
+476004		St John
+476005		Walton-le-Dale
+476006		Alston
+476007		Broughton
+477001		Kirkham
+477002		Lytham
+477003		Poulton-le-Fylde
+478001		Stalmine
+478002		St Michael
+478003		Garstang
+479001		Ellel
+479002		Heaton
+479003		Lancaster
+479004		Warton
+480001		Caton
+480002		Wray
+480003		Tunstal
+480004		Arkholme
+481001		Cartmel
+481002		Colton
+481003		Ulverston
+481004		Dalton
+481005		West Broughton
+481006		Hawkshead
+482001		Barrow in Furness
+483001		Sedbergh
+483002		Garsdale
+483003		Dent
+484001		Bentham
+484002		Settle
+484003		Long Preston
+484004		Kirkby Malham
+484005		Arncliffe
+485001		Kettlewell
+485002		Gargrave
+485003		Barnoldswick
+485004		Kildwick
+485005		Skipton
+485006		Addingham
+485007		Grassington
+486001		Ramsgill
+486002		Pateley Bridge
+486003		Thornthwaite
+486004		Dacre Banks
+487001		Ripon
+487002		Kirkby Malzeard
+487003		Wath
+487004		Dishforth
+488001		Boroughbridge
+488002		Whixley
+488003		Poppleton
+489001		Knaresborough
+489002		Harrogate
+490001		Wetherby
+490002		Boston
+491001		Horsforth
+491002		Fewston
+491003		Otley
+491004		Yeadon
+492001		Bingley
+492002		Keighley
+492003		Haworth
+493001		Hebden Bridge
+493002		Todmorden
+494001		Delph
+494002		Upper Mill
+495001		Slaithwaite
+495002		Honley
+495003		Holmfirth
+495004		Newmill
+495005		Kirkburton
+495006		Almondbury
+495007		Kirkheaton
+495008		Huddersfield
+495009		Lockwood
+495010		Golcar
+496001		Rastrick
+496002		Brighouse
+496003		Southowram
+496004		Halifax
+496005		Elland
+496006		Ripponden
+496007		Sowerby
+496008		Luddenden
+496009		Ovenden
+496010		Northowram
+497001		Cleckheaton
+497002		Drighlington
+497003		North Bierley
+497004		Bowling
+497005		Bradford East End
+497006		Bradford West End
+497007		Horton
+497008		Thornton
+497009		Wilsden
+497010		Shipley
+497011		Idle
+497012		Calverley
+497013		Pudsey
+498001		Hunslet
+498002		Whitkirk
+498003		Rothwell
+499001		Holbeck
+500001		Bramley
+500002		Gildersome
+500003		Wortley
+501001		South-East Leeds
+501002		North Leeds
+501003		West Leeds
+501004		Kirkstall
+501005		Chapeltown
+502001		Morley
+502002		Batley
+502003		Gomersal
+502004		Liversedge
+502005		Mirfield
+502006		Dewsbury
+502007		Soothill
+502008		Ossett
+502009		Thornhill
+503001		Bretton
+503002		Sandal
+503003		Stanley
+503004		Wakefield
+503005		Horbury
+503006		Alverthorpe
+503007		Ardsley
+504001		Knottingley
+504002		Whitley
+504003		Pontefract
+504004		Castleford
+505001		Hemsworth
+506001		Darton
+506002		Barnsley
+506003		Darfield
+506004		Worsbrough
+507001		Cawthorne
+507002		High Hoyland
+507003		Penistone
+507004		Wortley
+507005		Ecclesfield
+507006		Bradfield
+508001		Nether Hallam
+508002		Upper Hallam
+508003		Norton
+508004		Ecclesall Bierlow
+509001		West Sheffield
+509002		North Sheffield
+509003		South Sheffield
+509004		Sheffield Park
+509005		Brightside
+509006		Attercliffe
+509007		Handsworth
+510001		Beighton
+510002		Rotherham
+510003		Kimberworth
+510004		Wath
+510005		Maltby
+511001		Tickhill
+511002		Barmbrough
+511003		Doncaster
+511004		Campsall
+511005		Bawtry
+512001		Epworth
+512002		Thorne
+512003		Crowle
+513001		Swinefleet
+513002		Goole
+513003		Snaith
+514001		Carlton
+514002		Selby
+514003		Riccall
+515001		Aberford
+515002		Tadcaster
+515003		Appleton Roebuck
+516001		Skelton
+516002		Bootham
+516003		Micklegate
+516004		Walmgate
+516005		Escrick
+516006		Dunnington
+516007		Flaxton
+517001		East Stamford Bridge
+517002		Pocklington
+517003		Market Weighton
+518001		Holme
+518002		Bubwith
+518003		Howden
+518004		Newport
+519001		South Cave
+519002		Beverley
+519003		Lockington
+519004		Leven
+520001		Sutton
+520002		Cottingham
+520003		Ferriby
+520004		Hessle
+520005		Hedon
+520006		Drypool
+520007		East Sculcoates
+520008		West Sculcoates
+521001		Humber
+521002		St Mary
+521003		Myton
+522001		Patrington
+523001		Humbleton
+523002		Skirlaugh
+523003		Aldbrough
+523004		Hornsea
+523005		Brandesburton
+524001		Foston
+524002		Driffield
+524003		Bainton
+524004		Langtoft
+525001		Skipsea
+525002		Bridlington
+525003		Hunmanby
+526001		Filey
+526002		Scarborough
+526003		Hutton-Bushell
+526004		Sherburn
+527001		Rillington
+527002		Westow
+527003		Malton
+527004		Hovingham
+527005		Bulmer
+528001		Stillington
+528002		Easingwold
+528003		Coxwold
+529001		Topcliffe
+529002		Pickhill
+529003		Thirsk
+529004		Sutton
+529005		Knayton
+530001		Helmsley
+530002		Oswaldkirk
+530003		Kirkby Moorside
+531001		Lastingham
+531002		Pickering
+531003		Sinnington
+531004		Allerston
+531005		Lockton
+532001		Egton
+532002		Whitby
+532003		Lythe
+533001		Lofthouse
+533002		Marske
+533003		Guisbrough
+533004		Danby
+534001		Middlesbrough
+534002		Ormesby
+534003		Thornaby
+535001		Stokesley
+535002		Hutton
+536001		Appleton upon Wiske
+536002		Northallerton
+537001		Bedale
+537002		Masham
+538001		Middleham
+538002		Leyburn
+539001		Askrigg
+539002		Hawes
+540001		Muker
+540002		Reeth
+541001		Richmond
+541002		Catterick
+541003		Newsham
+541004		Aldbrough
+542001		Darlington
+542002		Aycliffe
+543001		Stockton
+543002		Sedgefield
+544001		Hartlepool
+545001		Bishop Auckland
+545002		Hamsterley
+546001		Staindrop
+546002		Barnard Castle
+546003		Middleton
+547001		St John
+547002		Stanhope
+547003		Wolsingham
+548001		Tanfield
+548002		Lanchester
+549001		St Oswald
+549002		St Nicholas
+550001		Easington
+551001		Houghton-le-Spring
+551002		Hetton-le-Hole
+552001		Chester-le-Street
+552002		Harraton
+553001		North Bishop Wearmouth
+553002		South Bishop Wearmouth
+553003		East Sunderland
+553004		West Sunderland
+553005		Monk Wearmouth
+554001		Westoe
+554002		South Shields
+555001		Heworth
+555002		Gateshead
+555003		Whickham
+555004		Winlaton
+556001		Westgate
+556002		St Andrew
+556003		St Nicholas
+556004		All Saints
+556005		Byker
+557001		Wallsend
+557002		North Shields
+557003		Tynemouth
+557004		Longbenton
+557005		Earsdon
+557006		Blyth
+558001		Ponteland
+558002		Stamfordham
+559001		Bywell
+559002		Hexham
+559003		Allendale
+559004		Chollerton
+560001		Haltwhistle
+561001		Bellingham
+561002		Kirkwhelpington
+562001		Morpeth
+562002		Bedlington
+563001		Warkworth
+563002		Alnwick
+563003		Embleton
+564001		Belford
+565001		Islandshire
+565002		Berwick upon Tweed
+565003		Norhamshire
+566001		Ford
+566002		Wooler
+567001		Rothbury
+567002		Elsdon
+568001		Alston
+569001		Penrith
+569002		Greystoke
+569003		Kirkoswald
+570001		Hayton
+570002		Brampton
+570003		Walton
+571001		High Longtown
+571002		Low Longtown
+572001		Wetheral
+572002		St Cuthbert
+572004		Stanwix
+572005		Burgh
+572006		Dalston
+573001		Wigton
+573002		Abbey Holme
+573003		Caldbeck
+574001		Keswick
+574002		Cockermouth
+574003		Workington
+574004		Maryport
+575001		Harrington
+575002		Whitehaven
+575003		St Bees
+575004		Egremont
+576001		Muncaster
+576002		Bootle
+577001		Appleby
+577002		Kirkby Stephen
+577003		Orton
+578001		Morland
+578002		Lowther
+579001		Ambleside
+579002		Grayrigg
+579003		Kirkby Lonsdale
+579004		Kendal
+579005		Milnthorpe
+580001		Shire Newton
+580002		Chepstow
+580003		Lydney
+581001		Coleford
+581002		Dingestow
+581003		Monmouth
+581004		Trelleck
+582001		Llanarth
+582002		Llanvihangel
+582003		Abergavenny
+582004		Blaenavon
+583001		Aberystruth
+583002		Tredegar
+583003		Rock Bedwelty
+584001		Pontypool
+584002		Llangibby
+584003		Usk
+585001		Caerleon
+585002		Newport
+585003		St Woollos
+585004		Mynyddyslwyn
+586001		Whitchurch
+586002		Cardiff
+586003		St Nicholas
+587001		Pontypridd
+587002		Llantrisaint
+587003		Ystradyfodwg
+588001		Gelligaer
+588002		Lower Merthyr Tydfil
+588003		Upper Merthyr Tydfil
+588004		Aberdare
+589001		Maesteg
+589002		Cowbridge
+589003		Bridgend
+590001		Margam
+590002		Neath
+590003		Ystradvelltey
+590004		Cadoxton
+591001		Pontardawe
+592001		Llandilotalybont
+592002		Llangafelach
+592003		Swansea
+592004		Llansamlet
+593001		Gower Eastern
+593002		Gower Western
+594001		Loughor
+594002		Llanelly
+594003		Pembrey
+594004		Llannon
+595001		Llanddausaint
+595002		Llangadock
+595003		Llansadwrn
+595004		Llandingat
+595005		Llanfairarybryn
+595006		Llanwrtyd
+595007		Cilycwm
+595008		Conwil-Cayo
+596001		Talley
+596002		Llanfynydd
+596003		Llangathen
+596004		Llandilo
+596005		Llandebie
+597001		Llangendeirne
+597002		St Clears
+597003		Carmarthen
+597004		Conwil
+598001		Llanboidy
+598002		Llandissilio
+598003		Amroth
+598004		Narberth
+598005		Slebech
+598006		Begelly
+599001		Tenby
+599002		Pembroke
+599003		Roose
+600001		Milford
+600002		Haverfordwest
+600003		St Davids
+600004		Fishguard
+601001		Newport
+601002		Cardigan
+601003		Llandygwydd
+602001		Kenarth
+602002		Penbryn
+602003		Llandyssil
+603001		Llanybyther
+603002		Pencarreg
+603003		Lampeter
+603004		Llanwenog
+604001		Llandisilio
+604002		Llansaintffraid
+605001		Llanrhystyd
+605002		Aberystwith
+605003		Geneurglynn
+605004		Rheidol
+606001		Gwnnws
+606002		Llangeitho
+606003		Tregaron
+607001		Abergwessin
+607002		Colwyn
+607003		Builth
+608001		Merthyr-Cynog
+608002		Devynnock
+608003		Brecknock
+608004		Penkelly
+608005		Llangorse
+609001		Cwmdv
+609002		Llangunider
+609003		Llangattock
+609004		Llanelly
+609005		Crickhowell
+610001		Talgarth
+610002		Clyro
+610003		Hay
+611001		Presteigne
+611002		Knighton
+611003		Llanbister
+612001		Rhayader
+612002		Nantmel
+613001		Machynlleth
+613002		Pennal
+613003		Darowen
+614001		Upper Llanidloes
+614002		Lower Llanidloes
+614003		Llanwnog
+614004		Kerry
+614005		Newtown
+614006		Tregynon
+615001		Montgomery
+615002		Chirbury
+615003		Welshpool
+616001		Llanfair
+616002		Llansaintffraid
+616003		Llanrhaiadr
+617001		Whitford
+617002		Holywell
+617003		Flint
+617004		Mold
+618001		Holt
+618002		Ruabon
+618003		Wrexham
+619001		Llanarmon
+619002		Ruthin
+619003		Llanelidan
+619004		Gyffylliog
+619005		Llanrhaiadr
+619006		Llandyrnog
+620001		St Asaph
+620002		Abergele
+620003		Denbigh
+621001		Llanrwst
+621002		Bettwsycoed
+621003		Yspytty
+622001		Corwen
+622002		Llangollen
+623001		Bala
+624001		Talyllyn
+624002		Barmouth
+625001		Llanfihangel-y-Traethau
+625002		Festiniog
+625003		Tremadoc
+626001		Criccieth
+626002		Pwllheli
+626003		Aberdaron
+626004		Nevin
+627001		Llandwrog
+627002		Llanrug
+627003		Carnarvon
+627004		Llanidan
+628001		Beaumaris
+628002		Bangor
+628003		Llanllechid
+629001		Conway
+629002		Creuddyn
+629003		Llechwedd-Isaf
+630001		Llangefni
+630002		Bryngwan
+630003		Llandyfrydog
+630004		Amlwch
+630005		Llanddausaint
+630006		Holyhead
+631001		Isle of Man - Patrick
+631002		Isle of Man - German
+631003		Isle of Man - Marown
+631004		Isle of Man - Michael
+631005		Isle of Man - Ballaugh
+631006		Isle of Man - Jurby
+631007		Isle of Man - Andreas
+631008		Isle of Man - Bride
+631009		Isle of Man - Lezayre
+631010		Isle of Man - Maughold
+631011		Isle of Man - Lonan
+631012		Isle of Man - Conchan
+631013		Isle of Man - Braddan
+631014		Isle of Man - St Anne
+631015		Isle of Man - Malew
+631016		Isle of Man - Arbory
+631017		Isle of Man - Rushen
+632001		Jersey - St Helier
+632002		Jersey - St Saviour
+632003		Jersey - St Clement
+632004		Jersey - Gronville
+632005		Jersey - St Martin
+632006		Jersey - Trinity
+632007		Jersey - St John
+632008		Jersey - St Mary
+632009		Jersey - St Ouen
+632010		Jersey - St Peter
+632011		Jersey - St Brelade
+632012		Jersey - St Laurence
+633001		Guernsey - St Peter Port
+633002		Guernsey - St Sampson
+633003		Guernsey - Vale
+633004		Guernsey - St Andrew
+633005		Guernsey - St Martin
+633006		Guernsey - St Mary de Castro
+633007		Guernsey - St Saviour
+633008		Guernsey - St Peter du Bois
+633009		Guernsey - Forest
+633010		Guernsey - Torteval
+634001		Adjacent Islands - Alderney
+634002		Adjacent Islands - Herm
+634003		Adjacent Islands - Jethou
+634004		Adjacent Islands - Le Marchant
+634005		Adjacent Islands - Great Sark
+634006		Adjacent Islands - Little Sark
+634007		Adjacent Islands - Brechou
+635001		Bressay
+635002		Delting
+635003		Dunrossness
+635004		Fetlar and North Yell
+635005		Lerwick
+635006		Mid and South Yell
+635007		Nesting
+635008		Northmavine
+635009		Sandsting
+635010		Tingwall
+635011		Unst
+635012		Walls
+636001		Cross and Burness
+636002		Evie and Rendall
+636003		Firth and Stennes
+636004		Harray and Birsay
+636005		Holm
+636006		Hoy and Graemsay
+636007		Kirkwall and St Ola
+636008		Lady
+636009		Orphir
+636010		Rousay and Egilshay
+636011		St Andrews
+636012		Sandwick
+636013		Shapinshay
+636014		South Ronaldshay
+636015		Stromness
+636016		Stronsay and Eday
+636017		Walls and Flotta
+636018		Westray and Papa Westray
+637001		Bower
+637002		Canisbay
+637003		Dunnet
+637004		Kalkirk
+637005		Latheron
+637006		Olrig
+637007		Reay
+637008		Thurso
+637009		Watten
+637010		Wick
+638001		Assynt
+638002		Clyne
+638003		Creich
+638004		Dornoch
+638005		Durness
+638006		Eddrachillis
+638007		Farr
+638008		Golspie
+638009		Kildonan
+638010		Lairg
+638011		Loth
+638012		Reay
+638013		Rogart
+638014		Tongue
+639001		Alness
+639002		Applecross
+639003		Avoch
+639004		Contin
+639005		Cromarty
+639006		Dingwall
+639007		Edderton
+639008		Fearn
+639009		Fodderty
+639010		Gairloch
+639011		Glenshiel
+639012		Killearnan
+639013		Kilmuir-Easter
+639014		Kiltearn
+639015		Kincardine
+639016		Kintail
+639017		Knockbain
+639018		Lochalsh
+639019		Lochbroom
+639020		Lochcarron
+639021		Logie-Easter
+639022		Nigg
+639023		Resolis
+639024		Rosemarkie
+639025		Rosskeen
+639026		Tain
+639027		Tarbat
+639028		Urquhart and Logie-Wester
+639029		Urray
+639030		Barvas
+639031		Lochs
+639032		Stornoway
+639033		Uig
+640001		Abernethy
+640002		Alvie
+640003		Ardersier
+640004		Ardnamurchan
+640005		Boleskine and Abertarff
+640006		Cawdor
+640007		Cromdale
+640008		Croy
+640009		Daviot and Dunlichty
+640010		Dores
+640011		Duthil
+640012		Glenelg
+640013		Inverness
+640014		Kilmalie
+640015		Kilmonivaig
+640016		Kilmorack
+640017		Kiltarlity
+640018		Kingussie and Insh
+640019		Kirkhill
+640020		Laggan
+640021		Moy and Dalarossie
+640022		Petty
+640023		Urquhart and Glenmoriston
+640024		Urray
+640025		Barra
+640026		Bracadale
+640027		Duirinish
+640028		Harris
+640029		Kilmuir
+640030		North Uist
+640031		Portree
+640032		Sleat
+640033		Small Isles
+640034		Snizort
+640035		South Uist
+640036		Strath
+641001		Ardclach
+641002		Auldearn
+641003		Cawdor
+641004		Croy
+641005		Daviot and Dunlichty
+641006		Dyke and Moy
+641007		Moy and Dalarossie
+641008		Nairn
+641009		Petty
+641010		Urquhart and Logie-Wester
+642001		Alves
+642002		Bellie
+642003		Birnie
+642004		Boharm
+642005		Cromdale
+642006		Dallas
+642007		Dranie
+642008		Duffus
+642009		Dyke and Moy
+642010		Edinkillie
+642011		Elgin
+642012		Forres
+642013		Inveravon
+642014		Keith
+642015		Kinloss
+642016		Knockando
+642017		New Spynie
+642018		Rafford
+642019		Rothes
+642020		St Andrews-Lhanbryde
+642021		Speymouth
+642022		Urquhart
+643001		Aberlour
+643002		Alvah
+643003		Banff
+643004		Bellie
+643005		Boharm
+643006		Botriphnie
+643007		Boyndie
+643008		Cabrach
+643009		Cairnie
+643010		Cullen
+643011		Deskford
+643012		Fordyce
+643013		Forglen
+643014		Gamrie
+643015		Gartly
+643016		Glass
+643017		Grange
+643018		Inveravon
+643019		Inverkeithny
+643020		Keith
+643021		Kirkmichael
+643022		Marnoch
+643023		Mortlach
+643024		New Machar
+643025		Old Deer
+643026		Ordiquhill
+643027		Rathven
+643028		Rothes
+643029		Rothiemay
+643030		St Fergus
+644001		Old Machar
+644002		St Nicholas
+644003		Aberdour
+644004		Aboyne and Glentanner
+644005		Alford
+644006		Auchendoir and Kearn
+644007		Auchterless
+644008		Banchory-Devenick
+644009		Banchory-Ternan
+644010		Belhelvie
+644011		Birse
+644012		Bourtie
+644013		Cabrach
+644014		Cairney
+644015		Chaple of Garioch
+644016		Clatt
+644017		Cluny
+644018		Coull
+644019		Crathie and Braemar
+644020		Crimond
+644021		Cruden
+644022		Culsamond
+644023		Daviot
+644024		Drumblade
+644025		Drumoak
+644026		Dyce
+644027		Echt
+644028		Ellon
+644029		Fintray
+644030		Forgue
+644031		Foveran
+644032		Fraserburgh
+644033		Fyvie
+644034		Gartley
+644035		Glass
+644036		Glanbucket
+644037		Glenmuick, Tullich and Glengairn
+644038		Huntley
+644039		Insch
+644040		Inverurie
+644041		Keig
+644042		Keithhall and Kinkell
+644043		Kemnay
+644044		Kildrummy
+644045		Kincardine ONeil
+644046		King Edward
+644047		Kinnellar
+644048		Kinnethmont
+644049		Kintore
+644050		Leochel and Cushnie
+644051		Leslie
+644052		Logie-Buchan
+644053		Logie-Coldstone
+644054		Longside
+644055		Lonmay
+644056		Lumphanan
+644057		Methlic
+644058		Midmar
+644059		Monquhitter
+644060		Monymusk
+644061		New Deer
+644062		Newhills
+644063		New Machar
+644064		Old Deer
+644065		Old Meldrum
+644066		Oyne
+644067		Peterculter
+644068		Peterhead
+644069		Pitsligo
+644070		Premnay
+644071		Rathen
+644072		Rayne
+644073		Rhynie
+644074		Skene
+644075		Slains
+644076		Strathdon
+644077		Strichen
+644078		Tarland-Migvie
+644079		Tarves
+644080		Tough
+644081		Towle
+644082		Tullynessle and Forbes
+644083		Turriff
+644084		Tyrie
+644085		Udny
+645001		Arbuthnott
+645002		Banchory-Devenick
+645003		Banchory-Ternan
+645004		Benholm
+645005		Bervie
+645006		Drumoak
+645007		Dunnottar
+645008		Durris
+645009		Edzell
+645010		Fettercairn
+645011		Fetteresso
+645012		Fordoun
+645013		Garvock
+645014		Glenbervie
+645015		Kinneff and Catterline
+645016		Laurencekirk
+645017		Maryculter
+645018		Marykirk
+645019		Nigg
+645020		St Cyrus
+645021		Strachan
+646001		Aberlemno
+646002		Airlie
+646003		Alyth
+646004		Arbirlot
+646005		Arbroath
+646006		Auchterhouse
+646007		Barry
+646008		Brechin
+646009		Caputh
+646010		Careston
+646011		Carmylie
+646012		Cortachy and Clova
+646013		Coupar-Angus
+646014		Craig
+646015		Dun
+646016		Dundee
+646017		Liff, Benvie and Invergowrie
+646018		Dunnichen
+646019		Eassie and Nevay
+646020		Edzell
+646021		Farnell
+646022		Fearn
+646023		Forfar
+646024		Glamis
+646025		Glenisla
+646026		Guthrie
+646027		Inverarity
+646028		Inverkeillor
+646029		Kettins
+646030		Kingoldrum
+646031		Kinnell
+646032		Kinnettles
+646033		Kirkden
+646034		Kirriemuir
+646035		Lethnot and Navar
+646036		Linthrathen
+646037		Lochlee
+646038		Logie-Pert
+646039		Lunan
+646040		Lundie and Fowlis
+646041		Mains and Strathmartine
+646042		Marytown
+646043		Menmuir
+646044		Monifieth
+646045		Monikie
+646046		Montrose
+646047		Murroes
+646048		Newtyle
+646049		Oatlaw
+646050		Panbride
+646051		Rescobie
+646052		Ruthven
+646053		St Vigeans
+646054		Stracathro
+646055		Tannadice
+646056		Tealing
+647001		Aberdalgie
+647002		Aberfoyle
+647003		Abernethy
+647004		Abernyte
+647005		Alyth
+647006		Ardoch
+647007		Arngask
+647008		Auchterarder
+647009		Auchtergaven
+647010		Balquhidder
+647011		Bendochy
+647012		Blackford
+647013		Blair-Athol
+647014		Blairgowrie
+647015		Callander
+647016		Caputh
+647017		Cargill
+647018		Clunie
+647019		Collace
+647020		Comrie
+647021		Coupar-Angus
+647022		Crieff
+647023		Culross
+647024		Dron
+647025		Dull
+647026		Dunbarney
+647027		Dunblane
+647028		Dunkeld and Dowally
+647029		Dunning
+647030		Errol
+647031		Findo-Gask
+647032		Forgandenny
+647033		Forteviot
+647034		Fortingall
+647035		Fossoway and Tulliebole
+647036		Fowlis-Wester
+647037		Glendevon
+647038		Inchture
+647039		Kenmore
+647040		Killin
+647041		Kilmadock
+647042		Kilspindie
+647043		Kincardine
+647044		Kinclaven
+647045		Kinfauns
+647046		Kinnaird
+647047		Kinnoull
+647048		Kippen
+647049		Kirkmichael
+647050		Lecropt
+647051		Lethendy and Kinloch
+647052		Liff, Benvie and Invergowrie
+647053		Little Dunkeld
+647054		Logie
+647055		Logierait
+647056		Longforgan
+647057		Lundie and Fowlis
+647058		Madderty
+647059		Meigle
+647060		Methven
+647061		Moneydie
+647062		Monzie
+647063		Monzievaird and Strowan
+647064		Moulin
+647065		Muckart
+647066		Muthill
+647067		East
+647068		Middle
+647069		St Pauls
+647070		West
+647071		Port of Menteith
+647072		Rattray
+647073		Redgorton
+647074		Rhynd
+647075		St Madoes
+647076		St Martins
+647077		Scone
+647078		Tibbermore
+647079		Trinity-Gask
+647080		Tulliallan
+647081		Weem
+648001		Abbotshall
+648002		Abdie
+648003		Aberdour
+648004		Abernethy
+648005		Anstruther-Easter
+648006		Anstruther-Wester
+648007		Arngask
+648008		Auchterderran
+648009		Auchtermuchty
+648010		Auchtertool
+648011		Ballingry
+648012		Balmerino
+648013		Beath
+648014		Burntisland
+648015		Cameron
+648016		Carnbee
+648017		Carnock
+648018		Ceres
+648019		Collessie
+648020		Crail
+648021		Criech
+648022		Cults
+648023		Cupar
+648024		Dairsie
+648025		Dalgetty
+648026		Dunbog
+648027		Dunfermline
+648028		Dunino
+648029		Dysart
+648030		Elie
+648031		Falkland
+648032		Ferry-Port-on-Craig
+648033		Flisk
+648034		Forgan
+648035		Inverkeithing
+648036		Kemback
+648037		Kennoway
+648038		Kettle
+648039		Kilconquhar
+648040		Kilmany
+648041		Kilrenny
+648042		Kinghorn
+648043		Kinglassie
+648044		Kingsbarns
+648045		Kirkcaldy
+648046		Largo
+648047		Leslie
+648048		Leuchars
+648049		Logie
+648050		Markinch
+648051		Monimail
+648052		Moonzie
+648053		Newburgh
+648054		Newburn
+648055		Pittenweem
+648056		St Andrews
+648057		St Leonards
+648058		St Monance (or Abercrombie)
+648059		Saline
+648060		Scoonie
+648061		Strathmiglo
+648062		Torryburn
+648063		Wemyss
+648064		Isle of May
+649001		Arngask
+649002		Cleish
+649003		Forgandenny
+649004		Fossoway and Tulliebole
+649005		Kinross
+649006		Orwell
+649007		Portmoak
+650001		Alloa
+650002		Clackmannan
+650003		Dollar
+650004		Logie
+650005		Stirling
+650006		Tillicoultry
+651001		Airth
+651002		Alva
+651003		Baldernock
+651004		Balfron
+651005		Bothkennar
+651006		Buchanan
+651007		Campsie
+651008		Denny
+651009		Drymen
+651010		Dunipace
+651011		Falkirk
+651012		Fintry
+651013		Gargunnock
+651014		Killearn
+651015		Kilsyth
+651016		Kippen
+651017		Larbert
+651018		Lecropt
+651019		Logie
+651020		Muiravonside
+651021		New Kilpatrick
+651022		Polmont
+651023		St Ninians
+651024		Slamannan
+651025		Stirling
+651026		Strathblane
+652001		Arrochar
+652002		Bonhill
+652003		Cardross
+652004		Cumbernauld
+652005		Dumbarton
+652006		Kilmaronock
+652007		Kirkintilloch
+652008		Luss
+652009		New Kilpatrick
+652010		Old Kilpatrick
+652011		Roseneath
+652012		Row
+653001		Ardchattan and Muckairn
+653002		Ardnamurchan
+653003		Campbeltown
+653004		Craignish
+653005		Dunoon and Kilmun
+653006		Glassary
+653007		Glenaray
+653008		Glenorchy and Inishail
+653009		Inveraray
+653010		Inverchaolain
+653011		Kilbrandon and Kilchattan
+653012		Kilcalmonell and Kilberry
+653013		Kilchrenan and Dalavich
+653014		Kilfinan
+653015		Killean and Kilchenzie
+653016		Kilmalie
+653017		Kilmartin
+653018		Kilmodan
+653019		Kilmore and Kilbride
+653020		Kilninver and Kilmelford
+653021		Lismore and Appin
+653022		Lochgoilhead and Kilmorich
+653023		Morvern
+653024		North Knapdale
+653025		Saddell and Skipness
+653026		Southend
+653027		South Knapdale
+653028		Strachur and Stralachlan
+653029		Coll
+653030		Colonsay and Oronsay
+653031		Gigha and Cara
+653032		Jura
+653033		Kilchoman
+653034		Kildalton
+653035		Kilfinichen and Kilvickeon
+653036		Killarrow and Kilmeny
+653037		Kilninian and Kilmore
+653038		Small Isles
+653039		Torosay
+653040		Tyree
+654001		Ardrossan
+654002		Cumbrae
+654003		Kilbride
+654004		Kilmory
+654005		Kingarth
+654006		North Bute
+654007		Rothesay
+655001		Beith
+655002		Cathcart
+655003		Dunlop
+655004		Eaglesham
+655005		Eastwood
+655006		Erskine
+655007		Govan
+655008		East
+655009		Middle
+655010		West
+655011		Houston and Killellan
+655012		Inchinnan
+655013		Inverkip
+655014		Kilbarchan
+655015		Kilmalcolm
+655016		Lochwinnoch
+655017		Mearns
+655018		Neilston
+655019		Abbey
+655020		High Church
+655021		Low
+655022		Middle Church
+655023		Port-Glasgow
+655024		Renfrew
+656001		Ardrossan
+656002		Auchinleck
+656003		Ayr
+656004		Ballantrae
+656005		Barr
+656006		Beith
+656007		Colmonell
+656008		Coylton
+656009		Craigie
+656010		Dailly
+656011		Dalmellington
+656012		Dalry
+656013		Dalrymple
+656014		Dreghorn
+656015		Dundonald
+656016		Dunlop
+656017		Fenwick
+656018		Galston
+656019		Girvan
+656020		Irvine
+656021		Kilbirnie
+656022		Kilmarnock
+656023		Kilmaurs
+656024		Kilwinning
+656025		Kirkmichael
+656026		Kirkoswald
+656027		Largs
+656028		Loudoun
+656029		Mauchline
+656030		Maybole
+656031		Monkton and Prestwick
+656032		Muirkirk
+656033		New Cumnock
+656034		Newton-upon-Ayr
+656035		Ochiltree
+656036		Old Cumnock
+656037		Riccarton
+656038		Sorn
+656039		St Quivox
+656040		Stair
+656041		Stevenson
+656042		Stewarton
+656043		Straiton
+656044		Symington
+656045		Tarbolton
+656046		West Kilbride
+657001		Avondale
+657002		Biggar
+657003		Blantyre
+657004		Bothwell
+657005		Cadder
+657006		Cambuslang
+657007		Cambusnethan
+657008		Carluke
+657009		Carmichael
+657010		Carmunnock
+657011		Carnwath
+657012		Carstairs
+657013		Cathcart
+657014		Covington and Thenkerton
+657015		Crawford
+657016		Crawfordjohn
+657017		Culter
+657018		Dalserf
+657019		Dalziel
+657020		Dolphinton
+657021		Douglas
+657022		Dunsyre
+657023		East Kilbride
+657024		Barony
+657025		City
+657026		Gorbals
+657027		Govan
+657028		Glassford
+657029		Hamilton
+657030		Kirkpatrick-Juxta
+657031		Lanark
+657032		Lesmahagow
+657033		Libberton
+657034		Moffat
+657035		New Monkland
+657036		Old Monkland
+657037		Pettinain
+657038		Rutherglen
+657039		Shotts
+657040		Stonehouse
+657041		Symington
+657042		Walston
+657043		Wandell and Lamington
+657044		Wiston and Roberton
+658001		Abercorn
+658002		Bathgate
+658003		Borrowstounness
+658004		Carriden
+658005		Cramond
+658006		Dalmeny
+658007		Ecclesmachan
+658008		Kirkliston
+658009		Linlithgow
+658010		Livingstone
+658011		Queensferry
+658012		Torphichen
+658013		Uphall
+658014		Whitburn
+659001		Borthwick
+659002		Carrington
+659003		Cockpen
+659004		Colinton
+659005		Corstophine
+659006		Cramond
+659007		Cranston
+659008		Crichton
+659009		Currie
+659010		Dalkeith
+659011		Duddingston
+659012		Canongate
+659013		City
+659014		St Cuthberts
+659015		Fala and Soutra
+659016		Glencorse
+659017		Heriot
+659018		Inveresk
+659019		Kirkliston
+659020		Kirknewton and East Calder
+659021		Lasswade
+659022		North Leith
+659023		South Leith
+659024		Liberton
+659025		Mid-Calder
+659026		Newbattle
+659027		Newton
+659028		Penicuik
+659029		Ratho
+659030		Stow
+659031		Temple
+659032		West Calder
+660001		Aberlady
+660002		Athelstanford
+660003		Bolton
+660004		Dirleton
+660005		Dunbar
+660006		Fala and Soutra
+660007		Garvald
+660008		Gladsmuir
+660009		Haddington
+660010		Humbie
+660011		Innerwick
+660012		Morham
+660013		North Berick
+660014		Oldhamstocks
+660015		Ormiston
+660016		Pencaithland
+660017		Prestonkirk
+660018		Prestonpans
+660019		Salton
+660020		Spott
+660021		Stenton
+660022		Tranent
+660023		Whitekirk and Tynninghame
+660024		Whittinghame
+660025		Yester
+661001		Abbey St Bathans
+661002		Ayton
+661003		Bunkle and Preston
+661004		Channelkirk
+661005		Chirnside
+661006		Cockburnspath
+661007		Coldingham
+661008		Coldstream
+661009		Cranshaws
+661010		Dunse
+661011		Earlston
+661012		Eccles
+661013		Edrom
+661014		Eyemouth
+661015		Fogo
+661016		Foulden
+661017		Gordon
+661018		Greenlaw
+661019		Hutton
+661020		Ladykirk
+661021		Langton
+661022		Lauder
+661023		Legerwood
+661024		Longformacus
+661025		Merton
+661026		Mordington
+661027		Nenthorn
+661028		Oldhamstocks
+661029		Polwarth
+661030		Stitchell and Hume
+661031		Swinton
+661032		Westruther
+661033		Whitsome
+662001		Broughton, Glenholm and Kilbucho
+662002		Culter
+662003		Drumelzier
+662004		Eddlestone
+662005		Innerleithen
+662006		Kirkurd
+662007		Lyne and Megget
+662008		Manor
+662009		Newlands
+662010		Peebles
+662011		Skirling
+662012		Stobo
+662013		Traquair
+662014		Tweedsmuir
+662015		West Linton
+662016		Yarrow
+663001		Ashkirk
+663002		Ettrick
+663003		Galashiels
+663004		Innerleithen
+663005		Kirkhope
+663006		Melrose
+663007		Peebles
+663008		Roberton
+663009		Selkirk
+663010		Stow
+663011		Yarrow
+664001		Ancrum
+664002		Ashkirk
+664003		Bedrule
+664004		Bowden
+664005		Castleton
+664006		Cavers
+664007		Crailing
+664008		Eckford
+664009		Ednam
+664010		Galashiels
+664011		Hawick
+664012		Hobkirk
+664013		Hownam
+664014		Jedburgh
+664015		Kelso
+664016		Kirktown
+664017		Lilliesleaf
+664018		Linton
+664019		Makerston
+664020		Maxton
+664021		Melrose
+664022		Minto
+664023		Morebattle
+664024		Oxnam
+664025		Roberton
+664026		Roxburgh
+664027		St Boswells
+664028		Selkirk
+664029		Smailholm
+664030		Southdean
+664031		Sprouston
+664032		Stitchell and Hume
+664033		Teviothead
+664034		Wilton
+664035		Yetholm
+665001		Annan
+665002		Applegarth and Sibbaldbie
+665003		Canonbie
+665004		Carlaverock
+665005		Closeburn
+665006		Cummertrees
+665007		Dalton
+665008		Dornock
+665009		Dryfesdale
+665010		Dumfries
+665011		Dunscore
+665012		Durrisdeer
+665013		Eskdalemuir
+665014		Ewes
+665015		Glencairn
+665016		Graitney (or Gretna)
+665017		Halfmorton
+665018		Hoddom
+665019		Holywood
+665020		Hutton and Corrie
+665021		Johnstone
+665022		Keir
+665023		Kirkconnel
+665024		Kirkmahoe
+665025		Kirkmichael
+665026		Kirkpatrick-Fleming
+665027		Kirkpatrick-Juxta
+665028		Langholm
+665029		Lochmaben
+665030		Middlebie
+665031		Moffat
+665032		Morton
+665033		Mousewald
+665034		Penpont
+665035		Ruthwell
+665036		Sanquhar
+665037		St Mungo
+665038		Tinwald
+665039		Torthwald
+665040		Tundergurth
+665041		Tynron
+665042		Wamphray
+665043		Westerkirk
+666001		Anwoth
+666002		Balmaclellan
+666003		Balmaghie
+666004		Borgue
+666005		Buittle
+666006		Carsphairn
+666007		Colvend
+666008		Crossmichael
+666009		Dalry
+666010		Girthon
+666011		Kells
+666012		Kelton
+666013		Kirkbean
+666014		Kirkcudbright
+666015		Kirkgunzeon
+666016		Kirkmabreck
+666017		Kirkpatrick-Durham
+666018		Kirkpatrick-Irongray
+666019		Lochrutton
+666020		Minnigaff
+666021		New Abbey
+666022		Parton
+666023		Rerrick
+666024		Terregles
+666025		Tongland
+666026		Troqueer
+666027		Twynholm
+666028		Urr
+667001		Glasserton
+667002		Inch
+667003		Kirkcolm
+667004		Kirkcowan
+667005		Kirkinner
+667006		Kirkmaiden
+667007		Leswalt
+667008		Mochrum
+667009		New Luce
+667010		Old Luce
+667011		Penninghame
+667012		Portpatrick
+667013		Sorbie
+667014		Stoneykirt
+667015		Stranraer
+667016		Whithorn
+667017		Wigtown
+
+ GB81A017		Page number
+00000		0
+00001		1
+00002		2
+00003		3
+00004		4
+00005		5
+00006		6
+00007		7
+00008		8
+00009		9
+00010		10
+00011		11
+00012		12
+00013		13
+00014		14
+00015		15
+00016		16
+00017		17
+00018		18
+00019		19
+00020		20
+00021		21
+00022		22
+00023		23
+00024		24
+00025		25
+00026		26
+00027		27
+00028		28
+00029		29
+00030		30
+00031		31
+00032		32
+00033		33
+00034		34
+00035		35
+00036		36
+00037		37
+00038		38
+00039		39
+00040		40
+00041		41
+00042		42
+00043		43
+00044		44
+00045		45
+00046		46
+00047		47
+00048		48
+00049		49
+00050		50
+00051		51
+00052		52
+00053		53
+00054		54
+00055		55
+00056		56
+00057		57
+00058		58
+00059		59
+00060		60
+00061		61
+00062		62
+00063		63
+00064		64
+00065		65
+00066		66
+00067		67
+00068		68
+00069		69
+00070		70
+00071		71
+00072		72
+00073		73
+00074		74
+00075		75
+00076		76
+00077		77
+00078		78
+00079		79
+00080		80
+00081		81
+00082		82
+00083		83
+00084		84
+00085		85
+00086		86
+00087		87
+00088		88
+00089		89
+00090		90
+00091		91
+00092		92
+00093		93
+00094		94
+00095		95
+00096		96
+00097		97
+00098		98
+00099		99
+00100		100
+00101		101
+00102		102
+00103		103
+00104		104
+00105		105
+00106		106
+00107		107
+00108		108
+00109		109
+00110		110
+00111		111
+00112		112
+00113		113
+00114		114
+00115		115
+00116		116
+00117		117
+00118		118
+00119		119
+00120		120
+00121		121
+00122		122
+00123		123
+00124		124
+00125		125
+00126		126
+00127		127
+00128		128
+00129		129
+00130		130
+00131		131
+00132		132
+00133		133
+00134		134
+00135		135
+00136		136
+00137		137
+00138		138
+00139		139
+00140		140
+00141		141
+00142		142
+00143		143
+00144		144
+00145		145
+00146		146
+00147		147
+00201		201
+99999		Unknown
+
+ FAMSIZE		Number of own family members in household
+01		1
+02		2
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+10		10
+11		11
+12		12
+13		13
+14		14
+15		15
+16		16
+17		17
+18		18
+19		19
+20		20
+21		21
+22		22
+23		23
+24		24
+25		25
+26		26
+27		27
+28		28
+29		29
+30		30
+31		31
+32		32
+33		33
+34		34
+35		35
+36		36
+37		37
+38		38
+39		39
+40		40
+41		41
+42		42
+43		43
+44		44
+45		45
+46		46
+47		47
+48		48
+49		49
+50		50
+51		51
+52		52
+53		53
+54		54
+55		55
+56		56
+57		57
+58		58
+59		59
+60		60
+61		61
+62		62
+63		63
+64		64
+65		65
+66		66
+67		67
+68		68
+69		69
+70		70
+71		71
+72		72
+73		73
+74		74
+75		75
+76		76
+77		77
+78		78
+79		79
+80		80
+81		81
+82		82
+83		83
+84		84
+85		85
+86		86
+87		87
+88		88
+89		89
+90		90
+91		91
+92		92
+93		93
+94		94
+95		95
+96		96
+97		97
+98		98
+99		99
+100		100
+102		102
+104		104
+105		105
+106		106
+107		107
+108		108
+109		109
+110		110
+111		111
+112		112
+113		113
+114		114
+117		117
+118		118
+119		119
+120		120
+121		121
+122		122
+123		123
+124		124
+125		125
+126		126
+127		127
+128		128
+129		129
+130		130
+131		131
+132		132
+133		133
+134		134
+135		135
+136		136
+137		137
+138		138
+139		139
+140		140
+141		141
+142		142
+143		143
+144		144
+145		145
+146		146
+147		147
+148		148
+149		149
+150		150
+151		151
+152		152
+153		153
+154		154
+155		155
+156		156
+157		157
+158		158
+159		159
+160		160
+161		161
+162		162
+163		163
+164		164
+165		165
+166		166
+167		167
+168		168
+170		170
+171		171
+172		172
+173		173
+174		174
+175		175
+176		176
+177		177
+178		178
+179		179
+180		180
+181		181
+182		182
+183		183
+184		184
+185		185
+186		186
+187		187
+188		188
+189		189
+190		190
+191		191
+192		192
+193		193
+194		194
+195		195
+196		196
+197		197
+198		198
+199		199
+200		200
+201		201
+203		203
+204		204
+205		205
+206		206
+207		207
+208		208
+209		209
+210		210
+211		211
+212		212
+213		213
+214		214
+215		215
+216		216
+217		217
+218		218
+219		219
+220		220
+221		221
+222		222
+223		223
+224		224
+225		225
+226		226
+227		227
+228		228
+229		229
+230		230
+231		231
+232		232
+234		234
+235		235
+236		236
+237		237
+238		238
+239		239
+240		240
+241		241
+242		242
+244		244
+245		245
+246		246
+247		247
+248		248
+249		249
+250		250
+251		251
+252		252
+253		253
+254		254
+255		255
+256		256
+257		257
+258		258
+259		259
+260		260
+261		261
+263		263
+264		264
+265		265
+266		266
+267		267
+268		268
+269		269
+270		270
+271		271
+272		272
+273		273
+274		274
+275		275
+276		276
+277		277
+278		278
+279		279
+280		280
+281		281
+282		282
+283		283
+284		284
+285		285
+286		286
+287		287
+288		288
+289		289
+290		290
+291		291
+292		292
+293		293
+294		294
+295		295
+296		296
+297		297
+298		298
+299		299
+301		301
+302		302
+303		303
+304		304
+305		305
+306		306
+307		307
+308		308
+309		309
+310		310
+311		311
+312		312
+313		313
+314		314
+315		315
+316		316
+317		317
+318		318
+319		319
+320		320
+321		321
+323		323
+324		324
+326		326
+331		331
+332		332
+333		333
+334		334
+335		335
+336		336
+338		338
+339		339
+340		340
+342		342
+344		344
+345		345
+346		346
+348		348
+350		350
+351		351
+353		353
+355		355
+357		357
+358		358
+359		359
+361		361
+363		363
+364		364
+365		365
+366		366
+368		368
+370		370
+371		371
+374		374
+375		375
+377		377
+378		378
+379		379
+380		380
+381		381
+382		382
+383		383
+384		384
+385		385
+386		386
+387		387
+388		388
+389		389
+390		390
+391		391
+392		392
+393		393
+394		394
+395		395
+396		396
+397		397
+398		398
+400		400
+401		401
+403		403
+404		404
+405		405
+407		407
+408		408
+410		410
+412		412
+413		413
+414		414
+415		415
+417		417
+418		418
+420		420
+422		422
+423		423
+424		424
+426		426
+427		427
+428		428
+429		429
+433		433
+435		435
+436		436
+438		438
+439		439
+440		440
+442		442
+443		443
+444		444
+445		445
+446		446
+447		447
+448		448
+449		449
+450		450
+451		451
+453		453
+454		454
+455		455
+456		456
+458		458
+459		459
+461		461
+462		462
+463		463
+464		464
+465		465
+469		469
+471		471
+472		472
+474		474
+476		476
+477		477
+478		478
+480		480
+481		481
+484		484
+485		485
+489		489
+490		490
+491		491
+494		494
+495		495
+496		496
+497		497
+498		498
+499		499
+500		500
+501		501
+502		502
+503		503
+504		504
+506		506
+507		507
+508		508
+509		509
+512		512
+513		513
+515		515
+516		516
+517		517
+520		520
+521		521
+522		522
+525		525
+529		529
+530		530
+531		531
+533		533
+536		536
+539		539
+541		541
+544		544
+545		545
+550		550
+551		551
+552		552
+553		553
+554		554
+555		555
+557		557
+558		558
+559		559
+560		560
+562		562
+564		564
+566		566
+568		568
+569		569
+573		573
+574		574
+576		576
+577		577
+578		578
+579		579
+580		580
+582		582
+585		585
+586		586
+587		587
+588		588
+590		590
+592		592
+593		593
+598		598
+599		599
+600		600
+602		602
+604		604
+605		605
+609		609
+610		610
+611		611
+612		612
+613		613
+615		615
+617		617
+620		620
+622		622
+623		623
+625		625
+629		629
+635		635
+636		636
+637		637
+639		639
+641		641
+643		643
+645		645
+648		648
+649		649
+652		652
+653		653
+654		654
+658		658
+663		663
+667		667
+669		669
+672		672
+674		674
+675		675
+676		676
+678		678
+680		680
+684		684
+685		685
+688		688
+689		689
+690		690
+691		691
+693		693
+696		696
+698		698
+704		704
+707		707
+709		709
+713		713
+714		714
+716		716
+720		720
+725		725
+727		727
+729		729
+732		732
+733		733
+738		738
+741		741
+742		742
+745		745
+754		754
+755		755
+759		759
+760		760
+765		765
+767		767
+768		768
+769		769
+770		770
+788		788
+790		790
+797		797
+802		802
+806		806
+828		828
+831		831
+840		840
+841		841
+842		842
+853		853
+863		863
+866		866
+869		869
+876		876
+878		878
+883		883
+892		892
+898		898
+912		912
+913		913
+921		921
+926		926
+930		930
+942		942
+949		949
+955		955
+958		958
+963		963
+965		965
+969		969
+987		987
+993		993
+994		994
+1008		1008
+1010		1010
+1011		1011
+1012		1012
+1013		1013
+1030		1030
+1032		1032
+1033		1033
+1036		1036
+1048		1048
+1061		1061
+1078		1078
+1081		1081
+1087		1087
+1098		1098
+1107		1107
+1109		1109
+1134		1134
+1158		1158
+1183		1183
+1185		1185
+1192		1192
+1216		1216
+1237		1237
+1247		1247
+1353		1353
+1382		1382
+1387		1387
+1399		1399
+1413		1413
+1436		1436
+1445		1445
+1494		1494
+1511		1511
+1523		1523
+1629		1629
+1785		1785
+1889		1889
+2001		2001
+2045		2045
+2056		2056
+2086		2086
+2488		2488
+2893		2893
+
+ NCHILD		Number of own children in household
+00		0
+01		1
+02		2
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+
+ NSIBS		Number of own siblings in household
+00		0
+01		1
+02		2
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+10		10
+11		11
+12		12
+13		13
+14		14
+15		15
+16		16
+17		17
+18		18
+19		19
+20		20
+21		21 or more
+
+ RELATE		Relationship to household head
+		RELATIVES
+0101		Head/householder
+0201		Spouse
+0202		2nd/3rd wife (polygamous)
+0203		Concubine/mistress
+0301		Child
+0302		Adopted Child
+0303		Stepchild
+0304		Adopted, n.s.
+0305		Adopted/fostered child (Great Britain)
+0306		Fostered child
+0401		Child-in-law
+0402		Step child-in-law
+0501		Parent
+0502		Stepparent
+0503		Adoptive parent
+0601		Parent-in-law
+0602		Stepparent-in-law
+0603		Retired people with special benefits from farm (karfolk)
+0701		Sibling
+0702		Step/half/adopted sibling
+0703		Step sibling
+0704		Half-sibling
+0801		Sibling-in-Law
+0802		Step/half sibling-in-law
+0901		Grandchild
+0902		Adopted grandchild
+0903		Step grandchild
+0904		Grandchild-in-law
+1000		Other Relatives:
+1001		Other relatives, n.s.
+1011		Grandparent
+1012		Step grandparent
+1013		Grandparent-in-law
+1021		Aunt or uncle
+1022		Aunt,uncle-in-law
+1023		Step aunt or uncle
+1024		Great aunt or uncle
+1031		Nephew, niece
+1032		Nephew/niece-in-law
+1033		Step/adopted nephew/niece
+1034		Grand niece/nephew
+1035		Step nephew/niece
+1036		Adopted nephew/niece
+1037		Grand step nephew/niece
+1038		Grand nephew/niece in law
+1041		Cousin
+1042		Cousin-in-law
+1043		First cousin
+1044		Second cousin
+1051		Great grandchild
+1061		Other relatives, n.e.c.
+		NON-RELATIVES
+1100		Partner, friend, visitor
+1110		Partner/friend
+1111		Friend
+1112		Partner
+1113		Partner/roommate (1960/70 residual category for other non-relatives)
+1114		Unmarried partner
+1115		Housemate/roommate
+1120		Relative of partner
+1131		Visitor
+1132		Companion and companion's family
+1139		Allocated partner/friend/visitor
+1200		Other non-relatives
+		Pre-1940 system:
+1201		Roomers/boarders/lodgers
+1202		Boarders
+1203		Lodgers
+1204		Roomer
+1205		Tenant
+1208		Pauper staying with others at expense of municipality
+1210		Employees:
+1211		Servant
+1212		Housekeeper
+1213		Maid
+1214		Cook
+1215		Nurse
+1216		Other probable domestic employee
+1217		Other employees
+1219		Relative of employee
+1221		Military
+1222		Students
+1223		Members of religious orders
+1230		Other non-relatives
+1239		Allocated other non-relative
+1301		Institutional inmates
+1302		Families of inmates
+1303		Foundlings/orphans
+9996		Unclassifiable
+9997		Unknown
+9998		Illegible
+9999		Missing
+
+ AGE		Age
+000		Less than 1 year old
+001		1
+002		2
+003		3
+004		4
+005		5
+006		6
+007		7
+008		8
+009		9
+010		10
+011		11
+012		12
+013		13
+014		14
+015		15
+016		16
+017		17
+018		18
+019		19
+020		20
+021		21
+022		22
+023		23
+024		24
+025		25
+026		26
+027		27
+028		28
+029		29
+030		30
+031		31
+032		32
+033		33
+034		34
+035		35
+036		36
+037		37
+038		38
+039		39
+040		40
+041		41
+042		42
+043		43
+044		44
+045		45
+046		46
+047		47
+048		48
+049		49
+050		50
+051		51
+052		52
+053		53
+054		54
+055		55
+056		56
+057		57
+058		58
+059		59
+060		60
+061		61
+062		62
+063		63
+064		64
+065		65
+066		66
+067		67
+068		68
+069		69
+070		70
+071		71
+072		72
+073		73
+074		74
+075		75
+076		76
+077		77
+078		78
+079		79
+080		80
+081		81
+082		82
+083		83
+084		84
+085		85
+086		86
+087		87
+088		88
+089		89
+090		90
+091		91
+092		92
+093		93
+094		94
+095		95
+096		96
+097		97
+098		98
+099		99
+100		100
+101		101
+102		102
+103		103
+104		104
+105		105
+106		106
+107		107
+108		108
+109		109
+110		110
+111		111
+112		112
+113		113
+114		114
+115		115
+116		116
+117		117
+118		118
+119		119
+120		120
+121		121
+122		122
+123		123
+124		124
+125		125
+129		129
+130		130
+135		135
+999		Unknown
+
+ SEX		Sex
+1		Male
+2		Female
+8		Illegible
+9		Missing/blank
+
+ MARST		Marital status
+1		Married, spouse present
+2		Married, spouse absent
+3		Separated
+4		Divorced
+5		Widowed
+6		Never married/single
+9		Indeterminate/unknown
+
+ BPLCNTRY		Country of birth
+10000		Africa
+11000		Eastern Africa
+11040		Eritrea
+11050		Ethiopia
+11060		Kenya
+11070		Madagascar
+11090		Mauritius
+11100		Mozambique
+11130		Seychelles
+11150		Uganda
+11160		Tanzania
+12000		Middle Africa
+12010		Angola
+12020		Cameroon
+12050		Congo
+13000		Northern Africa
+13010		Algeria
+13020		Egypt/United Arab Rep.
+13030		Libya
+13040		Morocco
+13050		Sudan
+13060		Tunisia
+14000		Southern Africa
+14030		Namibia
+14040		South Africa (Union of)
+14999		Southern Africa, n.s.
+15000		Western Africa
+15020		Burkina Faso
+15030		Cape Verde
+15040		Ivory Coast
+15060		Ghana
+15070		Guinea
+15090		Liberia
+15100		Mali
+15130		Nigeria
+15140		St. Helena and Ascension
+15160		Sierra Leone
+15999		West Africa, n.s.
+19999		Africa, n.s.
+20000		Americas
+21000		Caribbean
+21001		West Indies
+21004		Other West Indies
+21005		Curacao
+21006		St. Eustatius
+21007		Dutch Caribbean, n.s.
+21008		French St. Maarten
+21009		Guadeloupe
+21010		Martinique
+21011		St. Barthelemy
+21012		French Caribbean,n.s.
+21013		Caribbean, n.s.
+21014		West Indies, n.s.
+21020		Antigua-Barbuda
+21040		Bahamas
+21050		Barbados
+21070		Cayman Isles
+21080		Cuba
+21090		Dominica
+21100		Dominican Republic
+21110		Grenada
+21120		Guadeloupe
+21130		Haiti
+21140		Jamaica
+21180		Puerto Rico
+21190		St. Kitts-Nevis
+21200		St. Lucia
+21210		St. Vincent
+21220		Trinidad and Tobago
+21230		Turks and Caicos
+22000		Central America
+22010		Belize/British Honduras
+22020		Costa Rica
+22030		El Salvador
+22040		Guatemala
+22050		Honduras
+22060		Mexico
+22070		Nicaragua
+22080		Panama
+22999		Central America, n.s.
+23000		South America
+23010		Argentina
+23020		Bolivia
+23030		Brazil
+23040		Chile
+23050		Colombia
+23060		Ecuador
+23070		Falkland Islands
+23080		French Guiana
+23090		Guyana/British Guiana
+23100		Paraguay
+23110		Peru
+23120		Suriname
+23130		Uruguay
+23140		Venezuela
+23999		South America, n.s.
+24000		North America
+24010		Bermuda
+24020		Canada
+24030		Greenland
+24040		United States
+24041		U.S. Outlying Areas and Territories
+30000		Asia
+31000		Eastern Asia
+31010		China
+31011		Hong Kong
+31012		Macau
+31013		Taiwan
+31020		Japan
+31030		Korea
+31031		North Korea
+31032		South Korea
+31999		Eastern Asia, n.s.
+32000		South Asia
+32010		Afghanistan
+32020		Bangladesh
+32030		Bhutan
+32040		India
+32090		Nepal
+32100		Pakistan
+32110		Sri Lanka (Ceylon)
+33000		South-Eastern Asia
+33040		Indonesia
+33060		Malaysia
+33070		Myanmar (Burma)
+33080		Philippines
+33090		Singapore
+33100		Thailand
+33110		Vietnam
+33999		South-Eastern Asia, n.s.
+34000		Western Asia/Middle East
+34010		Armenia
+34020		Azerbaijan
+34040		Cyprus
+34050		Georgia
+34060		Iraq
+32050		Iran
+34070		Israel
+34080		Jordan
+34090		Kuwait
+34100		Lebanon
+34110		Palestine
+34120		Oman
+34140		Saudi Arabia
+34150		Syria
+34160		Turkey
+34199		Western Asia/Middle East, n.s.
+39999		Asia, n.s.
+40000		Europe
+41000		Eastern Europe
+41010		Belarus
+41020		Bulgaria
+41030		Czech Republic
+41040		Hungary
+41050		Poland
+41070		Romania
+41080		Russia/USSR
+41090		Slovakia
+41100		Ukraine
+42000		Northern Europe
+42010		Denmark
+42020		Estonia
+42030		Faroe Islands
+42040		Finland
+42050		Iceland
+42060		Ireland
+42070		Latvia
+42080		Lithuania
+42090		Norway
+42100		Svalbard and Jan Mayen Islands
+42110		Sweden
+42120		United Kingdom
+42999		Northern Europe, n.s.
+43000		Southern Europe
+43010		Albania
+43020		Andorra
+43030		Bosnia
+43040		Croatia
+43050		Gibraltar
+43060		Greece
+43070		Italy
+43080		Malta
+43090		Portugal
+43091		Azores
+43092		Madeira Islands
+43100		Vatican City State
+43110		Slovenia
+43120		Spain
+43130		Macedonia
+43140		Yugoslavia
+43141		Montenegro
+43142		Serbia
+43999		Southern Europe, n.s.
+44000		Western Europe
+44010		Austria
+44020		Belgium
+44030		France
+44040		Germany
+44041		Mecklenburg-Schwerin
+44050		Liechtenstein
+44060		Luxembourg
+44070		Monaco
+44080		Netherlands
+44090		Switzerland
+49999		Europe, n.s.
+50000		Oceania
+51000		Australia and New Zealand, n.s.
+51010		Australia
+51020		New Zealand
+51030		Norfolk Islands
+52000		Melanesia
+52010		Fiji
+52020		New Caledonia
+52030		Papua New Guinea
+52040		Solomon Islands
+52050		Vanuatu (New Hebrides)
+53000		Micronesia, n.e.c.
+53020		Marshall Islands
+53040		Northern Mariana Isls.
+54000		Polynesia
+54010		Cook Islands
+54020		French Polynesia
+54050		Western Samoa
+54070		Tonga
+59999		Oceania, n.s.
+99997		Foreign birthplace (for UK 1881 only)
+99998		At sea
+99999		Unknown
+
+ NAPPSTER		NAPP country of birth
+01		Canada
+02		United Kingdom
+03		Iceland
+04		Norway
+05		United States
+06		Sweden
+07		Denmark
+08		Mecklenburg-Schwerin
+09		Foreign-born, country unknown
+98		Non-Napp country
+99		Unknown birthplace
+
+ BPLCTYGB		Birthplace, Britain county
+010		Aberdeenshire
+011		Anglesey
+012		Alderney
+013		Angus
+014		Argyll
+015		Ayr
+016		Banff
+017		Bedfordshire
+018		Berkshire
+019		Berwickshire
+020		Brecknockshire
+021		Buckinghamshire
+022		Bute
+023		Caernarvonshire
+024		Caithness
+025		Cambridgeshire
+026		Cardiganshire
+027		Carmarthenshire
+028		Cheshire
+029		Clackmannanshire
+030		Cornwall
+031		Cumberland
+032		Denbighshire
+033		Derbyshire
+034		Devonshire
+035		Dumfriesshire
+036		Dunbartonshire
+037		Dorset
+038		Durham
+039		East Lothian
+040		Essex
+041		Fife
+042		Flintshire
+043		Glamorganshire
+044		Gloucestershire
+045		Guernsey
+046		Hampshire
+047		Herefordshire
+048		Hertfordshire
+049		Huntingdonshire
+050		Inverness-shire
+051		Isle of Man
+052		Jersey
+053		Kincardinshire
+054		Kent
+055		Kirkudbrightshire
+056		Kinross-shire
+057		Lancashire
+058		Leicestershire
+059		Lincolnshire
+060		Lanarkshire
+061		Merionethshire
+062		Middlesex
+063		Mid Lothian
+064		Monmouthshire
+065		Montgomeryshire
+066		Morayshire
+067		Nairnshire
+068		Norfolk
+069		Northamptonshire
+070		Northumberland
+071		Nottinghamshire
+072		Orkney
+073		Oxford
+074		Peeblesshire
+075		Pembrokeshire
+076		Perthshire
+077		Radnorshire
+078		Renfrewshire
+079		Ross and Cromarty
+080		Roxburghshire
+081		Rutland
+082		Shropshire
+083		Selkirk
+084		Shetland
+085		Somerset
+086		Stirlingshire
+087		Staffordshire
+088		Suffolk
+089		Surrey
+090		Sussex
+091		Sutherland
+092		Warwick
+093		Westmorland
+094		Wigtown
+095		Wiltshire
+096		West Lothian
+097		Worcestershire
+100		Yorkshire
+200		Adjacent Islands - Herm
+201		Adjacent Islands - Little Sark
+990		England
+991		Wales
+992		Scotland
+993		Ireland
+997		At sea
+998		Foreign
+999		Unknown
+
+ LABFORCE		Labor force participation
+1		No, not in the labor force
+2		Yes, in the labor force
+9		Unclassifiable
+
+ OCCGB		Occupation, Britain codes
+001		Peer, M.P., Privy Councillor (not otherwise described)
+002		Civil Service (officers and clerks)
+003		Civil Service (messengers, etc.)
+004		Prison Service, etc.
+005		Police
+006		Municipal, Parish, Union, District, Officer
+007		Other Local or County Official
+008		East Indian and Colonial Service
+009		Army Officer (effective/retired)
+010		Soldier and Non-commissioned officer
+011		Militia, Yeomanry, Volunteers
+012		Army Pensioner
+013		Navy Officer (effective/retired)
+014		Seaman, R.N.
+015		Royal Marines (officers/men)
+016		Navy Pensioner
+017		Clergymen (Established Church)
+018		Roman Catholic Priest
+019		Minister, Priest of other religious bodies
+020		Missionary, Scripture Reader, Itinerant preacher
+021		Nun, Sister of Charity
+022		Theological Student
+023		Church, chapel, cemetery - officer, servant
+024		Barrister, Solicitor
+025		Law Student
+026		Law Clerk, and others connected with the law
+027		Physician, Surgeon, General Practitioner
+028		Dentist
+029		Medical Student, Assistant
+030		Midwife
+031		Subordinate Medical Service
+032		Schoolmaster
+033		Teacher, Professor, Lecturer
+034		School Service, and others connected with teaching
+035		Author, Editor, Journalist
+036		Reporter, Short-hand Writer
+037		[Student]
+038		Persons engaged in Scientific Pursuits
+039		Literary, Scientific, Institution, Service, etc.
+040		Civil Engineer
+041		Mining Engineer
+042		Land, House, Ship, Surveyor
+043		Painter (artist)
+044		Engraver (artist)
+045		Sculptor
+046		Architect
+047		Musician, Music Master
+048		Art Student
+049		Photographer
+050		Actor
+051		Art, Music, Theatre Service
+052		Performer, Showman, Exhibition, Service
+053		Billiard, Cricket and other Games, Service
+054		Domestic Coachman, Groom
+055		Domestic Gardener
+056		Domestic Indoor Servant
+057		Lodge, Gate, Park Keeper (not Government)
+058		Inn, Hotel Servant
+059		College, Club Service
+060		Office Keeper (not Government)
+061		Cook (not domestic)
+062		Charwoman
+063		Washing and Bathing Service
+064		Hospital and Institution Service
+065		Others engaged in Service
+066		Merchant
+067		Broker, Agent, Factor
+068		Auctioneer, Appraiser, Valuer, House Agent
+069		Accountant
+070		Salesman, Buyer (not otherwise specified)
+071		Commercial Traveller
+072		Commercial Clerk
+073		Officer of Commercial Company, Guild, Society etc.
+074		Banker
+075		Bank Service
+076		Bill Discounter, Bill Broker, Finance Agent
+077		Life, House, Ship etc., Insurance Service
+078		Railway Engine Driver, Stoker
+079		Railway Guard
+080		Pointsman, Level Crossing Man
+081		Other Railway Officials and Servants
+082		Toll Collector, Turnpike Gate Keeper
+083		Omnibus, Coach, Cab, Owner - Livery Stable Keeper
+084		Cabman, Flyman, Coachman (not domestic)
+085		Carman, Carrier, Carter, Haulier
+086		Tramway Companies' Service
+087		Wheel Chair Proprietor, Attendant etc.
+088		Inland Navigation Service
+089		Bargeman, Lighterman, Waterman
+090		Navigation Service (on shore)
+091		Seaman (Merchant Service)
+092		Pilot
+093		Ship Steward, Cook
+094		Boatman on Seas
+095		Harbour, Dock, Wharf, Lighthouse Service
+096		Warehouseman (not Manchester)
+097		Meter, Weigher
+098		Messenger, Porter, Watchman (not Railway or Government)
+099		Telegraph, Telephone Service
+100		Farmer, Grazier
+101		Farmer's, Grazier's - Son, Grandson, Brother, Nephew
+102		Farm Bailiff
+103		Agricultural Labourer, Farm Servant, Cottager
+104		Shepherd
+105		[Farm Servant Indoor - prob. combined with 103]
+106		Land Drainage Service (not in towns)
+107		Agricultural Machine - Proprietor, Attendant
+108		Agricultural Student
+109		Others engaged in, or connected with agriculture
+110		Woodman
+111		Nurseryman, Seedsman, Florist
+112		Gardener (not domestic)
+113		Horse Proprietor, Breeder, Dealer
+114		Groom, Horse-keeper, Horse-breaker
+115		Veterinary Surgeon, Farrier
+116		Cattle, Sheep, Pig - Dealer, Salesman
+117		Drover
+118		Gamekeeper
+119		Dog, Bird, Animal - Keeper, Dealer
+120		Vermin Destroyer
+121		Fisherman
+122		Knacker, Catsmeat Dealer etc.
+123		Publisher, Bookseller, Librarian
+124		Music-Publisher, Seller, Printer
+125		Bookbinder
+126		Printer
+127		Newspaper Agent, News Room Keeper
+128		Others in books
+129		Lithographer, Lithographic Printer
+130		Copper Plate and Steel Plate Printer
+131		Map and Print - Colourer, Seller
+132		Others in prints and maps
+133		Engine, Machine Maker
+134		Millwright
+135		Fitter, Turner (Engine and Machine)
+136		Boiler Maker
+137		Spinning and Weaving Machine Maker
+138		Agricultural Machine and Implement Maker
+139		Domestic Machinery - Maker, Dealer
+140		Others in machines
+141		Tool Maker, Dealer
+142		Cutler, Scissors Maker
+143		File Maker
+144		Saw Maker
+145		Pin Maker
+146		Needle Maker
+147		Steel Pen Maker
+148		Pencil Maker (Wood)
+149		Domestic Implement Maker
+150		Others in tools and implements
+151		Watch Maker, Clock Maker
+152		Philosophical Instrument Maker
+153		Electrical Apparatus Maker
+154		Weighing and Measuring Apparatus Maker
+155		Others in watches and clocks
+156		Surgical Instrument Maker
+157		Gunsmith, Gun Manufacturer
+158		Ordnance Manufacturer
+159		Sword, Bayonet - Maker, Cutler
+160		Others in arms or ordinance
+161		Musical Instrument Maker, Dealer
+162		Type Cutter, Founder
+163		Die, Seal, Coin, Medal Maker
+164		Toy Maker, Dealer
+165		Fishing Rod, Tackle, Maker, Dealer
+166		Apparatus for other games, Maker, Dealer
+167		Builder
+168		Carpenter, Joiner
+169		Bricklayer
+170		Mason
+171		Slater, Tiler
+172		Plasterer, Whitewasher
+173		Paperhanger
+174		Plumber
+175		Painter, Glazier
+176		Others in houses
+177		Cabinet Maker
+178		French Polisher
+179		Furniture Broker, Dealer
+180		Locksmith, Bellhanger
+181		Gas Fitter
+182		House and Shop Fittings - Maker, Dealer
+183		Funeral Furniture Maker, Undertaker
+184		Others in furniture and fittings
+185		Wood Carver
+186		Carver, Gilder
+187		Dealer in Works of Art
+188		Figure, Image - Maker, Dealer
+189		Animal, Bird etc. Preserver, Naturalist
+190		Artificial Flower Maker
+191		Others in house decorations
+192		Coachmaker
+193		Railway Carriage, Railway Wagon, Maker
+194		Wheelwright
+195		Bicycle, Tricycle - Maker, Dealer
+196		Others in carriages
+197		Saddler, Harness, Whip Maker
+198		Ship, Boat, Barge Builder
+199		Shipwright, Ship Carpenter (ashore)
+200		Mast, Yard, Oar, Block Maker
+201		Ship Rigger, Chandler, Fitter
+202		Sail Maker
+203		Dye, Paint Manufacture
+204		Ink, Blacking, Colour Substance Manufacture
+205		Gunpowder, Guncotton, Explosive Substance Manufacture
+206		Fusee, Fireworks, Explosive Article Manufacture
+207		Chemist, Druggist
+208		Manufacturing Chemist
+209		Alkali Manufacture
+210		Drysalter
+211		Others in drugs and other chemicals and compounds
+212		Tobacco Manufacture, Tobacconist
+213		Tobacco Pipe, Snuff Box etc. Maker
+214		Innkeeper, Hotel Keeper, Publican
+215		Lodging, Boarding House Keeper
+216		Coffee, Eating House, Keeper
+217		Hop - Merchant, Dealer
+218		Maltster
+219		Brewer
+220		Beerseller, Ale, Porter, Cider Dealer
+221		Cellarman
+222		Wine, Spirit - Merchant, Agent
+223		Milkseller, Dairyman
+224		Cheesemonger, Butterman
+225		Butcher, Meat Salesman
+226		Provision Curer, Dealer
+227		Poulterer, Game Dealer
+228		Fishmonger
+229		Corn, Flour, Seed Merchant, Dealer
+230		Corn Miller
+231		Baker
+232		Confectioner, Pastrycook
+233		Greengrocer, Fruiterer
+234		Mustard, Vinegar, Spice, Pickle Maker, Dealer
+235		Sugar Refiner
+236		Grocer. Tea, Coffee, Chocolate Maker, Dealer
+237		Ginger Beer, Mineral Water Manufacturer, Dealer
+238		Others Dealing in Food
+239		Woolstapler
+240		Woollen Cloth Manufacture
+241		Wool, Woollen goods - Dyer, Printer
+242		Worsted, Stuff, Manufacture
+243		Flannel Manufacture
+244		Blanket Manufacture
+245		Fuller
+246		Cloth, Worsted, Stuff, Flannel, Blanket Dealer
+247		Others working in wool or worsted
+248		Silk, Silk Goods, Manufacture
+249		Silk Dyer, Printer
+250		Ribbon Manufacture
+251		Crepe, Gauze Manufacture
+252		Silk Merchant, Dealer
+253		Cotton, Cotton Goods Manufacture
+254		Cotton, Calico - Printer, Dyer, Bleacher
+255		Cotton, Calico - Warehouseman, Dealer
+256		Flax, Linen - Manufacturer, Dealer
+257		Lace Manufacturer, Dealer
+258		Fustian Manufacturer, Dealer
+259		Tape Manufacturer, Dealer
+260		Thread Manufacturer, Dealer
+261		Others in cotton and flax
+262		Hemp, Jute, Cocoa Fibre Manufacture
+263		Rope, Twine, Cord - Maker, Dealer
+264		Mat Maker, Seller
+265		Net Maker
+266		Canvas, Sailcloth Manufacture
+267		Sacking, Sack, Bag - Maker, Dealer
+268		Others working and Dealing in Hemp
+269		Weaver (undefined)
+270		Dyer, Printer, Scourer, Bleacher, Calenderer (undefined)
+271		Factory Hand (textile, undefined)
+272		Felt Manufacture
+273		Carpet, Rug Manufacture
+274		Manchester Warehouseman
+275		Draper, Linen Draper, Mercer
+276		Fancy Goods (Textile) Manufacturer, Worker, Dealer
+277		Trimming Maker, Dealer
+278		Embroiderer
+279		Others in mixed or undefined materials
+280		Hatter, Hat Manufacture
+281		Straw - Hat, Bonnet, Plait Manufacture
+282		Tailor
+283		Milliner, Dressmaker, Staymaker
+284		Shawl Manufacture
+285		Shirt Maker, Seamstress
+286		Hosiery Manufacture
+287		Hosier, Haberdasher
+288		Glover, Glove Maker
+289		Button Maker, Dealer
+290		Shoe, Boot - Maker, Dealer
+291		Patten, Clog Maker
+292		Wig Maker, Hair Dresser
+293		Umbrella, Parasol, Stick - Maker, Dealer
+294		Accoutrement Maker
+295		Old Clothes Dealer, and others
+296		Tallow Chandler, Candle, Grease Manufacture
+297		Soap Boiler, Maker
+298		Glue, Size, Gelatine, Isinglass - Maker, Dealer
+299		Manure Manufacture
+300		Bone, Horn, Ivory, Tortoise-shell - Worker, Dealer
+301		Comb Maker
+302		Others in grease, gut, bone, horn, ivory or whalebone
+303		Furrier, Skinner
+304		Tanner, Fellmonger
+305		Currier
+306		Leather Goods, Portmanteau, Bag, Strap etc., Maker, Dealer
+307		Parchment, Vellum - Maker, Dealer
+308		Hair, Bristle - Worker, Dealer
+309		Brush, Broom, Maker
+310		Quill, Feather - Dresser, Dealer
+311		Oil Miller, Oil Cake - Maker, Dealer
+312		Oil and Colourman
+313		Floor Cloth, Oil Cloth Manufacture
+314		Japanner
+315		India Rubber, Gutta Percha - Worker, Dealer
+316		Waterproof Goods - Maker, Dealer
+317		Others in oils, gums and resins
+318		Willow, Cane, Rush Worker, Dealer, Basketmaker
+319		Hay, Straw (not plait), Chaff, Cutter, Dealer
+320		Thatcher
+321		Timber, Wood - Merchant, Dealer
+322		Sawyer
+323		Lath, Wooden Fence, Hurdle Maker
+324		Wood Turner, Box Maker
+325		Cooper, Hoop Maker, Bender
+326		Cork, Bark - Cutter, Worker, Dealer
+327		Others in wood and bark
+328		Paper Manufacture
+329		Envelope Maker
+330		Stationer, Law Stationer
+331		Card, Pattern Card Maker
+332		Paper Stainer
+333		Paper Box, Paper Bag Maker
+334		Ticket, Label Writer
+335		Others in paper
+336		Coal Miner
+337		Ironstone Miner
+338		Copper Miner
+339		Tin Miner
+340		Lead Miner
+341		Miner, in other or undefined Minerals
+342		Mine Service
+343		Haulier
+344		Coal Merchant
+345		Coalheaver
+346		Coke, Charcoal, Peat - Cutter, Burner, Dealer
+347		Gas Works Service
+348		Stone Quarrier
+349		Stone Cutter, Dresser, Dealer
+350		Slate Quarrier
+351		Slate Worker, Dealer
+352		Limeburner
+353		Clay, Sand, Gravel, Chalk, Labourer, Dealer
+354		Fossil, Coprolite Digger, Dealer
+355		Well Sinker, Borer
+356		Plaster, Cement Manufacture
+357		Brick, Tile - Maker, Burner, Dealer
+358		Paviour
+359		Road Contractor, Surveyor, Inspector
+360		Road Labourer
+361		Railway Contractor
+362		Platelayer
+363		Railway Labourer, Navvy
+364		Others in stone, clay and road making
+365		Earthenware, China, Porcelain, Manufacture
+366		Glass Manufacture
+367		Earthenware, China, Glass Dealer
+368		Salt Maker, Dealer
+369		Waterworks Service
+370		Others in water
+371		Goldsmith, Silversmith, Jeweller
+372		Gold, Silver, Beater
+373		Lapidary
+374		Others in precious metals and jewellery
+375		[Iron Manufacture]
+376		[Steel Manufacture]
+377		Blacksmith
+378		Whitesmith
+379		Nail Manufacture
+380		Anchor, Chain Manufacture
+381		Ironmonger. Hardware Dealer, Merchant
+382		Other Iron and Steel Manufacture
+383		Copper, Copper Goods - Manufacturer, Worker, Dealer
+384		Coppersmith
+385		Tin Manufacture
+386		Tin, Tin Plate, Tin Goods - Manufacturer, Worker, Dealer
+387		Zinc, Zinc Goods - Manufacturer, Worker, Dealer
+388		Lead, Leaden Goods - Manufacturer, Worker, Dealer
+389		Metal Refiner, Worker, Turner, Dealer
+390		Brass, Bronze Manufacture. Brazier
+391		Metal Burnisher, Lacquerer
+392		White Metal, Plated Ware, Manufacture. Pewterer
+393		Wire Maker, Worker, Weaver, Drawer
+394		Bolt, Nut, Rivet, Screw, Staple Maker
+395		Lamp, Lantern, Candlestick Maker
+396		Clasp, Buckle, Hinge Maker
+397		Fancy Chain, Gilt Toy Maker
+398		Others in mixed, other or unspecified metals
+399		General Shopkeeper, Dealer
+400		Pawnbroker
+401		Costermonger, Huckster, Street Seller
+402		Manufacturer, Manager, Superintendent (undefined)
+403		Contractor (undefined)
+404		General Labourer
+405		Engine Driver, Stoker, Fireman (not railway, marine or agricultural)
+406		Artizan, Mechanic (undefined)
+407		Apprentice (undefined)
+408		Factory Labourer (undefined)
+409		Machinist, Machine Worker (undefined)
+410		Town Drainage Service
+411		Chimney Sweep, Soot Merchant
+412		Scavenger, Crossing Sweeper
+413		Rag Gatherer, Dealer
+414		Persons returned by Property, Rank etc. and not special occupation
+998		Occupation recorded but of unknown meaning
+999		Blank field, or illegible
+
+ ORDERGB		Occupational order, Britain
+01		General/Local Government
+02		Defence of the country
+03		Professionals
+04		Domestic Service or Offices
+05		Commercial Occupations
+06		Conveyance of men, goods and messages
+07		Agriculture
+08		Animals
+09		Books, Prints, Maps
+10		Dealers in Machines and Implements
+11		House, Furniture and Decorations
+12		Carriages and Harnesses
+13		Ships and Boats
+14		Chemicals and Compounds
+15		Tobacco and Pipes
+16		Food and Lodging
+17		Textile Fabrics
+18		Dress
+19		Animal Substances
+20		Vegetable Substances
+21		Mineral Substances
+22		General or Unspecified Commodities
+23		Refuse Matters
+24		Persons without Specified Occupations
+
+ AGE_MOM		Age [of mother]
+000		Less than 1 year old
+001		1
+002		2
+003		3
+004		4
+005		5
+006		6
+007		7
+008		8
+009		9
+010		10
+011		11
+012		12
+013		13
+014		14
+015		15
+016		16
+017		17
+018		18
+019		19
+020		20
+021		21
+022		22
+023		23
+024		24
+025		25
+026		26
+027		27
+028		28
+029		29
+030		30
+031		31
+032		32
+033		33
+034		34
+035		35
+036		36
+037		37
+038		38
+039		39
+040		40
+041		41
+042		42
+043		43
+044		44
+045		45
+046		46
+047		47
+048		48
+049		49
+050		50
+051		51
+052		52
+053		53
+054		54
+055		55
+056		56
+057		57
+058		58
+059		59
+060		60
+061		61
+062		62
+063		63
+064		64
+065		65
+066		66
+067		67
+068		68
+069		69
+070		70
+071		71
+072		72
+073		73
+074		74
+075		75
+076		76
+077		77
+078		78
+079		79
+080		80
+081		81
+082		82
+083		83
+084		84
+085		85
+086		86
+087		87
+088		88
+089		89
+090		90
+091		91
+092		92
+093		93
+094		94
+095		95
+096		96
+097		97
+098		98
+099		99
+100		100
+101		101
+102		102
+103		103
+104		104
+105		105
+106		106
+107		107
+108		108
+109		109
+110		110
+111		111
+112		112
+113		113
+114		114
+115		115
+116		116
+117		117
+118		118
+119		119
+120		120
+121		121
+122		122
+123		123
+124		124
+125		125
+129		129
+130		130
+135		135
+999		Unknown
+
+ AGE_POP		Age [of father]
+000		Less than 1 year old
+001		1
+002		2
+003		3
+004		4
+005		5
+006		6
+007		7
+008		8
+009		9
+010		10
+011		11
+012		12
+013		13
+014		14
+015		15
+016		16
+017		17
+018		18
+019		19
+020		20
+021		21
+022		22
+023		23
+024		24
+025		25
+026		26
+027		27
+028		28
+029		29
+030		30
+031		31
+032		32
+033		33
+034		34
+035		35
+036		36
+037		37
+038		38
+039		39
+040		40
+041		41
+042		42
+043		43
+044		44
+045		45
+046		46
+047		47
+048		48
+049		49
+050		50
+051		51
+052		52
+053		53
+054		54
+055		55
+056		56
+057		57
+058		58
+059		59
+060		60
+061		61
+062		62
+063		63
+064		64
+065		65
+066		66
+067		67
+068		68
+069		69
+070		70
+071		71
+072		72
+073		73
+074		74
+075		75
+076		76
+077		77
+078		78
+079		79
+080		80
+081		81
+082		82
+083		83
+084		84
+085		85
+086		86
+087		87
+088		88
+089		89
+090		90
+091		91
+092		92
+093		93
+094		94
+095		95
+096		96
+097		97
+098		98
+099		99
+100		100
+101		101
+102		102
+103		103
+104		104
+105		105
+106		106
+107		107
+108		108
+109		109
+110		110
+111		111
+112		112
+113		113
+114		114
+115		115
+116		116
+117		117
+118		118
+119		119
+120		120
+121		121
+122		122
+123		123
+124		124
+125		125
+129		129
+130		130
+135		135
+999		Unknown
+
+ MARST_MOM		Marital status [of mother]
+1		Married, spouse present
+2		Married, spouse absent
+3		Separated
+4		Divorced
+5		Widowed
+6		Never married/single
+9		Indeterminate/unknown
+
+ MARST_POP		Marital status [of father]
+1		Married, spouse present
+2		Married, spouse absent
+3		Separated
+4		Divorced
+5		Widowed
+6		Never married/single
+9		Indeterminate/unknown
