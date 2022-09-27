@@ -8,7 +8,7 @@ Journal of Human Resources
 
 You can cite this replication package using Zenodo, where an archival
 version of this repository is stored.
-[![DOI](https://zenodo.org/badge/XXX.svg)](XXX)
+[![DOI](https://zenodo.org/badge/542135759.svg)](https://zenodo.org/badge/latestdoi/542135759)
 
 ## Overview
 
@@ -21,7 +21,7 @@ The entire replication takes 7 and a half days to run on a 2.9 GHz
 Intel-based Windows PC (64-bit x86-64) with 24 GB of RAM or 4 and a half
 days on a machine with 64 RAM.
 
-The Zenodo replication package is available here: XXX
+The Zenodo replication package is available here: <https://doi.org/10.5281/zenodo.7117306>
 
 The GitHub version is available here:
 <https://github.com/anthonywray/lifetime-consequences-child-health>
