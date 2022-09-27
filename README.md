@@ -411,3 +411,7 @@ Boston College Department of Economics, revised 12 Apr 2020.
 Adrian Sayers, 2014. “NYSIIS: Stata module to calculate nysiis codes
 from string variables,” Statistical Software Components S457936, Boston
 College Department of Economics, revised 21 Jul 2018.
+
+## Acknowledgements
+
+This code is based on AEA data editor's [readme guidelines](https://aeadataeditor.github.io/posts/2020-12-08-template-readme). Some content on this page was adapted from [Alex Hollingsworth](https://hollina.github.io/).
