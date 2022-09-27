@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Karbownik"
+  given-names: "Krzysztof"
+  orcid: "https://orcid.org/0000-0003-0523-4829"
+- family-names: "Wray"
+  given-names: "Anthony"
+  orcid: "https://orcid.org/0000-0001-5114-3309"
+title: "Replication package for 'Lifetime and intergenerational consequences of poor childhood health'"
+version: 1.0
+doi: 10.5281/zenodo.7117306
+date-released: 2022-09-27
+url: "https://github.com/anthonywray/lifetime-consequences-child-health"
