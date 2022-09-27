@@ -1,0 +1,789 @@
+main,system,category,anatomy,acute,chronic,congenital,contagious,infectious,infection,inflammation,complication,symptom
+,,,,,,,,,,,,
+ABSCESS,Immune,,,Y/N,N,N,N,N,Y,N,N,N
+TUBERCULAR DISEASE,,TB,,Y/N,Y,N,Y,Y,N,N,N,N
+SEQUELA,,,,N,N,N,N,N,N,N,N,Y
+PNEUMONIA,Respiratory,,Lungs,Y/N,Y/N,N,Y,Y,N,Y,N,N
+RHEUMATISM,Muscular/skeletal,,,Y/N,Y,N,N,N,N,Y,N,N
+DIPHTHERIA,,Fever,,Y,N,N,Y,Y,N,N,N,N
+BRONCHITIS,Respiratory,,Lungs,Y/N,Y/N,N,N,N,N,Y,N,N
+BRONCHOPNEUMONIA,Respiratory,,Lungs,Y/N,Y/N,N,Y,Y,N,Y,N,N
+SCARLET FEVER,,Fever,,Y,N,N,Y,Y,N,N,N,N
+PHIMOSIS,Reproductive,,Penis,N,N,N,N,N,N,N,N,N
+NECROSIS,,Decay,,N,Y ,N,N,N,N,N,N,N
+MORBUS CORDIS,Circulatory,,Heart,N,Y,N,N,N,N,N,N,N
+MENINGITIS,Nervous,,Meninges,Y,N,N,Y,Y,N,Y,N,N
+CHOREA,Nervous,,,N,Y,N,N,N,N,N,Y,N
+TUMOUR,,,,N,Y,N,N,N,N,N,N,N
+PLEURISY,Respiratory,,"Lungs, Pleura",Y/N,N,N,N,N,N,Y,Y,N
+HERNIA,Digestive,,,N,Y,N,N,N,N,N,N,N
+ULCER,,,,Y/N,N,N,N,N,N,Y,N,N
+DIARRHEA,Digestive,,,Y/N,Y/N,N,N,Y,N,N,N,Y
+FEVER,,Fever,,Y/N,N,N,N,N,N,N,N,Y
+WHOOPING COUGH,Respiratory,Fever,,Y,N,N,Y,Y,N,N,N,N
+TYPHOID FEVER,,Fever,,Y,N,N ,Y,Y,N,N,N,N
+PHTHISIS,Respiratory,TB,,Y,Y,N,Y,Y,N,Y,N,N
+PYREXIA,,Fever,,Y/N,N,N,N,N,N,N,N,Y
+TALIPES,Skeletal,Congenital,Foot,N,Y,Y,N,N,N,N,N,N
+OPHTHALMIA,Nervous,,Eye,Y/N,N,N,N,N,N,Y,N,N
+RICKETS,,Nutrition,,N,Y,N,N,N,N,N,N,N
+MEASLES,,Fever,,Y,N,N,Y,Y,Y,N,N,N
+ENTERIC FEVER,,Fever,,Y,N,N,Y,Y,Y,N,N,N
+EMPYEMA,Respiratory,,,N,N,N,N,N,N,N,Y,N
+TUBERCULOSIS,,TB,,Y,Y,N,Y,Y,N,Y,N,N
+HARELIP,,Congenital,Mouth,N,Y,Y,N,N,N,N,N,N
+CLEFT PALATE,,Congenital,Throat,N,Y,Y,N,N,N,N,N,N
+SYPHILIS,,Venereal,,Y/N,Y,Y/N,Y,Y,N,N,N,N
+CARIES SPINE,,TB,Spine,N,Y,N,N,N,Y,N,Y,N
+PERITONITIS,Digestive,,Abdomen,Y/N,N,N,N,N,N,Y,N,N
+STRANGULATED INGUINAL HERNIA,Digestive,,,N,Y,N,N,N,N,N,N,N
+LARYNGITIS,,Symptom,Throat,Y/N,N,N,N,N,Y,Y,N,N
+PARALYSIS,Nervous,,,N,Y,N,N,N,N,N,N,N
+DEBILITY,,Decay,,N,Y,N,N,N,N,N,N,N
+NEPHRITIS,Urinary,,Kidney,Y/N,N,N,N,N,N,Y,N,N
+ERYSIPELAS,Skin,,,Y,N,N,Y,Y,N,N,N,N
+RHEUMATIC FEVER,,Fever,,Y/N,N,N,Y,Y,Y,N,Y,N
+APPENDICITIS,Digestive,,,Y,N,N,N,N,N,Y,N,N
+GENU VALGUM,Skeletal,,Legs,N,Y,Y,N,N,N,N,N,N
+ECZEMA,Skin,,,Y/N,Y/N,Y/N,N,N,N,N,N,N
+VOMITING,Digestive,Symptom,,Y/N,N,N,N,N,N,N,N,Y
+CELLULITIS,Skin,,,Y/N,N,N,N,N,Y,Y,N,N
+CROUP,,Fever,Throat,Y/N,N,N,Y,Y,N,N,N,N
+MORBUS COXAE,Joints,,Hip,N,Y,N,N,N,N,N,N,N
+VARICOCELE,Reproductive,,,N,N,N,N,N,N,Y,N,N
+CURVATURE,,TB,,N,Y,N,N,N,N,N,Y,N
+PERIOSTEITIS,Soft tissue,,,Y/N,N,N,N,N,N,Y,N,N
+CARIES,Skeletal,Decay,,N,Y,N,N,N,N,N,Y,N
+HYDROCELE,Reproductive,,,N,Y/N,N,N,N,N,N,N,N
+SYNOVITIS,Joints,Soft tissue,,Y/N,N,N,N,N,N,Y,Y,N
+STRABISMUS,,,Eye,N,Y,Y,N,N,N,N,N,N
+KERATITIS,,Nutrition,Eye,Y/N,Y,N,N,N,N,Y,N,N
+MARASMUS,,Nutrition,,N,Y,N,N,N,N,N,N,N
+CYST,Skin,,,N,N,N,N,N,N,N,N,N
+CATARACT,,,Eye,N,Y,N,N,N,N,N,N,N
+TONSILLITIS,,,Throat,Y/N,N,N,N,N,N,Y,N,N
+CONVULSION,Nervous,Neurological,,Y/N,Y/N,N,N,N,N,N,N,N
+STRUMA,,TB,,Y/N,Y,N,N,Y,N,N,N,N
+HEMATURIA,Urinary,,,N,N,N,N,N,N,N,N,N
+PERICARDITIS,Circulatory,,Heart,Y/N,Y,N,N,N,N,Y,N,N
+DROPSY,Circulatory,,,Y/N,Y,N,N,N,N,N,N,N
+CALCULUS,Urinary,,,N,Y,N,N,N,N,N,N,N
+FISTULA,,,,N,Y,Y/N,N,N,N,N,N,N
+EPILEPSY,Nervous,Neurological,,Y/N,Y,N,N,N,N,N,N,N
+LUPUS,Immune,,,N,Y,N,N,N,N,N,N,N
+INFANTILE PARALYSIS,Nervous,,,Y/N,Y,N,,Y,N,Y,N,N
+SARCOMA,,Soft tissue,,N,Y,N,N,N,N,N,N,N
+OTITIS MEDIA,,,Ear,Y/N,N,N,N,N,Y,N,N,N
+MOLE,Skin,,,N,N,Y,N,,N,N,N,N
+ASCITES,Digestive,,,N,Y,N,N,N,N,Y,N,Y
+COUGH,Respiratory,,,Y/N,N,N,N,N,Y,N,N,Y
+ARTHRITIS,Joints,,,N,Y,N,N,N,N,Y,N,N
+PURPURA,Skin,,,N,N,N,N,N,N,N,N,N
+DIPHTHERITIC PARALYSIS,,Fever,,Y,N,N,N,N,Y,N,Y,N
+EPIPHYSITIS,Skeletal,,,Y/N,Y,N,N,N,N,Y,N,N
+ANEMIA,Circulatory,,,N,N,N,N,N,N,N,N,Y
+KNOCK KNEE,Skeletal,,Legs,N,Y,Y,N,N,N,N,N,N
+EXOSTOSIS,Skeletal,,,N,Y,N,N,N,N,N,N,N
+PROLAPSE,,,,N,Y,Y,N,N,N,N,N,N
+ALBUMINURIA,Urinary,,,N,Y,N,N,N,N,N,N,Y
+POLYP,,Soft tissue,,N,N,N,N,N,N,N,N,N
+HEMIPLEGIA,Nervous,,,N,Y,N,N,N,N,N,N,N
+CATARRH,,Soft tissue,Throat,Y/N,N,N,N,N,N,Y,N,N
+NEVUS,Skin,,,N,N,Y,N,N,N,N,N,N
+OTORRHEA,,,Ear,N,N,N,N,N,N,N,N,N
+INTUSSUSCEPTION,Digestive,,,Y/N,Y,N,N,N,N,N,N,N
+CONJUNCTIVITIS,,,Eye,Y/N,N,N,Y,Y,N,Y,N,N
+CALCULUS VESICA,Urinary,,,N,Y,N,N,N,N,N,N,N
+HYDROCEPHALUS,Nervous,,,N,Y,Y/N,N,N,N,Y,N,N
+EDEMA,Circulatory,,,N,Y,N,N,N,N,N,N,N
+STOMATITIS,,Soft tissue,Mouth,Y/N,N,N,N,N,N,Y,N,N
+MITRAL DISEASE,Circulatory,,Heart,N,Y/N,N,N,N,N,N,N,N
+TALIPES EQUINOVARUS,Skeletal,,Foot,N,N,Y,N,N,N,N,N,N
+VENEREAL,,Venereal,,Y/N,Y,Y/N,Y,Y,N,N,N,N
+ENDOCARDITIS,Circulatory,,Heart,Y/N,Y,N,N,N,N,Y,N,N
+PLEUROPNEUMONIA,Respiratory,,"Lungs, Pleura",Y/N,Y/N,N,N,N,Y,Y,Y,N
+ANCHYLOSIS,Joints,,,N,Y,N,N,N,N,N,N,N
+PARAPLEGIA,Nervous,,,N,Y,N,N,N,N,N,N,N
+IMPETIGO,Skin,,,N,N,N,N,N,Y,N,N,N
+ORTHOPEDY,Skeletal,,,N,Y,N,N,N,N,N,N,N
+HEMORRHAGE,Circulatory,Injury,,Y,N,N,N,N,N,N,N,Y
+GASTROENTERITIS,Digestive,,,Y/N,N,N,N,N,Y/N,Y,N,N
+INGROWN,Skin,,,N,N,N,N,N,N,N,N,N
+UNDESCENDED TESTICLE,Reproductive,,,N,Y,Y,N,N,N,N,N,N
+IDIOCY,Nervous,Neurological,,N,Y,Y,N,N,N,N,N,N
+OSTEITIS,Skeletal,,,N,N,N,N,N,N,Y,N,N
+WASTING,,Decay,,N,Y,N,N,N,N,N,N,Y
+CONSTIPATION,Excretory,,,Y/N,Y/N,N,N,N,N,N,N,Y
+FLAT FOOT,Skeletal,,Foot,N,Y,Y,N,N,N,N,N,N
+ANASARCA,Circulatory,,,N,Y,N,N,N,N,N,Y,N
+JAUNDICE,Digestive,,,N,Y,N,N,N,N,N,N,N
+PYEMIA,Circulatory,,,N,N,N,N,N,Y,N,N,N
+DYSPNEA,Respiratory,,,N,Y/N,N,N,N,N,N,N,Y
+OTITIS,,,Ear,Y/N,N,N,N,N,N,Y,N,N
+INTERNAL STRABISMUS,,,Eye,N,Y,Y,N,N,N,N,N,N
+VARICOSE VEINS,Circulatory,,,N,Y,N,N,N,N,N,N,N
+HEMATOMA,Circulatory,,,N,N,N,N,N,N,N,N,N
+HYPERTROPHY,,,,N,Y,N,N,N,N,N,N,N
+PLEURAL EFFUSION,Respiratory,,,N,Y,N,N,N,N,N,Y,N
+TYPHLITIS,Digestive,,,N,N,N,N,N,N,Y,N,N
+ERYTHEMA,Skin,,,N,N,N,N,N,Y,Y,N,N
+MORBUS CORPORIS,Skin,Fungal,,N,N,N,N,Y,Y,Y,N,N
+ADENITIS,Lymphatic,,Lymph node,Y/N,N,N,N,N,Y,Y,Y,N
+GONORRHEA,,Venereal,,Y/N,Y,N,Y,Y,N,N,N,N
+DIABETES,Urinary,,,N,Y,N,N,N,N,N,N,N
+STARVATION,,Nutrition,,N,Y,N,N,N,N,N,N,Y
+ENTERITIS,Digestive,,,Y/N,N,N,N,N,N,Y,N,N
+STRICTURE,,,,N,Y,N,N,N,N,N,N,N
+BURSA,Joints,,,N,N,N,N,N,N,N,N,N
+HYSTERIA,Nervous,Neurological,,N,Y,N,N,N,N,N,N,N
+TORTICOLLIS,Muscular,,,N,Y,Y/N,N,N,N,N,N,N
+CHICKEN POX,,Fever,,Y,N,N,Y,Y,N,Y,N,N
+HEMOPTYSIS,Respiratory,,,N,N,N,N,N,N,N,N,N
+PERITYPHLITIS,Digestive,,,N,N,N,N,N,N,Y,N,N
+SPINA BIFIDA,Nervous,,,N,Y,Y,N,N,N,N,N,N
+IMPERFORATE ANUS,Excretory,,,N,Y,Y,N,N,N,N,N,N
+TINEA,Skin,Fungal,,Y/N,N,N,N,N,Y,Y,N,N
+LYMPHADENOMA,Lymphatic,,,N,Y ,N ,N,N,N ,N,N,N
+CEPHALALGIA,,Symptom,,N,N,N,N,N,N,N,N,Y
+DERMOID,Skin,,,N,N,N,N,N,N,N,N,N
+HAMMER TOE,Skeletal,,Foot,N,Y,Y,N,N,N,N,N,N
+POTTS DISEASE,,TB,,N,Y,N,N,Y,N,N,Y,N
+PULMONARY CATARRH,Respiratory,,,Y/N,N,N,N,N,N,Y,N,N
+CIRCUMCISION,Reproductive,Surgical,,N,N,N,N,N,N,N,N,N
+MYOPIA,,,Eye,N,Y,N,N,N,N,N,N,N
+COLLAPSED LUNG,Respiratory,,,N,Y/N,N,N,N,N,N,N,N
+HYPOSPADIAS,Reproductive,,,N,Y,Y,N,N,N,N,N,N
+MASTOIDITIS,,,Ear,N,N,N,N,N,Y,Y,N,N
+PEMPHIGUS,Skin,,,N,Y/N,N,N,N,N,Y,N,N
+SCURVY,,Nutrition,,N,N,N,N,N,N,N,N,N
+ECTOPIA VESICA,Urinary,,,N,Y,Y,N,N,N,N,N,N
+SCABIES,,Parasitic,,N,N,N,Y,Y,N,N,N,N
+MORBILLI,,Fever,,Y,N,N,Y,Y,N,N,N,N
+CARDITIS,Circulatory,,Heart,Y/N,Y,N,N,N,N,Y,N,N
+SEPSIS,Circulatory,,,Y/N,N,N,N,N,Y,N,N,N
+OSTEOMYELITIS,Skeletal,,,N,N,N,N,N,Y,N,N,N
+PERFORATED,,,,N,N,Y,N,N,N,N,N,N
+GANGRENE,,Decay,,N,Y,N,N,N,Y,Y,N,N
+EMPHYSEMA,Respiratory,,,N,Y,N,N,N,N,N,N,N
+STAPHYLOMA,,,Eye,N,N,N,N,N,N,N,N,N
+WRY NECK,Muscular,,,N,Y,Y/N,N,N,N,N,N,N
+IRITIS,,,Eye,Y/N,N,N,N,N,N,Y,N,N
+HEMOPHILIA,Circulatory,,,N,Y,Y,N,N,N,N,N,N
+LYMPHANGITIS,Lymphatic,,,Y/N,N,N,N,N,Y,Y,N,N
+PULMONARY,Respiratory,,Lungs,N,N,N,N,N,N,N,N,N
+HYPOPYON,,,Eye,N,N,N,N,N,Y,N,Y,N
+URINARY INCONTINENCE,Urinary,,,N,Y,Y/N,N,N,N,N,N,N
+CANCRUM ORIS,,,Mouth,N,Y/N,N,N,N,Y,Y,N,N
+TETANY,Muscular,,,N,Y/N,N,N,N,N,N,N,N
+PARAPHIMOSIS,Reproductive,,Penis,N,N,N,N,N,Y/N,Y,N,N
+BRIGHTS,Urinary,,Kidney,N,Y,N,N,N,Y,Y,N,N
+DACTYLITIS,,,"Hand, Foot",Y/N,Y/N,N,N,N,Y,Y,N,N
+PSORIASIS,Skin,,,N,Y,Y,N,N,N,Y,N,N
+SLOUGH,Skin,Decay,,N,N,N,N,N,N,N,N,N
+LIPOMA,Skin,,,N,N,N,N,N,N,N,N,N
+CYSTITIS,Urinary,,Bladder,Y/N,Y,Y/N,N,N,Y,Y,N,N
+ORCHITIS,Reproductive,,,Y/N,N,N,N,N,Y,Y,N,N
+INFLUENZA,,Fever,,Y/N,N,N,Y,Y,N,N,N,N
+HYDATID,,Parasitic,Liver,N,N,N,N,N,Y,N,N,N
+ASTIGMATISM,,,Eye,N,Y,N,N,N,N,N,N,N
+STENOSIS,,,,N,Y,N,N,N,N,N,N,N
+ENURESIS,Urinary,,,N,Y,N,N,N,N,N,N,N
+LARYNGISMUS STRIDULUS,,,Throat,N,N,N,N,N,N,N,N,N
+TALIPES EQUINUS,Skeletal,,Foot,N,Y,Y,N,N,N,N,N,N
+LYMPHADENITIS,Lymphatic,,,Y/N,N,N,N,N,N,Y,N,N
+OPACITY,,,Eye,N,Y,N,N,N,N,N,N,N
+GERMAN MEASLES,,Fever,,Y/N,N,N,Y,Y,N,N,N,N
+HYPERMETROPIA,,,Eye,N,Y,N,N,N,N,N,N,N
+HYGROMA,,,,N,N,N,N,N,N,N,N,N
+SEPTICEMIA,Circulatory,,,Y/N,N,N,N,N,Y,Y,N,N
+ANGULAR CURVATURE,,TB,,N,Y,N,N,Y,N,N,Y,N
+CRETINISM,Nervous,Neurological,Brain,N,Y,Y,N,N,N,N,N,N
+INTERSTITIAL KERATITIS,,,Eye,N,Y,Y/N,N,N,N,N,Y,N
+LEUCOMA,,,Eye,N,Y,N,N,N,N,N,N,N
+BLEPHARITIS,,,Eye,N,N,N,N,N,N,Y,N,N
+PALSY,Nervous,,,N,Y,N,N,N,N,N,N,N
+LOBAR PNEUMONIA,Respiratory,,Lungs,Y/N,Y/N,N,Y,Y,N,Y,N,N
+LAMELLAR CATARACT,,,Eye,N,Y,N,N,N,N,N,N,N
+NEGLECT,,Violence,,N,Y,N,N,N,N,N,N,N
+ERYTHEMA NODOSUM,Skin,,,Y/N,N,N,N,N,Y,N,Y,N
+BRONCHIECTASIS,Respiratory,,,N,Y,Y/N,N,N,N,N,N,N
+HYPHEMA,,Injury,Eye,N,N,N,N,N,N,N,N,N
+CLUB FOOT,Skeletal,,Foot,N,Y,Y,N,N,N,N,N,N
+MENINGOCELE,Nervous,,,N,Y,Y,N,N,N,N,N,N
+EPISTAXIS,,,Nose,N,N,N,N,N,N,N,N,Y
+GANGLION,Joints,,,N,N,N,N,N,N,N,N,N
+ASTHENOPIA,,,Eye,N,Y,N,N,N,N,N,N,Y
+SEBACEOUS CYST,Skin,,,N,N,N,N,N,N,N,N,N
+PERTUSSIS,Respiratory,Fever,,Y,N,N,Y,Y,N,N,N,N
+APHASIA,Nervous,,,N,Y,N,N,N,N,N,N,N
+SUPERNUMERARY,Skeletal,,Fingers,N,Y,Y,N,N,N,N,N,N
+FIBROID,,,,N,N,N,N,N,N,N,N,N
+CIRRHOSIS,Digestive,Decay,,N,Y,N,N,N,N,N,N,N
+INTESTINAL OBSTRUCTION,Digestive,,,N,Y,N,N,N,N,N,Y,N
+GASTRITIS,Digestive,,,Y/N,Y/N,N,N,N,N,Y,N,N
+COLIC,Digestive,,,Y,N,N,N,N,N,N,N,N
+PROPTOSIS,,,Eye,N,Y,N,N,N,N,N,N,N
+POLIOMYELITIS,Nervous,,,Y,Y,N,Y,Y,N,Y,N,N
+MALNUTRITION,,Nutrition,,N,Y,N,N,N,N,N,N,N
+RHEUMATOID ARTHRITIS,Joints,,,N,Y,N,N,N,N,Y,N,N
+AMETROPIA,,,Eye,N,Y,N,N,N,N,N,N,N
+WEBBED FINGERS,Skeletal,,,N,Y,Y,N,N,N,N,N,N
+IRREDUCIBLE HERNIA,Digestive,,,N,Y,N,N,N,N,N,N,N
+CONVERGENT STRABISMUS,,,Eye,N,Y,Y,N,N,N,N,N,N
+INFANTILE,,,,N,N,N,N,N,N,N,N,N
+DUCHENNES PARALYSIS,Nervous,,,N,Y,Y ,N,N,N,N,N,N
+AGUE,,Fever,,Y,N,N,N,Y,N,N,N,N
+NEURITIS,Nervous,,,Y/N,N,N,N,N,N,Y,N,N
+MUMPS,,Fever,,Y,N,N,Y,Y,N,Y,N,N
+HEAD LICE,,Parasitic,,N,N,N,N,N,N,N,N,N
+RACHITIS,Nervous,,,N,N,N,N,N,N,Y,N,N
+PAPILLOMA,,Soft tissue,,N,N,N,N,N,N,N,N,N
+PARESIS,Nervous,,,N,Y,N,N,N,N,N,N,N
+ASTHMA,Respiratory,,,N,Y,N,N,N,N,N,N,N
+TYPHUS,,Fever,,Y,N,N,N,Y,N,N,N,N
+CYANOSIS,Circulatory,,,N,Y,Y,N,N,N,N,N,N
+HERPES,Skin,,,N,N,N,N,Y,N,N,N,N
+CEREBROSPINAL MENINGITIS,Nervous,,,Y,N,N,Y/N,Y,N,Y,N,N
+LARDACEOUS DISEASE,,Internal,,N,Y,N,N,N,N,N,N,N
+BEHAVIOURAL DISORDER,Nervous,,,N,Y,N,N,N,N,N,N,N
+DYSPEPSIA,Digestive,,,N,Y,N,N,N,N,N,N,N
+ATAXIA,Nervous,,,N,Y,N,N,N,N,N,N,N
+TUBERCLE,,TB,,N,Y,N,Y,Y,N,N,N,N
+BLIND,,,Eye,N,Y,Y,N,N,N,N,N,N
+EPISPADIAS,Urinary,,,N,Y,Y,N,N,N,N,N,N
+CONTRACTURE,Muscles,,,N,Y,N,N,N,N,N,N,N
+CAPITIS,,,Eye,N,N,N,N,N,N,Y,N,N
+SCROFULA,,TB,,N,Y,N,N,Y,N,N,N,N
+UMBILICAL HERNIA,Digestive,,,N,Y,N,N,N,N,N,N,N
+ENCHONDROMA,Skeletal,,,N,N,N,N,N,N,N,N,N
+VULVITIS,Reproductive,,,Y/N,N,N,N,N,N,Y,N,N
+DUMB,Nervous,,Throat,N,Y,Y,N,N,N,N,N,N
+DERMATITIS,Skin,,,N,N,N,N,N,N,Y,N,N
+HEMATEMESIS,Digestive,,,Y,N,N,N,N,N,N,N,Y
+MENTAL IMPAIRMENT,Nervous,,,N,Y,Y,N,N,N,N,N,N
+RECTOVAGINAL FISTULA,Urinary/excretory,,,N,Y,Y,N,N,N,N,N,N
+URTICARIA,Skin,,,N,N,N,N,N,N,Y,N,N
+GLIOMA,,Soft tissue,,N,Y,N,N,N,N,N,N,N
+DEMENTIA,Nervous,,,N,Y,N,N,N,N,N,N,N
+WHITLOW,Skin,,Fingers,N,N,N,N,N,N,Y,N,N
+WARTS,Skin,Venereal,,,N,N,N,N,N,N,N,N
+IMBECILITY,Nervous,,,N,Y,Y,N,N,N,N,N,N
+NOMA,,,Mouth,Y,Y/N,N,Y,Y,N,Y,N,N
+VARICELLA,,Fever,,Y,N,N,Y,Y,N,Y,N,N
+DYSENTERY,Digestive,,,Y/N,N,N,N,N,N,Y,N,N
+HALLUX VALGUS,Skeletal,,Foot,N,Y,Y,N,N,N,N,N,N
+SYME'S,,Surgical,Foot,N,N,N,N,N,N,N,N,N
+PTOSIS,,,,,,,,,,,,
+ATRESIA,,,,,,,,,,,,
+EPIDIDYMITIS,,,,,,,,,,,,
+CYNANCHE,,,,,,,,,,,,
+MICTURITION,,,,,,,,,,,,
+GOITRE,,,,,,,,,,,,
+EPULIS,,,,,,,,,,,,
+PHLYCTENULAR KERATOCONJUNCTIVITIS,,,,,,,,,,,,
+ECTROPION,,,,,,,,,,,,
+GENU VARUM,,,,,,,,,,,,
+MEMBRANOUS,,,,,,,,,,,,
+LEUKEMIA,,,,,,,,,,,,
+TETANUS,,,,,,,,,,,,
+ANGIOMA,,,,,,,,,,,,
+DIABETES MELLITUS,,,,,,,,,,,,
+HYPERPYREXIA,,,,,,,,,,,,
+CORNEITIS,,,,,,,,,,,,
+ASCARIASIS,,,,,,,,,,,,
+CARDIAC,,,,,,,,,,,,
+MYELITIS,,,,,,,,,,,,
+PREMATURITY,,,,,,,,,,,,
+ANEURYSM,,,,,,,,,,,,
+CONVERGENT CONCOMITANT STRABISMUS,,,,,,,,,,,,
+LEUCOCYTHEMIA,,,,,,,,,,,,
+OSTEOARTHRITIS,,,,,,,,,,,,
+SCLEROSIS,,,,,,,,,,,,
+CHOROIDITIS,,,,,,,,,,,,
+CANCER,,,,,,,,,,,,
+BUBO,,,,,,,,,,,,
+SMALLPOX,,,,,,,,,,,,
+RAYNAUDS DISEASE,,,,,,,,,,,,
+MITRAL REGURGITATION,,,,,,,,,,,,
+AMAUROSIS,,,,,,,,,,,,
+PHLEBITIS,,,,,,,,,,,,
+OPTIC NEURITIS,,,,,,,,,,,,
+LATERAL CURVATURE,,,,,,,,,,,,
+PHARYNGITIS,,,,,,,,,,,,
+NEUROSIS,,,,,,,,,,,,
+BALANITIS,,,,,,,,,,,,
+EXTRAVASATION,,,,,,,,,,,,
+MUCOPURULENT CONJUNCTIVITIS,,,,,,,,,,,,
+ICHTHYOSIS,,,,,,,,,,,,
+AMENTIA,,,,,,,,,,,,
+FISSURE,,,,,,,,,,,,
+MORBUS PULMONOSIS,,,,,,,,,,,,
+THROMBOSIS,,,,,,,,,,,,
+ECTHYMA,,,,,,,,,,,,
+MELANA,,,,,,,,,,,,
+PNEUMOTHORAX,Respiratory,,,Y/N,Y/N,N,N,N,N,N,N,N
+DYSPHAGIA,,,,,,,,,,,,
+DISSEMINATED SCLEROSIS,,,,,,,,,,,,
+NEUROMIMESIS,,,,,,,,,,,,
+DYSURIA,,,,,,,,,,,,
+COMA,,,,,,,,,,,,
+ATELIOSIS,,,,,,,,,,,,
+HEMORRHOID,,,,,,,,,,,,
+FUNGAL DISEASE,,,,,,,,,,,,
+ICTERUS,,,,,,,,,,,,
+HEMATOCELE,,,,,,,,,,,,
+CYSTIC HYGROMA,,,,,,,,,,,,
+MITRAL,,,,,,,,,,,,
+CARBUNCLE,,,,,,,,,,,,
+HYDRONEPHROSIS,,,,,,,,,,,,
+PYELITIS,,,,,,,,,,,,
+PITYRIASIS,,,,,,,,,,,,
+GLAUCOMA,,,,,,,,,,,,
+FAVUS,,,,,,,,,,,,
+JACKSONIAN EPILEPSY,,,,,,,,,,,,
+FRIEDREICHS ATAXIA,Nervous,,,N,Y,Y,N,N,N,N,N,N
+TACHYCARDIA,,,,,,,,,,,,
+POLYURIA,,,,,,,,,,,,
+APHONIA,,,,,,,,,,,,
+OPHTHALMIA NEONATORUM,,,,,,,,,,,,
+BURSITIS,,,,,,,,,,,,
+FIBROSIS,,,,,,,,,,,,
+QUINSY,,,,,,,,,,,,
+EXOPHTHALMOS,,,,,,,,,,,,
+UREMIA,,,,,,,,,,,,
+PULMONARY CONSOLIDATION,,,,,,,,,,,,
+MALARIA,,,,,,,,,,,,
+HEMOGLOBINURIA,,,,,,,,,,,,
+GASTROENTERIC CATARRH,,,,,,,,,,,,
+PHAGEDENA,,,,,,,,,,,,
+ENCYSTED HYDROCELE,,,,,,,,,,,,
+LYMPHOSARCOMA,,,,,,,,,,,,
+OPISTHOTONOS,,,,,,,,,,,,
+TABES,,,,,,,,,,,,
+REFRACTION ERROR,,,,,,,,,,,,
+COXA VARA,,,,,,,,,,,,
+HODGKINS,,,,,,,,,,,,
+THYROGLOSSAL CYST,,,,,,,,,,,,
+NYSTAGMUS,,,,,,,,,,,,
+LENTICULAR OPACITY,,,,,,,,,,,,
+GLOSSITIS,,,,,,,,,,,,
+ALOPECIA,,,,,,,,,,,,
+PAROTITIS,,,,,,,,,,,,
+VERTIGO,,,,,,,,,,,,
+ASTHENIA,,,,,,,,,,,,
+EXTROVERSION,,,,,,,,,,,,
+OSTEOMALACIA,,,,,,,,,,,,
+AMBLYOPIA,,,,,,,,,,,,
+INTRACRANIUM,,,,,,,,,,,,
+DESQUAMATION,,,,,,,,,,,,
+PYURIA,,,,,,,,,,,,
+XERODERMA,,,,,,,,,,,,
+MORBUS THORACIS,,,,,,,,,,,,
+VAGINITIS,,,,,,,,,,,,
+SUNSTROKE,,,,,,,,,,,,
+RETINITIS,,,,,,,,,,,,
+MUCOCELE,,,,,,,,,,,,
+COLITIS,,,,,,,,,,,,
+CARCINOMA,,,,,,,,,,,,
+TRACHEITIS,,,,,,,,,,,,
+EXTERNAL STRABISMUS,,,,,,,,,,,,
+TYMPANITIS,,,,,,,,,,,,
+POTTS,,TB,,N,Y,N,N,Y,Y,N,Y,N
+MOLLUSCUM,,,,,,,,,,,,
+ANTHRAX,,,,,,,,,,,,
+CHILBLAINS,,,,,,,,,,,,
+GOUT,,,,,,,,,,,,
+LYMPHANGIOMA,,,,,,,,,,,,
+LEUCORRHEA,,,,,,,,,,,,
+DIPLEGIA,,,,,,,,,,,,
+PASSING BLOOD IN URINE,Urinary/excretory,,,N,N,N,N,N,N,N,N,Y
+PHAGEDENIC,,,,,,,,,,,,
+CICATRIX,,,,,,,,,,,,
+NEURALGIA,,,,,,,,,,,,
+TALIPES PLANUS,Skeletal,,Foot,N,Y,Y,N,N,N,N,N,N
+INTERTRIGO,,,,,,,,,,,,
+NERVOUS,,,,,,,,,,,,
+PLEURODYNIA,,,,,,,,,,,,
+RHINITIS,,,,,,,,,,,,
+VARUS,,,,,,,,,,,,
+ENDOPERICARDITIS,,,,,,,,,,,,
+PYOPNEUMOTHORAX,,,,,,,,,,,,
+VENTRAL HERNIA,,,,,,,,,,,,
+RINGWORM,,,,,,,,,,,,
+MOOD DISORDER,,,,,,,,,,,,
+ANXIETY,,,,,,,,,,,,
+PANOPHTHALMITIS,,,,,,,,,,,,
+EMBOLISM,,,,,,,,,,,,
+SYMPATHETIC OPHTHALMIA,,,,,,,,,,,,
+LICHEN,,,,,,,,,,,,
+CORYZA,,,,,,,,,,,,
+DIABETES INSIPIDUS,,,,,,,,,,,,
+ECCHYMOSIS,,,,,,,,,,,,
+TALIPES PARALYTIC,,,,,,,,,,,,
+VALVULAR,,,,,,,,,,,,
+LYMPHOMA,,,,,,,,,,,,
+INTERSTITIAL HERNIA,,,,,,,,,,,,
+GRANULAR OPHTHALMIA,,,,,,,,,,,,
+DIAPHYSITIS,,,,,,,,,,,,
+MEDIASTINITIS,,,,,,,,,,,,
+ELEPHANTIASIS,,,,,,,,,,,,
+CYSTIC,,,,,,,,,,,,
+LOCOMOTOR ATAXIA,,,,,,,,,,,,
+HYDROPHOBIA,,,,,,,,,,,,
+CEPHALHEMATOMA,,,,,,,,,,,,
+INSANITY,,,,,,,,,,,,
+MITRAL STENOSIS,,,,,,,,,,,,
+INTERMITTENT SQUINT,,,,,,,,,,,,
+HEPATITIS,,,,,,,,,,,,
+DIPHTHERITIC CONJUNCTIVITIS,,,,,,,,,,,,
+TALIPES CARIES,,,,,,,,,,,,
+NERVOUS DEBILITY,,,,,,,,,,,,
+TRACHOMA,,,,,,,,,,,,
+SPEECH,,,,,,,,,,,,
+ADHESION,,,,,,,,,,,,
+NEPHROSIS,,,,,,,,,,,,
+PULMONARY TUBERCULOSIS,,,,,,,,,,,,
+APHAKIA,,,,,,,,,,,,
+SCLERODERMA,,,,,,,,,,,,
+FIBROMA,,,,,,,,,,,,
+ONYCHIA,,,,,,,,,,,,
+TALIPES VALGUS,Skeletal,,Foot,N,Y,Y,N,N,N,N,N,N
+HERPES ZOSTER,,,,,,,,,,,,
+LESION,,,,,,,,,,,,
+CHLOROSIS,,,,,,,,,,,,
+MOLLUSCUM CONTAGIOSUM,,,,,,,,,,,,
+GUMMA,,,,,,,,,,,,
+BLEPHAROSPASM,,,,,,,,,,,,
+ENCEPHALITIS,,,,,,,,,,,,
+CALCANEUS,,,,,,,,,,,,
+MANIA,,,,,,,,,,,,
+LITHEMIA,,,,,,,,,,,,
+ADENOMA,,,,,,,,,,,,
+SEBORRHEA,,,,,,,,,,,,
+PRURIGO,,,,,,,,,,,,
+PAROXYSMAL NOCTURNAL HEMOGLOBINURIA,,,,,,,,,,,,
+BELLS PALSY,,,,,,,,,,,,
+CHEIROPOMPHOLYX,,,,,,,,,,,,
+GINGIVITIS,,,,,,,,,,,,
+MICROCEPHALY,,,,,,,,,,,,
+FOLLICULAR TONSILLITIS,,,,,,,,,,,,
+STRUMOUS DACTYLITIS,,,,,,,,,,,,
+SCOLIOSIS,,,,,,,,,,,,
+OSTEOCLASIA,,,,,,,,,,,,
+ARRESTED GROWTH,,,,,,,,,,,,
+RUBELLA,,Fever,,Y/N,N,N,Y,Y,N,N,N,N
+HYDROPS ARTICULI,,,,,,,,,,,,
+SCLEREMA NEONATORUM,,,,,,,,,,,,
+SYNOSTOSIS,,,,,,,,,,,,
+TALIPES CAVUS,,,,,,,,,,,,
+SEQUESTRUM,,,,,,,,,,,,
+PREPATELLAR BURSITIS,,,,,,,,,,,,
+TALIPES ACQUIRED,,,,,,,,,,,,
+INANITION,,,,,,,,,,,,
+ALKAPTONURIA,,,,,,,,,,,,
+ATONY,,,,,,,,,,,,
+COLOBOMA,,,,,,,,,,,,
+MONGOLISM,,,,,,,,,,,,
+VACCINIA,,,,,,,,,,,,
+PYONEPHROSIS,,,,,,,,,,,,
+REFRACTION,,,,,,,,,,,,
+NOMA PUDENDI,,,,,,,,,,,,
+KYPHOSIS,,,,,,,,,,,,
+PAPILLITIS,,,,,,,,,,,,
+VASCULAR,,,,,,,,,,,,
+HIRSUTISM,,,,,,,,,,,,
+SYNCOPE,,,,,,,,,,,,
+WRIST DROP,,,,,,,,,,,,
+TAPEWORM,,,,,,,,,,,,
+REDUCIBLE HERNIA,,,,,,,,,,,,
+POOR NUTRITION,,,,,,,,,,,,
+KELOID,,,,,,,,,,,,
+FAVUS CAPITIS,,,,,,,,,,,,
+PILES,,,,,,,,,,,,
+BUPHTHALMOS,,,,,,,,,,,,
+MEATUS URINARIUS,,,,,,,,,,,,
+UNSTEADY GAIT,,,,,,,,,,,,
+PETIT MAL SEIZURE,,,,,,,,,,,,
+THRUSH,,,,,,,,,,,,
+SEIZURE,,,,,,,,,,,,
+PLANTAR FASCIITIS,,,,,,,,,,,,
+DENTIGEROUS CYST,,,,,,,,,,,,
+HYPOCHONDRIA,,,,,,,,,,,,
+HOSPITALISM,,,,,,,,,,,,
+PUBIS,,,,,,,,,,,,
+EDEMATOUS LARYNGITIS,,,,,,,,,,,,
+MYOSITIS OSSIFICANS,,,,,,,,,,,,
+RECTANGULAR TALIPES,,,,,,,,,,,,
+LUMBAGO,,,,,,,,,,,,
+TRICHIASIS,,,,,,,,,,,,
+GASTRODYNIA,,,,,,,,,,,,
+MUTISM,,,,,,,,,,,,
+HUNTINGTON'S CHOREA,,,,,,,,,,,,
+NUTRITION DISORDER,,,,,,,,,,,,
+CEREBROSPINAL DISEASE,,,,,,,,,,,,
+DACRYOCYSTITIS,,,,,,,,,,,,
+CEREBROSPINAL SCLEROSIS,,,,,,,,,,,,
+PSEUDOLEUKEMIA INFANTUM,,,,,,,,,,,,
+ADDISONS DISEASE,Immune,,Kidney,Y,N,N,N,Y,N,N,Y,N
+HEBRAS PRURIGO,,,,,,,,,,,,
+EPIPLOCELE,,,,,,,,,,,,
+ALBINISM,,,,,,,,,,,,
+GRANULOMATOSIS,,,,,,,,,,,,
+NEONATORUM,,,,,,,,,,,,
+INDURATION,,,,,,,,,,,,
+CHEMOSIS,,,,,,,,,,,,
+AMYTROPHIC LATERAL SCLEROSIS,,,,,,,,,,,,
+MORBUS CEREBRIS,,,,,,,,,,,,
+MESENTERY,,,,,,,,,,,,
+SCROFULODERMA,,,,,,,,,,,,
+INTERNAL DERANGEMENT,,,,,,,,,,,,
+CALCULUS URETER,,,,,,,,,,,,
+PERIOSTITIS,,,,,,,,,,,,
+IRIDEMIA,,,,,,,,,,,,
+DYSTROPHY,,,,,,,,,,,,
+ENCEPHALOCELE,,,,,,,,,,,,
+NYCTALOPIA,,,,,,,,,,,,
+PUBERTY,,,,,,,,,,,,
+ERYTHEMA URTICARIA,,,,,,,,,,,,
+ERYTHEMA MULTIFORME,,,,,,,,,,,,
+NEUROLOGICAL TUMOUR,,,,,,,,,,,,
+PNEUMOCOCCAL PERITONITIS,,,,,,,,,,,,
+XANTHELASMA,,,,,,,,,,,,
+HEMARTHROSIS,,,,,,,,,,,,
+SCALES,,,,,,,,,,,,
+PELIOSIS,,,,,,,,,,,,
+PANCARDITIS,,,,,,,,,,,,
+NEPHROLITHIASIS,,,,,,,,,,,,
+ASPHYXIA,,,,,,,,,,,,
+STATUS EPILEPTICUS,,,,,,,,,,,,
+ERBS PALSY,,,,,,,,,,,,
+LUPUS VULGARIS,,,,,,,,,,,,
+STRUMPELLS PARALYSIS,,,,,,,,,,,,
+OZAENA,,,,,,,,,,,,
+CRYPTORCHIDISM,,,,,,,,,,,,
+TOXEMIA,,,,,,,,,,,,
+ANOREXIA,,,,,,,,,,,,
+SARCOCELE,,,,,,,,,,,,
+SPURIOUS VALGUS,,,,,,,,,,,,
+NEUROMA,,,,,,,,,,,,
+EXTROVERTED BLADDER,,,,,,,,,,,,
+MELANCHOLIA,,,,,,,,,,,,
+MORBUS BRIGHTII,,,,,,,,,,,,
+ANURIA,,,,,,,,,,,,
+KERATOMALACIA,,,,,,,,,,,,
+MUCOPURULENT OPHTHALMIA,,,,,,,,,,,,
+BUBONOCELE,,,,,,,,,,,,
+TRISMUS,,,,,,,,,,,,
+SYMPATHETIC IRRITATION,,,,,,,,,,,,
+INCARCERATED HERNIA,,,,,,,,,,,,
+ANENCEPHALY,,,,,,,,,,,,
+PURPURA SIMPLEX,,,,,,,,,,,,
+OCCLUSION,,,,,,,,,,,,
+GRAVES,,,,,,,,,,,,
+HYPEREMIA,,,,,,,,,,,,
+BOIL,,,,,,,,,,,,
+ANKYLOBLEPHARON,,,,,,,,,,,,
+SHINGLES,,,,,,,,,,,,
+RETINOCHOROIDITIS,,,,,,,,,,,,
+INFANTUM,,,,,,,,,,,,
+ILEITIS,,,,,,,,,,,,
+HALLUCINATION,,,,,,,,,,,,
+HYDROTHORAX,,,,,,,,,,,,
+LABIOGLOSSAL POUCH,,,,,,,,,,,,
+CHOLERA INFANTUM,,,,,,,,,,,,
+ANGINA LUDOVICI,,,,,,,,,,,,
+INTERSTITIAL NEPHRITIS,,,,,,,,,,,,
+UNILATERAL CONVULSION,,,,,,,,,,,,
+MICROPHTHALMUS,,,,,,,,,,,,
+IRIDODIALYSIS,,,,,,,,,,,,
+ANGIONEUROTIC EDEMA,,,,,,,,,,,,
+CLAVUS,,,,,,,,,,,,
+CEREBRITIS,,,,,,,,,,,,
+GLYCOSURIA,,,,,,,,,,,,
+INFANTILE PRURIGO,,,,,,,,,,,,
+MORBUS OCULI,,,,,,,,,,,,
+EXOMPHALOS,,,,,,,,,,,,
+POLYDIPSIA,,,,,,,,,,,,
+ANGINA FAUCIUM,,,,,,,,,,,,
+MORBUS PEDIS,,,,,,,,,,,,
+BIFID UVULA,,,,,,,,,,,,
+RETARDED,,,,,,,,,,,,
+BRADYCARDIA,,,,,,,,,,,,
+POST BASILAR MENINGITIS,,,,,,,,,,,,
+VERRUCA,,,,,,,,,,,,
+EXFOLIATIVE DERMATITIS,,,,,,,,,,,,
+APHALANGIA,,,,,,,,,,,,
+MYXEDEMA,,,,,,,,,,,,
+PARASITIC INFECTION,,,,,,,,,,,,
+TALIPES EQUINOVALGUS,Skeletal,,Foot,N,Y,Y,N,N,N,N,N,N
+CYCLITIS,,,,,,,,,,,,
+PUPIL,,,,,,,,,,,,
+POLIOENCEPHALITIS,,,,,,,,,,,,
+CHORIORETINITIS,,,,,,,,,,,,
+MYDRIASIS,,,,,,,,,,,,
+BILIARY COLIC,,,,,,,,,,,,
+PERICHONDRITIS,,,,,,,,,,,,
+ZYMOTIC ENTERITIS,,,,,,,,,,,,
+VITREOUS OPACITY,,,,,,,,,,,,
+FURUNCLE,,,,,,,,,,,,
+CYSTIC SARCOMA,,,,,,,,,,,,
+ANGULAR DEFORMITY,,TB,,N,Y,N,N,N,Y,N,Y,N
+KERATOCONUS,,,,,,,,,,,,
+DIASTASIS CORDIS,,,,,,,,,,,,
+HERMAPHRODITISM,,,,,,,,,,,,
+UVEITIS,,,,,,,,,,,,
+POSTERIOR SYNECHIA,,,,,,,,,,,,
+MOTOR ATAXIA,,,,,,,,,,,,
+MICROCEPHALUS,,,,,,,,,,,,
+ANTHYOPIA,,,,,,,,,,,,
+UNREDUCIBLE HERNIA,,,,,,,,,,,,
+AERIAL FISTULA,,,,,,,,,,,,
+AMYOTROPHY,,,,,,,,,,,,
+COXALGIA,,,,,,,,,,,,
+STAPHYLOCOCCUS,,,,,,,,,,,,
+BAKERS CYST,,,,,,,,,,,,
+CHOLECYSTITIS,,,,,,,,,,,,
+PERIORCHITIS,,,,,,,,,,,,
+ENGLISH CHOLERA,,,,,,,,,,,,
+DIVERGENT STRABISMUS,,,,,,,,,,,,
+PORRIGO CAPITIS,,,,,,,,,,,,
+NEOPLASM,,,,,,,,,,,,
+TINEA TONSURANS,,,,,,,,,,,,
+GALLSTONE,,,,,,,,,,,,
+FRIEDREICHS CATARACT,,,,,,,,,,,,
+CLUBBED FINGER,,,,,,,,,,,,
+BULIMIA,,,,,,,,,,,,
+CHLOASMA,,,,,,,,,,,,
+RETINITIS PIGMENTOSA,,,,,,,,,,,,
+ATELECTASIS,,,,,,,,,,,,
+LITHURIA,,,,,,,,,,,,
+CLAW TOE,,,,,,,,,,,,
+FROSTBITE,,,,,,,,,,,,
+CERVICITIS,,,,,,,,,,,,
+DISTICHIASIS,,,,,,,,,,,,
+ARTHRALGIA,,,,,,,,,,,,
+HEMIKINESIS,,,,,,,,,,,,
+CONDYLOMATA,,,,,,,,,,,,
+CARDIALGIA,,,,,,,,,,,,
+SYMPATHETIC IRITIS,,,,,,,,,,,,
+ESSENTIAL TREMOR,,,,,,,,,,,,
+STYE,,,,,,,,,,,,
+NASAL SPUR,,,,,,,,,,,,
+ICHTHYMA,,,,,,,,,,,,
+POSTAURICULAR ABSCESS,Immune,,,Y/N,N,N,N,N,Y,N,N,N
+PERIPHERAL NEURITIS,,,,,,,,,,,,
+IMPERFORATE,,,,,,,,,,,,
+CLEFT,,,,,,,,,,,,
+MELANOTIC SARCOMA,,,,,,,,,,,,
+PALPEBRAE,,,,,,,,,,,,
+HYDROMYELIA,,,,,,,,,,,,
+INSPIRATORY DYSPNEA,,,,,,,,,,,,
+HYPEROXALURIA,,,,,,,,,,,,
+CHOLERA NOSTRAS,,,,,,,,,,,,
+MAIN EN GRIFFE,,,,,,,,,,,,
+SICCA,,,,,,,,,,,,
+MONORCHISM,,,,,,,,,,,,
+CIRCINATA,,,,,,,,,,,,
+APHEMIA,,,,,,,,,,,,
+ECLAMPSIA,,,,,,,,,,,,
+ACHOLIA,,,,,,,,,,,,
+EATING DISORDER,,,,,,,,,,,,
+LANGUOR,,,,,,,,,,,,
+ABDOMINODYNIA,,,,,,,,,,,,
+CATALEPSY,,,,,,,,,,,,
+BRONCHIOLITIS,,,,,,,,,,,,
+LEUCODERMA,,,,,,,,,,,,
+ESOPHAGISMUS,,,,,,,,,,,,
+LYMPHANGIECTASIA,,,,,,,,,,,,
+HYPERESTHESIA,,,,,,,,,,,,
+ISCHEMIC CONTRACTURE,,,,,,,,,,,,
+INSULAR SCLEROSIS,,,,,,,,,,,,
+PYLE,,,,,,,,,,,,
+MENORRHAGIA,,,,,,,,,,,,
+MORBUS SPINALIS,,,,,,,,,,,,
+ALTERNATING CONCOMITANT STRABISMUS,,,,,,,,,,,,
+OTITIS INTERNA,,,,,,,,,,,,
+LEONTIASIS,,,,,,,,,,,,
+NEUROPATHY,,,,,,,,,,,,
+EPIPHORA,,,,,,,,,,,,
+COPROSTASIS,,,,,,,,,,,,
+PECTUS COLUMBINUM,,,,,,,,,,,,
+ACETONURIA,,,,,,,,,,,,
+HYPOTHERMIA,,,,,,,,,,,,
+KAPOSIS,,,,,,,,,,,,
+NEBULA,,,,,,,,,,,,
+MORBUS VESICA,,,,,,,,,,,,
+SPRENGEL'S DEFORMITY,,,,,,,,,,,,
+NEVOID,,,,,,,,,,,,
+IDIOT,,,,,,,,,,,,
+LEPROSY,,,,,,,,,,,,
+OPHTHALMOPLEGIA,,,,,,,,,,,,
+SPLENOMEGALY,,,,,,,,,,,,
+PHENOMENALISM,,,,,,,,,,,,
+MUSCULOSPIRAL PARALYSIS,,,,,,,,,,,,
+BRACHIAL MONOPLEGIA,,,,,,,,,,,,
+PANOPHTHALMIA,,,,,,,,,,,,
+PARALYSIS AGITANS,,,,,,,,,,,,
+TRANSPOSITION,,,,,,,,,,,,
+MUTE,,,,,,,,,,,,
+FIBROMYALGIA,,,,,,,,,,,,
+PERIENTERITIS,,,,,,,,,,,,
+ECZEMA ALBINA,,,,,,,,,,,,
+PLASTIC MENINGITIS,,,,,,,,,,,,
+TENOSYNOVITIS,,,,,,,,,,,,
+PYOSALPINX,,,,,,,,,,,,
+OBESITY,,,,,,,,,,,,
+PHRENITIS,,,,,,,,,,,,
+CLAW HAND,,,,,,,,,,,,
+SYRINGOMYELIA,,,,,,,,,,,,
+BRODIES,,,,,,,,,,,,
+BULBAR PALSY,,,,,,,,,,,,
+GLOTTITIS,,,,,,,,,,,,
+PROCTISIS,,,,,,,,,,,,
+POMPHOLYX,,,,,,,,,,,,
+LABYRINTHINE VERTIGO,,,,,,,,,,,,
+HYPEROSTOSIS,,,,,,,,,,,,
+BLISTER,,,,,,,,,,,,
+EMPYEMA THORACIS,,,,,,,,,,,,
+CERVICODORSAL CARIES,,,,,,,,,,,,
+PENDULOUS FIBROMA,,,,,,,,,,,,
+TERATOMA,,,,,,,,,,,,
+TALIPES VARUS,Skeletal,,Foot,N,Y,Y,N,N,N,N,N,N
+RHINORRHEA,,,,,,,,,,,,
+INFANTILISM,,,,,,,,,,,,
+PARASITIC FETUS,,,,,,,,,,,,
+TUMOUR ALBUS,,,,,,,,,,,,
+SPEECH LOSS,,,,,,,,,,,,
+GRANULOMA,,,,,,,,,,,,
+GASTROINTESTINAL DISEASE,,,,,,,,,,,,
+GIGANTISM,,,,,,,,,,,,
+COW LUNG,,,,,,,,,,,,
+PONTONITIS,,,,,,,,,,,,
+MORBUS GENU,,,,,,,,,,,,
+SEPTAL SPUR,,,,,,,,,,,,
+SHORT SIGHT,,,,,,,,,,,,
+SYNECHIA,,,,,,,,,,,,
+CLITORITIS,,,,,,,,,,,,
+CHONDROMA,,,,,,,,,,,,
+MYOCARDITIS,Circulatory,,Heart,Y/N,Y,N,N,N,N,Y,N,N
+MASTITIS,,,,,,,,,,,,
+MYOPATHY,,,,,,,,,,,,
+HYDROA VACCINIFORME,,,,,,,,,,,,
+TORSION,,,,,,,,,,,,
+CORDIS,,,,,,,,,,,,
+OSTEOMA,,,,,,,,,,,,
+CHOLERA,,,,,,,,,,,,
+SPERMATOCELE,,,,,,,,,,,,
+SYMPATHETIC,,,,,,,,,,,,
+MORBUS COXARIUS,,,,,,,,,,,,
+TRICHINOSIS,,,,,,,,,,,,
+LABYRINTHINE FISTULA,,,,,,,,,,,,
+PHARYNGISMUS,,,,,,,,,,,,
+MASTODYNIA,,,,,,,,,,,,
+IRIDOPLEGIA,,,,,,,,,,,,
+MICROSTOMA,,,,,,,,,,,,
+PYRAMIDAL CATARACT,,,,,,,,,,,,
+TURBINATE HYPERTROPHY,,,,,,,,,,,,
+IMPERFORATE DESCENDED TESTICLE,,,,,,,,,,,,
+VERMIFORMIS,,,,,,,,,,,,
+MORBUS PECTORIS,,,,,,,,,,,,

@@ -1,0 +1,218 @@
+sympt,system,category,anatomy,acute,chronic,congenital,contagious,infectious,infection,inflammation,complication,symptom
+,,,,,,,,,,,,
+DISEASE,,,,N,N,N,N,N,N,N,N,N
+ENLARGEMENT,,,,N,N,N,N,N,N,N,N,Y
+PAIN,,,,N,N,N,N,N,N,N,N,Y
+SWELLING,,,,N,N,N,N,N,N,N,N,Y
+INFLAMMATION,,,,N,N,N,N,N,N,Y,N,Y
+CUT,,Injury,,N,N,N,N,N,N,N,N,N
+SUPPURATION,,,,N,N,N,N,N,Y,N,N,N
+PLEURAL EFFUSION,Respiratory,,,Y/N,Y,N,N,N,N,N,N,N
+FIT,Nervous,,,N,Y,N,N,N,N,N,N,N
+CONTRACTION,Muscular,,,N,Y,N,N,N,N,N,N,N
+OBSTRUCTION,Digestive,,,N,Y,N,N,N,N,N,Y,N
+SORE,,,,N,N,N,N,N,N,Y,N,Y
+INFECTION,,,,N,N,N,N,N,Y,N,N,N
+DEFORMITY,,,,N,Y,Y/N,N,N,N,N,N,N
+SQUINT,,,Eye,N,Y,Y,N,N,N,N,N,N
+MALFORMATION,,,,N,Y,Y,N,N,N,N,N,N
+CONSOLIDATION,Respiratory,,,N,Y,N,N,N,N,N,N,N
+GROWTH,,Soft tissue,,N,Y,N,N,N,N,N,N,N
+RETENTION,Urinary/excretory,,,N,Y,N,N,N,N,N,N,N
+RUPTURE,,,,Y,N,N,N,N,N,N,N,N
+EFFUSION,Respiratory,,,Y/N,Y,N,N,N,N,N,N,N
+STIFF,,,,N,N,N,N,N,N,N,N,Y
+INTESTINAL OBSTRUCTION,Digestive,,,Y,N,N,N,N,N,N,N,N
+AFFECTION,,,,N,N,N,N,N,N,N,N,N
+PURULENT,,,,N,N,N,N,N,Y,N,N,N
+COLLAPSE,,,,Y,N,N,N,N,N,N,N,N
+SPASM,Muscular,,,Y,N,N,N,N,N,N,N,N
+HEADACHE,,,,N,N,N,N,N,N,N,N,Y
+MORBUS,,,,N,N,N,N,N,N,N,N,N
+RETAINED,Reproductive,,,N,Y,N,N,N,N,N,N,N
+DEVIATION,,,Nose/Eye,N,Y,Y/N,N,N,N,N,N,N
+ADHERENT,,,,N,N,N,N,N,N,N,N,Y
+ATROPHY,,Decay,,N,Y,Y,N,N,N,N,N,N
+DIVIDED,,,,N,N,N,N,N,N,N,N,Y
+DEAFNESS,,,,N,Y,Y/N,N,N,N,N,N,N
+DISCHARGE,,,,N,N,N,N,N,N,N,N,Y
+SCAR,,,,N,N,N,N,N,N,N,N,Y
+LOOSE,,,,N,N,N,N,N,N,N,N,N
+VEGETATION,,,,N,Y,Y,N,N,N,N,N,N
+INCONTINENCE,Urinary,,,N,Y,Y/N,N,N,N,N,N,N
+BLEEDING,,,,Y/N,N,N,N,N,N,N,N,Y
+SOFT,,,,N,N,N,N,N,N,N,N,N
+DEFLECTED,,,Nose/Eye,Y,Y/N,N,N,N,N,N,N,N
+ERUPTION,Skin,,,Y/N,N,N,N,N,N,N,N,Y
+IRRITATION,,,,N,N,N,N,N,N,N,N,Y
+WEAKNESS,,,,N,Y,N,N,N,N,N,N,Y
+DILATION,,,,N,N,N,N,N,N,N,N,N
+UNUNITED,Skeletal,Injury,,N,Y,N,N,N,N,N,N,N
+RETRACTION,,Injury,,Y ,N,N,N,N,N,N,N,N
+DISTENSION,Digestive,,,N,Y,N,N,N,N,N,N,Y
+IMPACTION,Urinary/excretory,,,N,Y,N,N,N,N,N,N,N
+DEFECTIVE,,,,N,Y,N,N,N,N,N,N,N
+DELIRIUM,Nervous,,,N,Y,N,N,N,N,N,N,N
+STRIDOR,Respiratory,,,N,Y,N,N,N,N,N,N,Y
+DETACHMENT,,,Eye,N,Y,N,N,N,N,N,N,N
+LOSS OF POWER,,,,N,Y,N,N,N,N,N,N,N
+RASH,,,,,,,,,,,,
+TREMOR,,,,,,,,,,,,
+SPASTIC,,,,,,,,,,,,
+SYMPTOM,,,,,,,,,,,,
+PHOTOPHOBIA,,,,,,,,,,,,
+SICKNESS,,,,,,,,,,,,
+MALUNITED,,,,,,,,,,,,
+SHORTNESS OF BREATH,,,,,,,,,,,,
+DISPLACEMENT,,,,,,,,,,,,
+FLUID,,,,,,,,,,,,
+FATTY,,,,,,,,,,,,
+OPAQUE,,,,,,,,,,,,
+FUNCTIONAL,,,,,,,,,,,,
+SPITTING,,,,,,,,,,,,
+ABSENCE,,,,,,,,,,,,
+MALPOSITION,,,,,,,,,,,,
+GRANULATION,,,,,,,,,,,,
+DILATATION,,,,,,,,,,,,
+DECAY,,,,,,,,,,,,
+LUMP,,,,,,,,,,,,
+COMPRESSION,,,,,,,,,,,,
+SEPARATION,,,,,,,,,,,,
+CONGESTION,,,,,,,,,,,,
+EXHAUSTION,,,,,,,,,,,,
+MALAISE,,,,,,,,,,,,
+IMPAIRMENT,,,,,,,,,,,,
+COMMINUTED,,,,,,,,,,,,
+DIFFICULTY,,,,,,,,,,,,
+LONG SIGHT,,,,,,,,,,,,
+DISTORTION,,,,,,,,,,,,
+FLATULENCE,,,,,,,,,,,,
+REDUCTION,,,,,,,,,,,,
+FLEX,,,,,,,,,,,,
+DEVELOPMENT,,,,,,,,,,,,
+INSENSIBILITY,,,,,,,,,,,,
+DIFFUSION,,,,,,,,,,,,
+DISORDER,,,,,,,,,,,,
+BULLAE,,,,,,,,,,,,
+DULLNESS,,,,,,,,,,,,
+HYSTERICAL,,,,,,,,,,,,
+BREATHING,,,,,,,,,,,,
+MALINGERING,,,,,,,,,,,,
+SCIATICA,,,,,,,,,,,,
+CLOSURE,,,,,,,,,,,,
+FAINT,,,,,,,,,,,,
+LAMENESS,,,,,,,,,,,,
+RESPIRATION,,,,,,,,,,,,
+MIGRAINE,,,,,,,,,,,,
+DIFFICULTY BREATHING,,,,,,,,,,,,
+UNCONSCIOUS,,,,,,,,,,,,
+PHLEGM,,,,,,,,,,,,
+RIGIDITY,,,,,,,,,,,,
+MASTURBATION,,,,,,,,,,,,
+FRICTION,,,,,,,,,,,,
+IMMERSION,,,,,,,,,,,,
+TEETHING,,,,,,,,,,,,
+NO MEMBRANE,,,,,,,,,,,,
+MISCHIEF,,,,,,,,,,,,
+VENOUS,,,,,,,,,,,,
+MISPLACED,,,,,,,,,,,,
+TIC,,,,,,,,,,,,
+CONSTRICTED,,,,,,,,,,,,
+PRESSURE,,,,,,,,,,,,
+PEELING,,,,,,,,,,,,
+VICIOUS UNION,,,,,,,,,,,,
+DROWSINESS,,,,,,,,,,,,
+SUFFOCATION,,,,,,,,,,,,
+CRAMP,,,,,,,,,,,,
+RIGOR,,,,,,,,,,,,
+STATE,,,,,,,,,,,,
+DEFECT,,,,,,,,,,,,
+MOVEMENT,,,,,,,,,,,,
+BURST,,,,,,,,,,,,
+AFFLICTION,,,,,,,,,,,,
+LINE IN EYE,,,,,,,,,,,,
+REGURGITATION,,,,,,,,,,,,
+SHIVERING,,,,,,,,,,,,
+CONDITION,,,,,,,,,,,,
+SHRUNKEN,,,,,,,,,,,,
+LOSS OF VOICE,,,,,,,,,,,,
+CALLUS,,,,,,,,,,,,
+ACHE,,,,,,,,,,,,
+BRITTLE BONE DISEASE,,,,,,,,,,,,
+RECESSION,,,,,,,,,,,,
+ARTICULAR PAIN,,,,,,,,,,,,
+FILM,,,,,,,,,,,,
+SUICIDAL,,,,,,,,,,,,
+CONTAGIOUS,,,,,,,,,,,,
+IDLENESS,,,,,,,,,,,,
+EXTRUSION,,,,,,,,,,,,
+INABILITY TO SWALLOW,,,,,,,,,,,,
+CONFUSION,,,,,,,,,,,,
+PERCUSSION,,,,,,,,,,,,
+LOSS OF WALKING POWER,,,,,,,,,,,,
+FALTY,,,,,,,,,,,,
+NIGHT TERRORS,,,,,,,,,,,,
+LOSING FLESH,,,,,,,,,,,,
+COLD,,,,,,,,,,,,
+ACNE,,,,,,,,,,,,
+WEN,,,,,,,,,,,,
+COMPENSATION,,,,,,,,,,,,
+HEART MURMUR,,,,,,,,,,,,
+UNDIFFERENTIATED,,,,,,,,,,,,
+INDIGESTION,,,,,,,,,,,,
+TENDER,,,,,,,,,,,,
+DEGENERATIVE,,,,,,,,,,,,
+ONYA,,,,,,,,,,,,
+MENSTRUATION,,,,,,,,,,,,
+IMPEDIMENT,,,,,,,,,,,,
+APPETITE DISORDER,,,,,,,,,,,,
+THICKENED,,,,,,,,,,,,
+LOSS OF USE,,,,,,,,,,,,
+SALIVATION,,,,,,,,,,,,
+REDUNDANT PREPUCE,,,,,,,,,,,,
+INVERTED,,,,,,,,,,,,
+NEUROTIC GAIT,,,,,,,,,,,,
+TWITCHING,,,,,,,,,,,,
+SNEEZING,,,,,,,,,,,,
+EMACIATION,,,,,,,,,,,,
+STUPOR,,,,,,,,,,,,
+LOSS OF HUMOR,,,,,,,,,,,,
+BILIOUS ATTACK,,,,,,,,,,,,
+ILLNESS,,,,,,,,,,,,
+SPASTIC GAIT,,,,,,,,,,,,
+DAMAGE,,,,,,,,,,,,
+CROAKING,,,,,,,,,,,,
+RESONANCE,,,,,,,,,,,,
+MIMETIC MOVEMENT,,,,,,,,,,,,
+DEFECTIVE SIGHT,,,,,,,,,,,,
+MOVABLE,,,,,,,,,,,,
+INCOORDINATION,,,,,,,,,,,,
+HOARSENESS,,,,,,,,,,,,
+NEUTRAL,,,,,,,,,,,,
+TRAUMATISM,,,,,,,,,,,,
+NARROWED,,,,,,,,,,,,
+POISONING,,,,,,,,,,,,
+ACCUMULATION,,,,,,,,,,,,
+SUPPRESSION,,,,,,,,,,,,
+LOSS OF SIGHT,,,,,,,,,,,,
+LOSS OF WEIGHT,,,,,,,,,,,,
+TENDER SPOT,,,,,,,,,,,,
+LIPPITUDE,,,,,,,,,,,,
+GIDDINESS,,,,,,,,,,,,
+INSUFFICIENCY,,,,,,,,,,,,
+LOSS OF FINGER,,,,,,,,,,,,
+DISSEMINATED,,,,,,,,,,,,
+SWALLOWING,,,,,,,,,,,,
+FISSION,,,,,,,,,,,,
+PAUPERTAS,,,,,,,,,,,,
+DRUNK,,,,,,,,,,,,
+STAMMERING,,,,,,,,,,,,
+INABILITY TO WALK,,,,,,,,,,,,
+DEGENERATION,,,,,,,,,,,,
+ELONGATED,,,,,,,,,,,,
+UNEQUAL,,,,,,,,,,,,
+LONG,,,,,,,,,,,,
+FUNGATING,,,,,,,,,,,,
+EARACHE,,,,,,,,,,,,
+LACHRYMATION,,,,,,,,,,,,
+STRIDULOUS BREATHING,,,,,,,,,,,,

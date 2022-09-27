@@ -1,0 +1,710 @@
+01100		Chemists
+01200		Physicists
+01300		Physical scientists nec
+01400		Physical science assistants and technicians
+02000		Professional engineers, specialisation unknown
+02100		Architects
+02200		Civil engineers
+02300		Electrical engineers
+02410		Mechanical engineers, general or nfs
+02420		Industrial machinery or tools engineers
+02430		Mechanical engineer (motors and engines, except marine)
+02440		Marine engineers
+02450		Ship construction engineers
+02460		Heating, ventilation and refrigeration engineers
+02490		Other mechanical engineers
+02500		Chemical engineers
+02600		Metallurgists and assayers
+02700		Mining engineers
+02800		Industrial engineers
+02900		Professional engineers nec
+03010		Surveyors, general and nfs
+03020		Land surveyors
+03030		Mine surveyors
+03040		Hydrographic surveyors
+03090		Other surveyors
+03100		Draughtsmen
+03210		Technicians
+03220		Civil engineering technicians
+03230		Electrical engineering technicians
+03240		Mechanical engineering technicians
+03250		Chemical engineering technicals
+03260		Metallurgical technicians
+03270		Mining technicians
+03290		Engineering technicians nec
+04200		Ship's deck officer or pilot
+04210		Ships officers nfs
+04220		Ship's masters and captains (sea)
+04230		Ship's masters and captains (sea or inland waterways)
+04240		Ship's masters and captains (inland waterways)
+04250		Ship's navigating officers and ship's mates
+04260		Ship and boat pilots
+04270		Marine superintendents (deck)
+04290		Other ship deck officers and pilots
+04300		Ship's engineers
+05100		Biologists, botanists, zoologists and related scientists
+05200		Medical scientists
+05300		Agronomists and related scientists
+05400		Life sciences technicians
+06110		Medical doctors and physicians (UK: Medical doctors only)
+06130		Surgeons
+06140		Specialised physicians
+06150		Specialised surgeons
+06160		Public health physicians
+06170		Oculist
+06190		Medical doctors, nec
+06200		Dentists
+06300		Veterinarians
+06400		Pharmacists
+06500		Medical and related assistants
+07110		Trained nurses
+07210		Nurses nfs
+07220		Medical nurses, untrained or level of training unknown
+07320		Midwives
+07330		Monthly nurses
+07500		Opticians and optometrists
+07600		Healers and therapists nec
+07920		Osteopaths
+07930		Chiropractors
+07940		Sanitarians
+07990		Other medical, dental, veterinary and related workers
+08000		Mathematicians and actuaries, etc.
+09000		Economists
+11010		Accountants
+11020		Auditors
+11090		Accountants nec
+12110		Lawyers
+12120		Barristers
+12130		Solicitors
+12200		Judge
+12220		Justice of the peace
+12300		Notary
+12900		Jurists (except lawyer, judge or solicitor)
+13100		Teachers in higher education
+13210		Teachers (unspecified)
+13220		Teachers (secondary)
+13230		Teachers (primary)
+13240		Teachers (pre-primary)
+13250		Teachers (of the disabled)
+13300		School administrators and principals
+13920		Governesses
+13990		Other teaching personnel
+14120		Ministers of religion
+14130		Missionaries
+14140		Members of religious orders
+14190		Other ministers of religion
+14900		Workers in religion nec
+15100		Authors
+15220		Editors
+15230		Journalists, reporters and correspondents
+15900		Others writers
+16110		Artists nfs and art teachers
+16120		Sculptors
+16130		Artistic painters
+16140		Cartoonists
+16150		Engravers and etchers (artistic)
+16190		Other specified creative artists
+16200		Designers
+16300		Photographers
+16400		Engravers
+17120		Musical performers and musicians nfs
+17130		Music teachers
+17190		Others in music
+17200		Dancers and dancing teachers
+17300		Actors and related workers
+17400		Producers, performing arts
+17900		Performing artists nec
+18000		Athletes, sportsmen and related workers
+19100		Librarians, archivists and curators
+19200		Social scientists and historians
+19300		Social workers
+19500		Interpreters, translators and philologists
+19920		Patent agents
+19930		Underwriters
+19990		Other professional, technical and related workers nec
+20100		Legislative officials and heads of government
+20200		Government administrators
+21110		Proprietors, nfs
+21112		Executive officers, nfs (U.S. only)
+21120		Manufacturers nfs
+21122		Executive officers of manufacturing concerns nfs
+21130		Manufacturers or proprietors of specified manufacturing concerns
+21132		Executive officers of specified manufacturing concerns
+21140		Proprietor, mining, quarrying, oil and natural gas extraction
+21141		Oil producer
+21142		Executive officers of extractive industry
+21150		Proprietor, railway company
+21152		Executive officers of railway concerns
+21160		Proprietor, other transport and communications
+21162		Executive officer of other transport and communications
+21170		Proprietor, public utilities (i.e., water, gas, etc.)
+21172		Executive officer of public utilities
+21180		Proprietor, finance
+21182		Executive officer finance company
+21190		Other owners of large scale productive enterprises
+21192		Executive officers of other large scale productive enterprises
+21194		Publisher
+21210		Contractors nfs
+21220		Construction contractors
+21230		Builders
+21290		Other specified contractors
+21330		Capitalists
+21340		Speculators
+21390		Investors nec
+22110		Superintendents and managers nfs
+22120		Superintendents and managers, manufacturing
+22130		Superintendents and managers, mining, quarrying, etc.
+22140		Superintendents and managers, railways
+22150		Superintendents and managers, other transport and communications
+22160		Superintendents and managers, public utilities
+22170		Superintendents and managers, construction, except railway construction
+22180		Superintendents and managers, commerce
+22190		Superintendents and managers, nec
+23110		Foremen and supervisors nfs
+23120		Foremen and supervisors, manufacturing
+23130		Foremen and supervisors, mining
+23140		Foremen and supervisors, railways
+23150		Foremen and supervisors, other transport and communications
+23160		Foremen and supervisors, public utilities
+23170		Foremen and supervisors, construction, except railway construction
+23180		Foremen and supervisors, commerce
+23190		Foremen and supervisors, nec
+24100		Inspectors of manufactories, companies etc.
+31010		Civil servants, title unknown
+31020		Tax collectors
+31030		Tax assessors
+31040		Customs officers
+31050		Postmasters or postmistresses
+31060		Clerks of court and other court clerks
+31090		Government functionaries, nec
+32000		Typists, stenographers and secretaries
+33120		Bookkeepers and bookkeeping clerks
+33130		Cashiers, bank or office
+33140		Bank clerks
+33142		Bank tellers (US)
+33150		Money collector
+33160		Cash desk cashier
+33170		Toll collectors
+33180		Collector (cash or account)
+33190		Bookkeeping, account and cash handling workers nec
+33210		Railway clerks (UK) and railway agents (CA/US)
+33220		Baggage agents and baggage men
+33320		Agent, water transport (principally steamship and steamboat)
+33330		Agent, land transport (non-rail)
+34000		Office machine operators
+36010		Conductors, nfs
+36020		Railway guards (UK) and railroad conductors (US/CAN)
+36030		Sleeping- or pullman-car attendants
+36040		Bus, tram or streetcar conductors
+36090		Transport conductors, nec
+37020		Postal, mail and telegraph clerks
+37030		Mail carriers, aka postmen (UK)
+37040		Messengers
+37050		Mail sorters
+37090		Post office, mail, and message workers nec
+38010		Tel. operator
+38020		Telephone operator
+38030		Telegraph operator
+38090		Other telephone/telegraph operators
+39000		Clerk, nfs
+39100		Stock, weight and shipping clerks
+39130		Stock records clerk
+39310		Office clerks, specialisation unknown
+39320		Correspondence clerks
+39340		Legal clerks
+39350		Insurance clerks
+39390		Other correspondence and reporting clerks
+39400		Hotel clerk or other receptionist
+39500		Library and filing clerks
+39600		Railroad, railway clerk
+39720		Timekeepers, railway
+39730		Timekeepers, factory
+39790		Timekeepers, undefined and nec
+39900		Other specified clerks
+39990		Proofreader (U.S. only)
+40000		Sales workers, nfs
+41000		Working proprietors, nfs
+41010		Dealer, merchant etc. (wholesale and retail trade)
+41015		Merchants, specified large-scale wholesaleing
+41020		Hirers out
+42000		Buyers
+42200		Buyers nec
+43010		Agents nfs
+43020		Commercial travellers
+43030		Manufacturers and sales agents
+43090		Other specialized agents
+44110		Insurance, real state or securities salesmen, nfs
+44120		Insurance salesmen and agents
+44130		Real estate agents
+44140		Brokers
+44150		Stockbrokers
+44160		Patent Agents
+44190		Insurance, real estate and securities salesmen nec
+44200		Advertising salesmen
+44320		Auctioneers
+44330		Appraisers
+45120		Salespeople, wholesale or retail trade
+45130		Clerks in shops and stores
+45140		Fashion models
+45190		Other sales personnel men, shop assistants and demonstrators
+45220		Street sellers, pedlars and hawkers, non-food items
+45230		Street sellers, pedlars and hawkers, food items
+45240		Newsvendors
+45250		Canvassers
+45290		Other street traders for coffee and food
+49020		Pawnbrokers
+49030		Scrap and junk dealers, scavengers
+49090		Dealers and salesworkers nec
+51020		Hotel keepers and managers
+51030		Restaurant keepers and managers
+51040		Boarding and lodging house keepers and managers
+51050		Pub, saloon, tavern and coffee house keepers
+51060		Ship's pursers
+51090		Other hospitality and entertainment keepers and managers
+52020		Housekeeper
+52030		Stewards
+52040		Matrons
+52050		Butlers
+52090		Other housekeeping service supervisors
+53100		Cooks
+53101		Cook (domestic) UK only
+53103		Ship's cooks
+53220		Waiter or waitress
+53230		Bartender
+53290		Other food and drink service workers
+54010		Servants nfs
+54020		House servants nfs and maids
+54030		Personal servants and valets
+54040		Nursemaids
+54050		Companions
+54060		Chambermaids and room attendants
+54090		Other specified servants
+55100		Caretakers and janitors
+55200		Charworkers
+55230		Window cleaners
+55240		Chimney sweeps
+55250		Refuse collectors and removers
+55290		Other charworkers, cleaners and related workers
+56000		Washing and laundry services
+57020		Hairdressers
+57030		Barbers
+57040		Bath attendants
+57090		Other barbers, hairdressers and related workers
+58100		Firefighters
+58210		Policemen and detectives, employer unknown
+58220		Policemen and detectives, public service
+58230		Policemen and detectives, private service
+58240		Sheriffs and their deputies
+58290		Other law enforcement officers
+58300		Watchmen and guards
+58410		Military, rank unknown
+58420		Military officers
+58430		Other members of the armed forces
+58500		Prison keepers and guards
+58900		Other protective service workers
+59100		Guides
+59200		Undertakers and embalmers
+59300		Prostitutes
+59920		Bookmakers (sport)
+59930		Croupiers
+59940		Nursing aids and attendents
+59950		Errand boys and errand girls
+59960		Practical aid (veterinary)
+59990		Other service workers nec
+61110		General farmers and farmers nfs
+61115		Husbandmen or cottars
+61117		Female farmer
+61120		Major landowner
+61220		Field crop farmers
+61230		Orchardists and fruit farmers
+61240		Market gardeners
+61250		Nurserymen and florists
+61260		Livestock farmers
+61270		Dairy farmers
+61280		Poultry farmers
+61290		Other specialised farmers
+61320		Farmer and fisherman
+61330		Cottar and fisherman
+61400		Farm managers, formen and supervisors nfs
+62110		Farm workers, specialisation unknown
+62113		Farmer's sons and other male relatives
+62200		Farm workers (field crop and vegetables)
+62300		Farm labourers, orchard and fruit farm workers
+62410		Livestock workers, general or nfs
+62420		Cattle workers, except specified dairy
+62430		Sheep workers
+62440		Pig workers
+62450		Fur-bearing animal workers
+62460		Horse workers
+62461		Grooms and horse keepers (domestic)
+62463		Grooms and horse keepers (not domestic)
+62470		Horse breaker
+62490		Livestock workers, nec
+62500		Farm workers (dairy)
+62600		Farm workers (poultry)
+62710		Gardeners nfs
+62711		Gardener (domestic)
+62713		Gardener (not domestic)
+62720		Market garden labourers
+62730		Nursery labourers
+62740		Landscape gardeners
+62790		Other nursery workers and gardeners
+62800		Farm machinery operators
+62920		Other animal workers e.g., dogs, elephants
+62930		Other plant workers e.g., gathers of herbs etc.
+62940		Groundskeepers, etc.
+62990		Others in agricultural or husbandry
+63110		Woodsmen and workers in the woods, nfs
+63120		Lumbermen, loggers and kindred workers
+63130		River drivers
+63140		Wood cutters and choppers
+63190		Others in logging and wood cutting
+63220		Foresters and wood wardens
+63230		Forestry workers
+63240		Timber cruisers
+63250		Forest fire-fighters
+63290		Other forestry workers
+64100		Fishermen
+64920		Fish farm workers
+64930		Oyster farm workers
+64940		Whale hunters
+64950		Whale or seal hunters
+64960		Seal hunters
+64970		Trappers or hunters
+64990		Other fishermen, hunters and related workers
+71120		Miners
+71130		Quarrymen
+71190		Others working in mines and quarries
+71200		Mineral or stone treaters
+71300		Well drillers, borers and related workers
+72000		Metal workers, specialisation unknown
+72100		Metal smelter and furnacemen
+72200		Metal rollers
+72300		Metal melters and reheaters, and workers in metal melting mills
+72400		Metal casters and workers in metal casting plants
+72500		Metal moulders and coremakers
+72600		Metal annealers, temperers and hardeners
+72700		Metal drawers and workers in metal drawing
+72800		Metal platers and coaters
+72900		Other (specialised) metal workers
+73100		Wood treaters
+73200		Sawyers and other titled wood/sawmill operatives
+73300		Papermill machine operators and paper makers
+74000		Chemical workers, product nfs
+74100		Drug workers
+74200		Gunpowder and explosive makers
+74320		Charcoal burners
+74330		Coal gas makers
+74340		Tar makers
+74390		Other coal product makers e.g., coke
+74420		Salt makers
+74430		Alkali and soda makers
+74500		Oil mill workers
+74620		Paint and varnish makers
+74630		Dye makers
+74640		Ink, blacking, colouring, etc., makers
+74720		Tallow chandlers, candle makers and grease makers
+74730		Soap and perfume makers
+74740		Glue, size and gelatine makers
+74750		Wax and polish makers
+74920		Fertilizer and manure makers
+74930		Starch makers
+74940		Turpentine makers
+74990		Specified chemical workers nec
+75000		Textile workers, specialisation unknown
+75100		Fibre preparers
+75200		Spinners, doublers, twisters and winders
+75300		Weaving and knitting-machine setters and pattern-card preparers
+75400		Weavers
+75500		Knitters
+75600		Bleachers, dyer or textile product finisher
+75700		Rope makers
+75920		Net maker
+75990		Other specialised textile workers nec
+76110		Tanners or fellmongers, specialisation unknown
+76120		Fellmongers
+76130		Tanners
+76140		Leather curriers and finishers
+76190		Other specified leather curers
+76200		Fur and pelt dressers
+77100		Millers and related workers
+77200		Sugar refiners
+77310		Butchers
+77320		Pork butchers
+77340		Slaughterer, meat cutters or meat packer
+77350		Sausage makers
+77360		Fish butchers
+77380		Meat cannery workers and other meat preservers (not sausages)
+77390		Other workers in meat preparation
+77400		Cannery workers and other food preservers
+77500		Butter, cheese and dairy product makers
+77610		Baker and confectioner
+77620		Bakers
+77630		Confectioners and pastry makers
+77640		Candy makers
+77650		Chocolate makers
+77690		Other baked goods makers
+77700		Tea, coffee and cocoa preparers
+77820		Brewers
+77830		Maltsters
+77840		Wine workers
+77850		Vinegar makers and workers
+77860		Distillers
+77870		Makers of soft drinks
+77880		Bottlers
+77890		Other drinks makers and workers
+77990		Other food and beverage processors
+78100		Tobacco preparers and tobacco factory workers
+78200		Cigar makers
+78300		Cigarette makers
+78400		Other tobacco product makers
+79120		Tailors and tailoresses
+79130		Dressmakers
+79190		Other garment makers
+79200		Furriers and fur workers
+79320		Milliners
+79330		Hat makers
+79340		Straw hat makers
+79390		Other hat makers
+79400		Glove makers and related workers
+79520		Seamstresses
+79530		Sewers and sewing machine operators
+79540		Embroiderers
+79590		Others hand sewers
+79620		Upholsterers (except vehicle)
+79630		Vehicle trimmers and upholsterers
+79640		Mattress makers
+79690		Others working in upholstery jobs
+79920		Sail, tent and awning makers
+79930		Umbrella makers
+79940		Artificial flower makers
+79990		Other cloth and related product manufacturing workers
+80100		Boot and shoe makers and repairers
+80200		Specialised occupations in the boot and shoe making industry
+80320		Saddlers and harness makers
+80330		Trunk or bag maker
+80390		Other leather goods makers
+81120		Cabinet makers
+81130		Chair makers
+81140		Wicker furniture makers
+81190		Other furniture makers
+81210		Woodworkers
+81220		Sawyers, woodworking
+81230		Wood turners and handle makers
+81240		Wood planers
+81250		Wood carvers
+81290		Other woodworking machine operators
+81300		Coach, carriage and wagon makers
+81400		Wheelwrights and cartwrights
+81500		Coopers, hoop makers and benders
+81600		Clog makers
+81710		Box makers nfs
+81720		Wooden box makers
+81730		Paper box makers
+81790		Box makers nec
+81920		Wooden tool makers
+81930		Ski makers
+81990		Other makers of wooden products
+82000		Stone carvers or cutters and stone yard workers
+83120		Blacksmiths
+83130		Hammersmiths
+83140		Foregemen
+83150		Farriers or horseshoers
+83160		Specialised makers of forged metal products
+83190		Other blacksmiths, hammermen and forgeing-press operators
+83210		Tool makers nfs
+83220		Tool and die makers
+83230		Pattern makers nfs and nec
+83290		Other tool makers and metal markers
+83310		Metalworking machine operators
+83320		Metal turners
+83390		Other metal working machine operators
+83400		Machinists
+83520		Metal polishers and finishers
+83530		Metal grinders and sharpeners
+83540		Cutlers and cutting instrument makers
+83550		Cutler (knives, forks, spoon)
+83590		Other metal grinders, polishers and tool sharpeners nec
+83600		Gunsmiths
+83700		Locksmiths
+83820		Saw makers
+83830		Saw, spade, shovel and half wood/half metal agricultural instrument type things
+83840		Chain makers
+83850		Nailer and nail makers
+83860		Wire makers
+83890		Other metal workers nec
+84110		Mechanics
+84120		Millwrights
+84130		Machine makers, builders and fitters
+84140		Engine and locomotive builders
+84150		Sewing machine makers and builders
+84190		Other machinery fitters and machine assemblers
+84220		Watch and clock makers
+84230		Optical instrument makers and workers (not opticians)
+84290		Other specialized instrument makers (not musical instrument makers)
+84300		Bicycle makers
+84400		Motor vehicle manufacturing and repair workers, specialization unknown
+84460		Automobile manufacturing workers
+84900		Others in machinery
+85100		Electrical fitters and electrical equipment assemblers
+85500		Electricians and  wiremen
+85600		Telephone and telegraph installers
+85700		Linesmen: telephone, telegraph and electric
+85920		Electrical products inspector or tester
+85990		Other electrical fitters and related electrical workers
+87120		Plumbers
+87130		Pipe fitters
+87220		Welders
+87230		Braziers
+87250		Flamecutter
+87290		Other welders, braziers, solderers
+87320		Sheet metal worker, general
+87330		Coppersmith or copperware maker
+87340		Tinsmith, tinner or tinker
+87350		Boilermaker
+87390		Other sheet metal workers
+87420		Structural metal workers
+87430		Rivetters nec
+87490		Other structural metal preparers and erectors
+87520		Ship and boat builders
+87530		Shipwrights and ship joiners
+87540		Ship's carpenters
+87550		Block, mast and tackle makers
+87560		Caulker
+87590		Other ship builders
+88020		Jewellers
+88030		Goldsmith
+88040		Silversmith
+88050		Working with gems and stones
+88090		Other jewellery and precious metal workers
+89120		Glass makers
+89130		Glass bottle makers
+89190		Other specific glass makers
+89200		Pottery and porcelain makers and workers
+89300		Brick and tile makers
+89400		Glass engravers, etchers and finishers
+89500		Pottery and porcelain painters
+89620		Cement makers
+89630		Lime burners
+89700		Clay-based products makers
+90100		Rubber product makers
+90200		Tire makers and vulcanisers
+91020		Paper and paperboard products makers, except boxes
+91090		Other paper product makers
+91100		Paper and paper board product makers
+92000		Printers nec
+92110		Printers nfs
+92120		Compositors
+92190		Other compositors and typesetters
+92200		Lithographic printers
+92300		Stereotypers and electrotypers
+92400		Lithographers
+92500		Photo-engravers
+92600		Bookbinders and related workers
+92800		Textile printers
+92900		Other printers and related workers
+93110		Painters, nfs
+93120		Painters, construction
+93130		Painters, ship
+93190		Other specialised painters nec
+93200		Decorators
+93320		Lacquerers and enamellers
+93330		Japanners
+93400		Gilders
+94110		Musical instrument maker nfs
+94120		Piano maker
+94130		Piano tuner
+94140		Organ builder
+94190		Other musical instrument makers and tuner
+94220		Basket makers
+94230		Brush makers
+94240		Broom makers
+94290		Bristle and straw workers nec
+94300		Non-metallic mineral product makers
+94910		Other production or related worker, specialisation unknown
+94920		Animal stuffers, taxidermists and shell workers
+94930		Linoleum makers and floor cloth makers
+94940		Toy and doll makers
+94990		Production and related workers nec
+95110		Mason nfs or combined
+95120		Bricklayers
+95130		Stone masons
+95140		Plasterers
+95150		Paviours
+95160		Marble mason
+95190		Others in construction
+95200		Cement masons and finishers
+95310		Roofer, specialisation unknown
+95320		Slate and tile roofers
+95330		Thatchers
+95390		Other roofers
+95410		Carpenter and joiner
+95420		Carpenters
+95430		Joiners
+95440		Scaffolders
+95490		Other wooden construction workers
+95600		Pipe coverers and insulators
+95700		Glaziers
+95910		Construction workers nec
+95920		Paperhangers
+95930		Carpet planners
+95940		Whitewashers
+95950		Demolition workers
+95960		Marblers
+95990		Others in building construction
+96100		Electricity generators
+96220		Engineers (US) nfs
+96230		Stationary engineers and engine men
+96240		Stationary firemen and firemen nfs
+96900		Other stationary engine and related equipment operators
+97120		Ship boat loaders and dock workers
+97130		Railway freight handlers
+97140		Porters
+97150		Packers
+97190		Other freight handlers
+97210		Riggers nec or nfs
+97220		Ship riggers
+97300		Crane and hoist operators
+97410		Navvy, excavator and diggers, nfs
+97420		Road builders, workers and labourers
+97430		Railway builders, workers and labourers
+97440		Waterway and harbour builders, workers and labourers
+97490		Other road, railway and related construction labourers
+97900		Material handling equipment operators nec
+98120		Seamen
+98130		Boatmen and canalmen
+98190		Other crew of boats, ships, etc.
+98200		Ship's engine men
+98300		Railway/railroad locomotive operators
+98320		Railway/railroad engineers and enginemen
+98330		Railway/railroad firemen and stokers
+98420		Railway brakemen
+98430		Railway signallers
+98440		Railway switchmen and shunters
+98490		Others skilled railway workers
+98510		Drivers, nec
+98520		Drivers (private)
+98530		Drivers (personal, for hire)
+98540		Drivers (public)
+98550		Delivery men and drivers of goods
+98560		Drivers (general haulage)
+98562		Carter (agricultural)
+98570		Teamsters (inc. mine driver, etc.)
+98590		Others drivers
+98700		Lock and gate keepers
+98720		Lock keepers
+98730		Gate keepers
+98900		Other transport equipment operators
+99120		Labourers nfs
+99130		Common labourers or general labourers
+99140		Day labourers (e.g., journalier)
+99150		Worker nfs
+99200		Factory labourers (unspecified)
+99300		Occupational title unclassifiable
+99420		Assistants nfs
+99430		Helpers nfs
+99440		Helpers of relative or helping at home
+99450		Apprentices nfs
+99500		Ambiguous responses
+99998		Alternative occupation (Sweden)
+99999		No occupation/unknown

@@ -1,0 +1,866 @@
+﻿"5","6","1","Paddock Place","Chester Street","","1-5","RG 12/515","15
+"
+"5","6","2","Pages Avenue","Billingsgate Street","","1-13 odd","RG 12/508","7-8
+"
+"5","6","3","Pages Avenue","Billingsgate Street","","2-14 even","RG 12/508","8-9
+"
+"5","6","4","Pages Terrace","Billingsgate Street","","9","RG 12/508","9
+"
+"5","6","5","Pagnell Street","","","1-6","RG 12/498","130
+"
+"5","6","6","Pagnell Street","","","43-69, 73-81 odd","RG 12/498","132-134
+"
+"5","6","7","Parade","Brockley Road","","8-13","RG 12/500","69
+"
+"5","6","8","Paragon, The","Blackheath","","1-7","RG 12/512","121
+"
+"5","6","9","Paragon, The","Gardeners Cottages","","","RG 12/512","121
+"
+"5","6","10","Park Place","","","23-28","RG 12/511","29-30
+"
+"5","6","11","Park Place","Park Row","","1-22","RG 12/511","83-85
+"
+"5","6","12","Park Place","Plume of Feathers Cottages","","1-4","RG 12/511","85
+"
+"5","6","13","Park Place","Police Station","","","RG 12/511","12
+"
+"5","6","14","Park Place","The Vicarage","","","RG 12/511","29
+"
+"5","6","15","Park Place","Trafalgar Hotel","","","RG 12/511","24
+"
+"5","6","16","Park Road","New Cross","","1-20","RG 12/500","17-18
+"
+"5","6","17","Park Row","","","1-15","RG 12/511","29
+"
+"5","6","18","Park Row","","","16-27","RG 12/511","11-13
+"
+"5","6","19","Park Row","Crane Street","","","RG 12/511","24
+"
+"5","6","20","Park Row","Park Place","","1-22","RG 12/511","83-85
+"
+"5","6","21","Park Row","Park Place","","23-28","RG 12/511","29-30
+"
+"5","6","22","Park Street","Trafalgar Road","","1, 7-35","RG 12/511","73-76
+"
+"5","6","23","Park, The","Royal Observatory","","","RG 12/511","41
+"
+"5","6","24","Park, The","The Lodge","","","RG 12/511","41
+"
+"5","6","25","Pavement, The","","","1-18","RG 12/513","110-111
+"
+"5","6","26","Payne Street","","","","RG 12/495","160
+"
+"5","6","27","Payne Street","","","1-44","RG 12/495","161-165
+"
+"5","6","28","Payne Street","Dorset Terrace","","1-7","RG 12/495","160-161
+"
+"5","6","29","Payne Street","Mitchells Cottages","","1-3","RG 12/495","161
+"
+"5","6","30","Pearson Street","","","1-24","RG 12/508","83-85
+"
+"5","6","31","Pearsons Avenue","Tanners Hill","","1-2","RG 12/500","166-167
+"
+"5","6","32","Pelton Road","","","1-31, 41-51 odd","RG 12/515","4-6
+"
+"5","6","33","Pelton Road","","","69-107 odd","RG 12/514","125-127
+"
+"5","6","34","Pelton Road","Hatcliffe Street","","1-27 odd","RG 12/514","49-51
+"
+"5","6","35","Pelton Road","Hatcliffe Street","","2-26 even","RG 12/514","51-52
+"
+"5","6","36","Pelton Road","River Bank","","","RG 12/515","16, 54
+"
+"5","6","37","Pelton Road","Roman Catholic Presbytery","","95","RG 12/514","127
+"
+"5","6","38","Pelton Road","Union Wharf","","1-11 R","RG 12/511","95-97
+"
+"5","6","39","Pelton Road","Weigh Bridge House","","","RG 12/515","6
+"
+"5","6","40","Pelton Road","Wellington Street","","1-16","RG 12/515","6-8
+"
+"5","6","41","Pelton Road","Whitworth Street","","1-40","RG 12/511","139-142
+"
+"5","6","42","Pelton Street","","","12-42 even","RG 12/511","98-99
+"
+"5","6","43","Pelton Street","","","3-7","RG 12/511","97-98
+"
+"5","6","44","Pelton Street","","","44-94 even","RG 12/511","135-137
+"
+"5","6","45","Pelton Street","Newcastle Street","","1-16","RG 12/511","99-101
+"
+"5","6","46","Pelton Street","Northumberland Street","","1-23","RG 12/511","134-135
+"
+"5","6","47","Pemmells Court","Church Street","","1-5","RG 12/508","110
+"
+"5","6","48","Pender Street","","","1-19 odd","RG 12/507","29-31
+"
+"5","6","49","Pender Street","","","2-20 even","RG 12/507","27-29
+"
+"5","6","50","Pender Street","","","21-26","RG 12/507","27
+"
+"5","6","51","Pendrell Road","","","1-27 odd","RG 12/504","31-32
+"
+"5","6","52",">Penmartin Road","Argyll Terrace","","1-17 odd","RG 12/503","119-120
+"
+"5","6","53","Penmartin Road","","","1-23 odd","RG 12/503","123-124
+"
+"5","6","54","Penmartin Road","","","2-16 even","RG 12/503","119
+"
+"5","6","55","Penmartin Road","","","33-39 odd","RG 12/503","122-123
+"
+"5","6","56","Penmartin Road","Argyll Terrace","","2-36 even","RG 12/503","120-122
+"
+"5","6","57","Pentecostal Chapel","Crossfield Lane","","","RG 12/494","151
+"
+"5","6","58","Pepys Road","","","1-85 odd","RG 12/504","53-57
+"
+"5","6","59","Pepys Road","","","2-70 even","RG 12/504","49-53
+"
+"5","6","60","Pepys Road","","","74-76 even empty","RG 12/504","63
+"
+"5","6","61","Pepys Road","","Building","78-84 even","RG 12/504","63
+"
+"5","6","62","Pepys Road South","","","1-25 odd","RG 12/504","33-34
+"
+"5","6","63","Pepys Road South","","","2-36 even","RG 12/504","34-36
+"
+"5","6","64","Percy Terrace and Cottage","Point Hill","","1-4","RG 12/510","120-121
+"
+"5","6","65","Peyton Place","Ernest Cottage","","","RG 12/508","
+"
+"5","6","66","Peyton Place","Royal Hill","","1-5","RG 12/508","121
+"
+"5","6","67","Peyton Place","Stanley Cottage","","","RG 12/508","122
+"
+"5","6","68","Phillips Place","Old Dover Road","","1-4","RG 12/513","39
+"
+"5","6","69","Pleasant Place","Woodland Street","","1-3","RG 12/512","9
+"
+"5","6","70","Plumbridge Street","Blackheath Hill","","1-5","RG 12/510","11-12
+"
+"5","6","71","Point Hill","","","1-5, 1-23 R","RG 12/509","115-117
+"
+"5","6","72","Point Hill","Blackheath","","","RG 12/510","120-122
+"
+"5","6","73","Point Hill","Percy Cottage","","","RG 12/510","121
+"
+"5","6","74","Point Hill","Percy Terrace","","1-4","RG 12/510","120-121
+"
+"5","6","75","Point Hill","Point View","","","RG 12/510","120
+"
+"5","6","76","Point Hill","Suters Cottages","","1-2","RG 12/510","122
+"
+"5","6","77","Point Hill","West Grove House","","","RG 12/510","120
+"
+"5","6","78","Point Hill","West Grove Terrace","","1-4","RG 12/510","120
+"
+"5","6","79","Point Hill","Wilton Cottage","","","RG 12/510","121
+"
+"5","6","80","Point View","Blackheath Hill","","","RG 12/510","5
+"
+"5","6","81","Point View","Point Hill","","","RG 12/510","120
+"
+"5","6","82","Police Station","Blackheath Road","","","RG 12/509","82-83
+"
+"5","6","83","Police Station","Coombedale Road","","11","RG 12/513","128
+"
+"5","6","84","Police Station","Park Row","","","RG 12/511","12
+"
+"5","6","85","Police Station","Prince Street","","","RG 12/507","118-119
+"
+"5","6","86","Pomeroy Street","","","","RG 12/504","130-135
+"
+"5","6","87","Pomeroy Street","","","2-144 even","RG 12/504","116-123
+"
+"5","6","88","Pomeroy Street","","","3-137 odd","RG 12/504","123-130
+"
+"5","6","89","Pomeroy Street","Alfred Place","","1-6","RG 12/504","135
+"
+"5","6","90","Pomeroy Street","Carlton Square","","1-24","RG 12/500","130-133
+"
+"5","6","91","Pomeroy Street","Carlton Square","","1-24","RG 12/504","130- 33
+"
+"5","6","92","Pomeroy Street","Fritton Place","","1-6","RG 12/504","135
+"
+"5","6","93","Pomeroy Street","Oak Cottages","","1-9","RG 12/504","133-134
+"
+"5","6","94","Pomeroy Street","Rose Cottages","","1-4","RG 12/504","134-135
+"
+"5","6","95","Pomeroy Street","Wheelwrights Yard","","132","RG 12/504","122
+"
+"5","6","96","Poplar Row","King Street","","1, 2, 4, 6-9","RG 12/500","150-151
+"
+"5","6","97","Portland Yard","London Street","","","RG 12/508","128
+"
+"5","6","98","Post Office","Cranbrook Street","","11","RG 12/501","97
+"
+"5","6","99","Powers Place","Kender Street","","1-12","RG 12/504","153-155
+"
+"5","6","100","Prince Street","","","1,3,7,5262-88","RG 12/507","118-122
+"
+"5","6","101","Prince Street","Police Station","","","RG 12/507","118-119
+"
+"5","6","102","Prince Street","","","10-20 R","RG 12/496","64-66
+"
+"5","6","103","Prince Street","","","2-46 even","RG 12/496","62-64
+"
+"5","6","104","Prince Street","","","70-86 even","RG 12/496","66-67
+"
+"5","6","105","Prince of Orange Lane","London Street","","1-5","RG 12/509","38
+"
+"5","6","106","Prince of Orange Lane","Woods Cottages","","1-4","RG 12/509","38
+"
+"5","6","107","Princes Square","","","1-4","RG 12/508","73
+"
+"5","6","108","Prior Street","Royal Hill","","2-21","RG 12/510","94-96
+"
+"5","6","109","Prior Street","Royal Hill","","9, 23-32, 42","RG 12/508","136-137
+"
+"5","6","110","Private Road","Stables","","","RG 12/512","141
+"
+"5","6","111","Prospect Place","Bennett Street","","1-5","RG 12/511","45
+"
+"5","6","112","Prospect Place","Queen Street","","1-15","RG 12/504","86-87
+"
+"5","6","113","Providence Place","Blackwall Lane","","1-5","RG 12/515","20-21
+"
+"5","6","114","Public House","","","147, Trinity Arms Public House","RG 12/494","163
+"
+"5","6","115","Public House","","","162, Royal Oak Public House","RG 12/494","141
+"
+"5","6","116","Public House","","","44, Prince Albert","RG 12/501","8
+"
+"5","6","117","Public House","Adolphus Street","","Lord Stanley Public House, 71 Adolphus Street","RG 12/495","128
+"
+"5","6","118","Public House","Alpine Road","","Earl of Beconsfield Public House, 30 Alpine Road","RG 12/503","44
+"
+"5","6","119","Public House","Amersham Vale","","Lord Napier Public House, 48 Amersham Vale","RG 12/495","47
+"
+"5","6","120","Public House","Arthur Terrace","","Chichester Tavern Public House, 15 Arthur Terrace","RG 12/498","7
+"
+"5","6","121","Public House","Ashburnham Grove","","Ashburnham Arms Public House, 25 Ashburnham Grove","RG 12/509","58
+"
+"5","6","122","Public House","Blackwall Lane","","Hatcliffe Arms Public House, 42 Blackwall Lane","RG 12/514","53
+"
+"5","6","123","Public House","Blackwall Lane","","The Globe Public House, 66 Blackwall Lane","RG 12/514","65
+"
+"5","6","124","Public House","Blackwall Lane","","Star in the East Public House, Blackwall Lane","RG 12/515","37
+"
+"5","6","125","Public House","Brand Street","","Morden Arms Public House, 56 Brand Street","RG 12/510","90
+"
+"5","6","126","Public House","Bridge Street","","Lord Hood Public House, 29 Bridge Street","RG 12/508","56
+"
+"5","6","127","Public House","Bridge Street","","Nags Head Public House, 36 Bridge Street","RG 12/508","42
+"
+"5","6","128","Public House","Bridge Street","","Bee Hive Public House, 75 Bridge Street","RG 12/508","58
+"
+"5","6","129","Public House","Broadway","","Blue House Public House, Broadway","RG 12/500","144
+"
+"5","6","130","Public House","Brockley Road","","Wickham Arms Public House, 69 Brockley Road","RG 12/502","29
+"
+"5","6","131","Public House","Brockley Road","","Lord Wolsey Public House, 76 Brockley Road","RG 12/500","91
+"
+"5","6","132","Public House","Butchers Row","","Prince of Wales Public House, Butchers Row","RG 12/507","51
+"
+"5","6","133","Public House","Ceylon Place","","The Pilot Public House, Ceylon Place","RG 12/515","29
+"
+"5","6","134","Public House","Church Street","","Public House Public House, 136 Church Street","RG 12/494","68
+"
+"5","6","135","Public House","Church Street","","Kings Head Public House, 199 Church Street","RG 12/507","71
+"
+"5","6","136","Public House","Church Street","","Three Compasses Public House, 208 Church Street","RG 12/507","69
+"
+"5","6","137","Public House","Church Street","","Bedford Arms Public House, 32 Church Street","RG 12/494","9
+"
+"5","6","138","Public House","Church Street","","Masons Arms Public House, 57 Church Street","RG 12/508","40
+"
+"5","6","139","Public House","Church Street","","British Queen Public House, 67 Church Street","RG 12/508","7
+"
+"5","6","140","Public House","Church Street","","Kings Arms Public House, Church Street","RG 12/494","11
+"
+"5","6","141","Public House","Church Street","","Ship and Sailor Public House, Church Street","RG 12/508","4
+"
+"5","6","142","Public House","Coldbath Street","","Olive Branch Public House, 53 Coldbath Street","RG 12/510","25
+"
+"5","6","143","Public House","Coldbath Street","","Corner Pin Public House, 86 Coldbath Street","RG 12/510","64
+"
+"5","6","144","Public House","Cornbury Road","","Barons Arms Public House, Cornbury Road","RG 12/503","16
+"
+"5","6","145","Public House","Crane Street","","Yacht Tavern Public House, Crane Street","RG 12/511","24
+"
+"5","6","146","Public House","Creek Road","","King of Prussia Public House, 8 Creek Road","RG 12/494","142
+"
+"5","6","147","Public House","Crooms Hill","","Rose and Crown Public House, 1 Crooms Hill","RG 12/511","32
+"
+"5","6","148","Public House","Crowley Wharf","","Golden Anchor Public House, Crowley Wharf","RG 12/511","49
+"
+"5","6","149","Public House","Deptford Broadway","","Centurion Public House, 1 Deptford Broadway","RG 12/494","94
+"
+"5","6","150","Public House","Deptford Broadway","","The Old Fountain Public House, 36 Deptford Broadway","RG 12/501","56
+"
+"5","6","151","Public House","Deptford Broadway","","Dover Castle Public House, 7 Deptford Broadway","RG 12/494","93
+"
+"5","6","152","Public House","Deptford High Street","","Royal Oak Public House, 126 Deptford High Street","RG 12/494","105
+"
+"5","6","153","Public House","Deptford High Street","","Brown Bear Public House, 154 Deptford High Street","RG 12/494","141
+"
+"5","6","154","Public House","Deptford High Street","","The Pilot Public House, 174 Deptford High Street","RG 12/494","141
+"
+"5","6","155","Public House","Dock Street","","Dog & Bells Public House, 11 Dock Street","RG 12/496","81
+"
+"5","6","156","Public House","Douglas Street","","Queens Arms Public House, 53 Douglas Street","RG 12/495","150
+"
+"5","6","157","Public House","Douglas Street","","Viceroy of Egypt Public House, 77 Douglas Street","RG 12/495","124
+"
+"5","6","158","Public House","East Street","","Fortune of War Public House, 19 East Street","RG 12/511","39
+"
+"5","6","159","Public House","Edward Street","","The Prince Albert Public House, 117 Edward Street","RG 12/495","88
+"
+"5","6","160","Public House","Evelyn Street","","Duke of York Public House, 181 Evelyn Street","RG 12/507","105
+"
+"5","6","161","Public House","Evelyn Street","","Rock of Gibraltar Public House, 193 Evelyn Street","RG 12/507","106
+"
+"5","6","162","Public House","Evelyn Street","","Globe Public House, 199 Evelyn Street","RG 12/496","57
+"
+"5","6","163","Public House","Foreign Cattle Market","","Peter the Great Public House, Foreign Cattle Market","RG 12/507","126
+"
+"5","6","164","Public House","Foxwell Street","","Maypole Tavern Public House, Foxwell Street","RG 12/503","136
+"
+"5","6","165","Public House","Friendly Street","","Crown and Sceptre Public House, 92 Friendly Street","RG 12/501","48
+"
+"5","6","166","Public House","Gasterwood Street","","Gasterwood Tavern Public House, 111 Gasterwood Street","RG 12/497","49
+"
+"5","6","167","Public House","Gellatly Road","","Duke of Albany Public House, 85 Gellatly Road","RG 12/504","7
+"
+"5","6","168","Public House","Grafton Terrace","","Mitre Public House, Grafton Terrace","RG 12/515","30
+"
+"5","6","169","Public House","Greenwich Road","","Prince Arthur Public House, 173 Greenwich Road","RG 12/509","39
+"
+"5","6","170","Public House","Grove Street","","The Victoria Public House, 177 Grove Street","RG 12/497","116
+"
+"5","6","171","Public House","Grove Street","","Evelyn Arms Public House, 257 Grove Street","RG 12/497","122
+"
+"5","6","172","Public House","Grove Street","","Brittannia Public House, 275 Grove Street","RG 12/497","122
+"
+"5","6","173","Public House","Grove Street","","Ship Defiance Public House, 277 Grove Street","RG 12/497","122
+"
+"5","6","174","Public House","Grove Street","","White Hart Public House, 283 Grove Street","RG 12/497","123
+"
+"5","6","175","Public House","Grove Street","","Public House Public House, 88 Grove Street","RG 12/507","101
+"
+"5","6","176","Public House","Guildford Road","","Guildford Arms Public House, Guildford Road","RG 12/509","95
+"
+"5","6","177","Public House","Haddo Street","","Roan Arms Public House, 1 Haddo Street","RG 12/508","69
+"
+"5","6","178","Public House","Haddo Street","","The Bell Public House, 28 Haddo Street","RG 12/508","67
+"
+"5","6","179","Public House","Hale Street","","Hale Arms Public House, Hale Street","RG 12/494","111
+"
+"5","6","180","Public House","High Bridge","","The Three Crowns Public House, High Bridge","RG 12/511","47
+"
+"5","6","181","Public House","Horseferry Road","","Loyal Briton Public House, 18 Horseferry Road","RG 12/508","48
+"
+"5","6","182","Public House","Horseferry Road","","The Steam Ferry Tavern Public House, Horseferry Road","RG 12/508","18
+"
+"5","6","183","Public House","Hughes Fields","","Earl of Chatham Public House, 45 Hughes Fields","RG 12/507","93
+"
+"5","6","184","Public House","Idonia Street","","Beerhouse Public House, 60 Idonia Street","RG 12/495","157
+"
+"5","6","185","Public House","John Street","","Princess Sophia Public House, 18 John Street","RG 12/510","67
+"
+"5","6","186","Public House","Kender Street","","Buckley Arms Public House, 23 Kender Street","RG 12/504","144
+"
+"5","6","187","Public House","Kender Street","","Prince of Wales Public House, 67 Kender Street","RG 12/504","147
+"
+"5","6","188","Public House","Kender Street","","The Perserverance Public House, 82 Kender Street","RG 12/504","140
+"
+"5","6","189","Public House","King Street","","Beerhouse, Public House, King Street","RG 12/500","149
+"
+"5","6","190","Public House","King William Street","","Gloucester Public House, 1 King William Street","RG 12/511","37
+"
+"5","6","191","Public House","King William Street","","Kings Arms Public House, 10 King William Street","RG 12/511","38
+"
+"5","6","192","Public House","King William Street","","Albion Public House, 2 King William Street","RG 12/511","37
+"
+"5","6","193","Public House","King William Street","","Volunteer Public House, 6 King William Street","RG 12/511","38
+"
+"5","6","194","Public House","King William Street","","Perseverence Public House, 7 King William Street","RG 12/511","38
+"
+"5","6","195","Public House","King William Street","","Ship Hotel Public House, King William Street","RG 12/511","4
+"
+"5","6","196","Public House","King William Street","","The Cricketers Public House, King William Street","RG 12/511","6-7
+"
+"5","6","197","Public House","Knott Street","","Rising Sun Public House, Knott Street","RG 12/494","46
+"
+"5","6","198","Public House","Lewisham High Road","","Flower of Kent Public House, 135 Lewisham High Road","RG 12/500","12
+"
+"5","6","199","Public House","London Street","","Public House Public House, 1 London Street","RG 12/508","125
+"
+"5","6","200","Public House","London Street","","Public House Public House, 77 London Street","RG 12/508","128
+"
+"5","6","201","Public House","Lower East Street","","Red Lion Public House, Lower East Street","RG 12/511","22
+"
+"5","6","202","Public House","Malpas Road","","Duke of Edinburgh Public House, 81 Malpas Road","RG 12/500","104
+"
+"5","6","203","Public House","Maze Hill","","The George Public House, 23 Maze Hill","RG 12/512","66
+"
+"5","6","204","Public House","Mill Lane","","Golden Fleece Public House, 62 Mill Lane","RG 12/501","64
+"
+"5","6","205","Public House","Monson Road","","Duke of Albany Public House, 39-41 Monson Road","RG 12/506","67
+"
+"5","6","206","Public House","Morden Wharf","","Machinest Arms Public House, Morden Wharf","RG 12/515","33
+"
+"5","6","207","Public House","Napier Street","","Earl of Warwick Public House, 103 Napier Street","RG 12/495","121
+"
+"5","6","208","Public House","New Cross House","","","RG 12/500","31
+"
+"5","6","209","Public House","New Cross Road","","Marquis of Granby Public House, 322 New Cross Road","RG 12/500","4
+"
+"5","6","210","Public House","New Cross Road","","Railway Tavern Public House, 263 New Cross Road","RG 12/505","96
+"
+"5","6","211","Public House","New Cross Road","","Rose Inn Public House, 272 New Cross Road","RG 12/499","56
+"
+"5","6","212","Public House","New Cross Road","","New Cross Inn Public House, 323 New Cross Road","RG 12/499","56
+"
+"5","6","213","Public House","New Cross Road","","Amersham Arms Public House, 388 New Cross Road","RG 12/500","7
+"
+"5","6","214","Public House","New Cross Road 490","","Star and Garter Public House, 490 New Cross Road 490","RG 12/500","143
+"
+"5","6","215","Public House","New King Street","","Lads of the Village Public House, 19 New King Street","RG 12/496","72
+"
+"5","6","216","Public House","New King Street","","Rodney Public House, 35 New King Street","RG 12/496","74
+"
+"5","6","217","Public House","New King Street","","Cape of Good Hope Public House, 54 New King Street","RG 12/496","75
+"
+"5","6","218","Public House","Norman Road","","Ironfoundary Arms Public House, 1 Norman Road","RG 12/508","88
+"
+"5","6","219","Public House","Norman Road","","Rising Sun Public House, 43 Norman Road","RG 12/508","90
+"
+"5","6","220","Public House","Norman Road","","Norman Arms Public House, 84 Norman Road","RG 12/509","32
+"
+"5","6","221","Public House","Oak Terrace","","British Oak Public House, Oak Terrace","RG 12/513","38
+"
+"5","6","222","Public House","Old Woolwich Road","","Star and Garter Public House, 60 Old Woolwich Road","RG 12/511","58
+"
+"5","6","223","Public House","Oscar Street","","Carpenters Arms Public House, 8-10 Oscar Street","RG 12/501","127
+"
+"5","6","224","Public House","Pelton Road","","Pelton Arms Public House, 23 Pelton Road","RG 12/515","5
+"
+"5","6","225","Public House","Point Hill","","Duke of Kent Public House, 9 Point Hill","RG 12/509","116
+"
+"5","6","226","Public House","Pomeroy Street","","Victoria Tavern Public House, 47 Pomeroy Street","RG 12/504","125
+"
+"5","6","227","Public House","Pomeroy Street","","Carlton Arms Public House, Pomeroy Street","RG 12/504","123
+"
+"5","6","228","Public House","Queens Road","","Montague Arms Public House, 195 Queens Road","RG 12/504","149
+"
+"5","6","229","Public House","Regent Street","","Northumberland Arms Public House, 3 Regent Street","RG 12/494","122
+"
+"5","6","230","Public House","Render Street","","Old Foresters Arms Public House, 122 Render Street","RG 12/504","142
+"
+"5","6","231","Public House","River Bank","","Sea Witch Public House, River Bank","RG 12/515","16
+"
+"5","6","232","Public House","Roan Street","","Greycoat Boy Public House, 88 Roan Street","RG 12/509","9
+"
+"5","6","233","Public House","Robinson Terrace","","Woodman Public House, 9 Robinson Terrace","RG 12/498","54-55
+"
+"5","6","234","Public House","Rose Terrace","","Rose of Kent Public House, 49 Rose Terrace","RG 12/498","71
+"
+"5","6","235","Public House","Royal Hill","","Public House Public House, Royal Hill","RG 12/508","121
+"
+"5","6","236","Public House","St Johns Road","","Robin Hood Public House, St Johns Road","RG 12/501","43
+"
+"5","6","237","Public House","St Johns Road","","Shipwrights Arms Public House, St Johns Road","RG 12/501","43-44
+"
+"5","6","238","Public House","Silver Street","","Gloucester Arms Public House, 1 Silver Street","RG 12/511","35-36
+"
+"5","6","239","Public House","Stockwell Street","","Spread Eagle Public House, 2 Stockwell Street","RG 12/511","33
+"
+"5","6","240","Public House","Straightsmouth","","Painters Arms Public House, 2 Straightsmouth","RG 12/509","20
+"
+"5","6","241","Public House","Tanners Hill","","Crystal Palace Public House, 105 Tanners Hill","RG 12/501","123
+"
+"5","6","242","Public House","Tanners Hill","","Royal George Public House, 85 Tanners Hill","RG 12/501","122
+"
+"5","6","243","Public House","Telegraph Place","","Telegraph Public House, 1 Telegraph Place","RG 12/509","123
+"
+"5","6","244","Public House","Thames Street","","Victoria Public House, 51 Thames Street","RG 12/508","32
+"
+"5","6","245","Public House","Thames Street","","Rose and Crown Public House, 95-97 Thames Street","RG 12/508","34
+"
+"5","6","246","Public House","Thames Street","","Old Loyal Britons Public House, Thames Street","RG 12/508","21
+"
+"5","6","247","Public House","The Green","","33,","RG 12/507","75
+"
+"5","6","248","Public House","The Green","","The Feathers Public House, 1 The Green","RG 12/507","71
+"
+"5","6","249","Public House","The Green","","Lion pound Lamb Public House, 10-11 The Green","RG 12/507","72
+"
+"5","6","250","Public House","The Green","","Earl Rodney Public House, 50 The Green","RG 12/507","77
+"
+"5","6","251","Public House","The Stowage","","Fishing Smack Public House, 28 The Stowage","RG 12/507","85
+"
+"5","6","252","Public House","The Stowage","","The Old George Public House, 62 The Stowage","RG 12/507","83
+"
+"5","6","253","Public House","Trafalgar Road","","Crown Public House, 176 Trafalgar Road","RG 12/512","17
+"
+"5","6","254","Public House","Trafalgar Road","","The Queen Public House, 23 Trafalgar Road","RG 12/511","55
+"
+"5","6","255","Public House","Trafalgar Road","","Bricklayers Arms Public House, 90-92 Trafalgar Road","RG 12/512","14
+"
+"5","6","256","Public House","Upper George Street","","Duke of Edinburgh Public House, 37 Upper George Street","RG 12/512","61
+"
+"5","6","257","Public House","Upper Tyler Street","","Brunswick Public House, 25 Upper Tyler Street","RG 12/512","58
+"
+"5","6","258","Public House","Vanbrugh Park","","Royal Standard Public House, Vanbrugh Park","RG 12/512","94
+"
+"5","6","259","Public House","Warwick Street","","Isle of Wight Public House, 83 Warwick Street","RG 12/495","136
+"
+"5","6","260","Public House","Watergate Street","","Fishing Smack Public House, 22-24 Watergate Street","RG 12/507","51
+"
+"5","6","261","Public House","Watergate Street","","Freemasons Arms Public House, 76 Watergate Street","RG 12/507","54
+"
+"5","6","262","Public House","Watergate Street","","Red Cow Public House, Watergate Street","RG 12/507","58
+"
+"5","6","263","Public House","Wellington Street","","Duke of Wellington Public House, 37 Wellington Street","RG 12/507","49
+"
+"5","6","264","Public House","Woodwharf","","The Sun Public House, Woodwharf","RG 12/508","16
+"
+"5","6","265","Public House","Woolwich Road","","Ship and Billet Public House, 1 Woolwich Road","RG 12/514","36
+"
+"5","6","266","Public House","Woolwich Road","","Angerteine Hotel Public House, 108 Woolwich Road","RG 12/513","119
+"
+"5","6","267","Public House","Woolwich Road","","Old Friends Public House, 13-15 Woolwich Road","RG 12/514","36
+"
+"5","6","268","Public House","Woolwich Road","","Ship and Billet Public House, 71 Woolwich Road","RG 12/514","36
+"
+"5","6","269","Public House","Woolwich Road","","Lord Napier Public House, 8 Woolwich Road","RG 12/514","30
+"
+"5","6","270","Queen Street","","","1-75 odd","RG 12/507","37-42
+"
+"5","6","271","Queen Street","","","1-8, 12-21","RG 12/496","81-84
+"
+"5","6","272","Queen Street","","","2-66 even","RG 12/507","42-45
+"
+"5","6","273","Queen Street","Old Woolwich Road","","1-27","RG 12/511","61-63
+"
+"5","6","274","Queen Street","Prospect Place","","1-15","RG 12/504","86-87
+"
+"5","6","275","Queens Court","East Lane","","1-4","RG 12/511","64
+"
+"5","6","276","Queens Road","","","Eagle Villa, Queens Road","RG 12/504","75
+"
+"5","6","277","Queens Road","","","Falcon Villa, Queens Road","RG 12/504","75
+"
+"5","6","278","Queens Road","","","Florence Villa, Queens Road","RG 12/504","75
+"
+"5","6","279","Queens Road","","","Glenmore House, Queens Road","RG 12/504","75
+"
+"5","6","280","Queens Road","","","Hatcham Manor Farm and Cottage, Queens Road","RG 12/504","72-73
+"
+"5","6","281","Queens Road","","","Manor Cottage, Queens Road","RG 12/504","72
+"
+"5","6","282","Queens Road","","","Mount Lebanon Villa, Queens Road","RG 12/504","75
+"
+"5","6","283","Queens Road","New Cross","","","RG 12/504","75
+"
+"5","6","284","Queens Road","New Cross","","130-250 even","RG 12/504","70-74
+"
+"5","6","285","Queens Road","New Cross","","167-195 odd","RG 12/504","148-149
+"
+"5","6","286","Queens Road","New Cross","","197-293 odd","RG 12/505","4-7
+"
+"5","6","287","Queens Road","Olive House","","","RG 12/504","75
+"
+"5","6","288","Queens Road","Roslyn House","","","RG 12/504","75
+"
+"5","6","289","Queens Road","The Mount","","","RG 12/504","74-75
+"
+"5","6","290","Railway Arch Ground","","","","RG 12/494","105, 134-135
+"
+"5","6","291","Railway Arch Ground","","","1-8","RG 12/494","134-135
+"
+"5","6","292","Railway Arch Ground","","Caravans","","RG 12/494","105
+"
+"5","6","293","Railway Grove","","","1-20","RG 12/498","107-110
+"
+"5","6","294","Railway Grove","","","21-70","RG 12/498","141-147
+"
+"5","6","295","Railway Grove","","","71-90","RG 12/498","110-112
+"
+"5","6","296","Railway Station","LC and D","Blackheath Hill","","RG 12/509","144
+"
+"5","6","297","Rainton Road","","","1-9","RG 12/513","81-82
+"
+"5","6","298","Rainton Road","Rainton Terrace","","1-7","RG 12/513","80
+"
+"5","6","299","Rainton Terrace","Rainton Road","","1-7","RG 12/513","80
+"
+"5","6","300","Randel Place","Misson House","","","RG 12/509","24
+"
+"5","6","301","Randel Place","Roan Street","","1-9, 11-39","RG 12/509","24-27
+"
+"5","6","302","Randel Row","","","1-3","RG 12/509","23-24
+"
+"5","6","303","Ravens Place","","","1-5","RG 12/510","71
+"
+"5","6","304","Ravensbourne Road","","","18-46 even","RG 12/510","79-81
+"
+"5","6","305","Ravensbourne Road","","","97-135 odd","RG 12/510","81-83
+"
+"5","6","306","Ravensbourne Street","","","1-95 odd","RG 12/501","57-63
+"
+"5","6","307","Ravensbourne Street","","","2-16 even","RG 12/501","63-64
+"
+"5","6","308","Ravensbourne Street","Lind Street","","1-31","RG 12/501","112-114
+"
+"5","6","309","Reaston Street","","","1-63","RG 12/506","73-82
+"
+"5","6","310","Rebecca Place","New Cross Road","","1-13","RG 12/500","31
+"
+"5","6","311","Rectory Buildings","","","1-3, 11-26","RG 12/494","155-158
+"
+"5","6","312","Rectory Buildings","","","106-147","RG 12/494","159-161
+"
+"5","6","313","Rectory Buildings","","","31-41, 46-61","RG 12/494","155-158
+"
+"5","6","314","Rectory Buildings","","","64-65","RG 12/494","158
+"
+"5","6","315","Rectory Buildings","","","96-101","RG 12/494","158-159
+"
+"5","6","316","Reculver Road","","","1-81 odd","RG 12/503","35-40
+"
+"5","6","317","Reculver Road","","","2-82 even","RG 12/503","28-35
+"
+"5","6","318","Reeces Place","East Street","","8-10","RG 12/511","41
+"
+"5","6","319","Regent Street","","","1","RG 12/494","122
+"
+"5","6","320","Regent Street","","","17-26","RG 12/494","119-120
+"
+"5","6","321","Regent Street","","","2-6","RG 12/494","121-122
+"
+"5","6","322","Regent Street","","","22","RG 12/494","135
+"
+"5","6","323","Regent Street","","","27-41 odd","RG 12/494","118-119
+"
+"5","6","324","Regent Street","","","42","RG 12/494","118
+"
+"5","6","325","Regent Street","","","45-47 odd","RG 12/494","118
+"
+"5","6","326","Regent Street","","","51","RG 12/494","117
+"
+"5","6","327","Regent Street","","","8-16 even","RG 12/494","120-121
+"
+"5","6","328","Reginald Place","Reginald Road","","1-23 odd","RG 12/494","83-84
+"
+"5","6","329","Reginald Place","Reginald Road","","2-22 even","RG 12/494","84-86
+"
+"5","6","330","Reginald Road","","","1-65 odd","RG 12/494","76-80
+"
+"5","6","331","Reginald Road","","","2-48 even","RG 12/494","73-76
+"
+"5","6","332","Reginald Road","Amelia Terrace","","29-38","RG 12/494","82-83
+"
+"5","6","333","Reginald Road","May Cottage","","","RG 12/494","73
+"
+"5","6","334","Reginald Road","Reginald Place","","1-23 odd","RG 12/494","83-84
+"
+"5","6","335","Reginald Road","Reginald Place","","2-22 even","RG 12/494","84-86
+"
+"5","6","336","Reginald Street","","","1-21 odd","RG 12/494","81-82
+"
+"5","6","337","Reginald Street","","","2-24 even","RG 12/494","80-81
+"
+"5","6","338","Relief Station","Mary Anns Buildings","","","RG 12/494","147
+"
+"5","6","339","Relieving Office","Simla Road","","","RG 12/499","33
+"
+"5","6","340","Rennies Yard","Thames Street","","","RG 12/508","20
+"
+"5","6","341","Reservoir Road","","","2-38 even","RG 12/504","58-59
+"
+"5","6","342","Richardson Place","Church Street","","1-11","RG 12/508","105-106
+"
+"5","6","343","Richmond Terrace","","","1-6","RG 12/515","30-31
+"
+"5","6","344","River Bank","Bank Houses","","1-2","RG 12/515","54
+"
+"5","6","345","River Bank","Middle House","","","RG 12/515","16
+"
+"5","6","346","River Bank","Pelton Road","","","RG 12/515","16, 54
+"
+"5","6","347","River Terrace","East Lodge","","","RG 12/515","26
+"
+"5","6","348","River Terrace","Marsh Lane","","1-24","RG 12/515","26-28
+"
+"5","6","349","River Terrace","River Cottage","","","RG 12/515","26
+"
+"5","6","350","Roan Place","Roan Street","","1-7","RG 12/509","14-15
+"
+"5","6","351","Roan Street","","","1-6","RG 12/509","20
+"
+"5","6","352","Roan Street","Chittenden Buildings","","1-3","RG 12/509","16
+"
+"5","6","353","Roan Street","Church Street","","1-6","RG 12/508","100-101
+"
+"5","6","354","Roan Street","Church Street","","23-125 odd","RG 12/509","12-18
+"
+"5","6","355","Roan Street","Church Street","","48-88 even","RG 12/509","4-9
+"
+"5","6","356","Roan Street","Church Street","","7-21 odd","RG 12/508","101-102
+"
+"5","6","357","Roan Street","Church Street","","8-46 even","RG 12/508","102-104
+"
+"5","6","358","Roan Street","Church Street","","90-126 even","RG 12/508","92-95
+"
+"5","6","359","Roan Street","Haddo Street","","1-65 odd","RG 12/508","69-73
+"
+"5","6","360","Roan Street","Haddo Street","","2-26 even","RG 12/509","9-10
+"
+"5","6","361","Roan Street","Haddo Street","","28-52 even","RG 12/508","65-67
+"
+"5","6","362","Roan Street","Lodging House","","59","RG 12/509","17
+"
+"5","6","363","Roan Street","Norris Buildings","","1-8","RG 12/509","6
+"
+"5","6","364","Roan Street","Randel Place","","1-9, 11-39","RG 12/509","24-27
+"
+"5","6","365","Roan Street","Roan Place","","1-7","RG 12/509","14-15
+"
+"5","6","366","Roan Street","St Alphage Cottages","","1-8","RG 12/509","4
+"
+"5","6","367","Roan Street","St James Place","","1-6","RG 12/509","7-9
+"
+"5","6","368","Roan Street","St Pauls Mission Rooms","","49","RG 12/509","17
+"
+"5","6","369","Roan Street","Skinners Buildings","","1-10","RG 12/508","94
+"
+"5","6","370","Roan Street","Straightsmouth","","","RG 12/508","102
+"
+"5","6","371","Robinson Place","","","12-17","RG 12/498","52-53
+"
+"5","6","372","Robinson Terrace","Trundley Road","","1","RG 12/498","59
+"
+"5","6","373","Robinson Terrace","Trundley Road","","9-24","RG 12/498","53-55
+"
+"5","6","374","Rokeby Crescent","Rokeby Road","","1-5","RG 12/500","62-63
+"
+"5","6","375","Rokeby Road","","","1-51","RG 12/500","55-59
+"
+"5","6","376","Rokeby Road","Brunswick Cottage","","","RG 12/500","59
+"
+"5","6","377","Rokeby Road","Ferndale Cottage","","","RG 12/500","59
+"
+"5","6","378","Rokeby Road","Hatch Villa","","","RG 12/500","59
+"
+"5","6","379","Rokeby Road","Herbert Cottages","","1-2","RG 12/500","59
+"
+"5","6","380","Rokeby Road","Myrtle Cottage","","","RG 12/500","59
+"
+"5","6","381","Rokeby Road","Nursing Home","","","RG 12/500","59
+"
+"5","6","382","Rokeby Road","Rokeby Crescent","","1-5","RG 12/500","62-63
+"
+"5","6","383","Rokeby Road","The Limes","","","RG 12/500","59
+"
+"5","6","384","Rollins Street","","","1-7 odd","RG 12/503","78
+"
+"5","6","385","Rolt Street","","","1-83 odd","RG 12/496","129-134
+"
+"5","6","386","Rolt Street","","","2-98 even","RG 12/496","134-140
+"
+"5","6","387","Roman Catholic Presbytery","Pelton Road","","95","RG 12/514","127
+"
+"5","6","388","Romney Place","Church Street","","1-2","RG 12/511","11
+"
+"5","6","389","Rose Terrace","","","1-49","RG 12/498","65-71
+"
+"5","6","390","Rose Terrace","Clifford House","","","RG 12/498","71
+"
+"5","6","391","Rose Terrace","Lower Road","","1-5","RG 12/498","5-6
+"
+"5","6","392","Rose Terrace","Trundley House","","22","RG 12/498","67
+"
+"5","6","393","Royal Hill","Brand Street","","1-18, 3,9","RG 12/510","88-90
+"
+"5","6","394","Royal Hill","Brand Street","","18-23, 33-52","RG 12/510","91-94
+"
+"5","6","395","Royal Hill","Brand Street","","53-57","RG 12/510","91
+"
+"5","6","396","Royal Hill","Burney Street","","29-65 odd","RG 12/508","123-125
+"
+"5","6","397","Royal Hill","Burney Street","","8-42 even","RG 12/508","122-123
+"
+"5","6","398","Royal Hill","Circus Street","","4-10","RG 12/508","130-132
+"
+"5","6","399","Royal Hill","Grove Place","","2-18","RG 12/509","131-132
+"
+"5","6","400","Royal Hill","Grove Place","","3","RG 12/509","137
+"
+"5","6","401","Royal Hill","Hyde Vale","","","RG 12/510","114-116
+"
+"5","6","402","Royal Hill","Hyde Vale","","1-17","RG 12/510","112-114
+"
+"5","6","403","Royal Hill","Lecture Hall","","","RG 12/508","121
+"
+"5","6","404","Royal Hill","Peyton Place","","1-5","RG 12/508","121
+"
+"5","6","405","Royal Hill","Primrose Cottage","","","RG 12/510","88
+"
+"5","6","406","Royal Hill","Prior Street","","2-21","RG 12/510","94-96
+"
+"5","6","407","Royal Hill","Prior Street","","9, 23-32, 42","RG 12/508","136-137
+"
+"5","6","408","Royal Hill","Royal Place","","1-17","RG 12/508","142-143
+"
+"5","6","409","Royal Hill","South Street","","1-19 odd","RG 12/508","115
+"
+"5","6","410","Royal Hill","South Street","","100-116 even","RG 12/510","87
+"
+"5","6","411","Royal Hill","South Street","","105-121 odd","RG 12/509","111
+"
+"5","6","412","Royal Hill","South Street","","126-136 even","RG 12/510","87-88
+"
+"5","6","413","Royal Hill","South Street","","24-96 even","RG 12/508","117
+"
+"5","6","414","Royal Hill","South Street","","41-89 odd","RG 12/508","115-117
+"
+"5","6","415","Royal Hill","South Street","","89-103 odd","RG 12/509","137
+"
+"5","6","416","Royal Hill","The Circus","","1-22","RG 12/508","146-148
+"
+"5","6","417","Royal Hill County Court","Burney Street","","7","RG 12/508","122
+"
+"5","6","418","Royal Naval Place","Amersham Vale","","1-15","RG 12/495","57-58
+"
+"5","6","419","Royal Parade","Brigade Place","","1-6","RG 12/510","10-11
+"
+"5","6","420","Royal Place","Royal Hill","","1-17","RG 12/508","142-143
+"
+"5","6","421","Royal Victoria Yard","Grove Street","","","RG 12/497","112-113
+"
+"5","6","422","Ruddigore Road","","","1-15 odd","RG 12/499","103-105
+"
+"5","6","423","Ruddigore Road","","","2-16 even","RG 12/499","105-106
+"
+"5","6","424","Rudford Road","","","1-31 odd","RG 12/503","45-48
+"
+"5","6","425","Rudford Road","","","2-20 even","RG 12/503","48-49
+"
+"5","6","426","Russell Place","Old Dover Road","","2-44 even","RG 12/513","29-30
+"
+"5","6","427","Russell Place","Old Dover Road","","1-35 odd","RG 12/513","30-32
+"
+"5","6","428","Ruthin Road","Humber Road","","1-15 odd","RG 12/513","57-59
+"
+"5","6","429","Ruthin Road","Ruthin Terrace","","2-8","RG 12/513","57-58
+"
+"5","6","430","Ruthin Road","Ruthin Villas","","","RG 12/513","58-59
+"
+"5","6","431","Ruthin Terrace","Ruthin Road","","2-8","RG 12/513","57-58
+"
+"5","6","432","Rutland Gardens","Charlton Road","","1-7","RG 12/513","66-67
+"
+"5","6","433","Rutts Terrace","Dennetts Road","","1-20","RG 12/504","110-112
+"

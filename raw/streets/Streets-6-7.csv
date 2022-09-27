@@ -1,0 +1,545 @@
+﻿"6","7","1","Sach Road","Mount Pleasant Lane","","Brockville & Airedale","RG 12/183","133
+"
+"6","7","2","Sach Road","Mount Pleasant Lane","","Even Nos","RG 12/183","130-132
+"
+"6","7","3","Sach Road","Mount Pleasant Lane","","Odd Nos","RG 12/183","133-134
+"
+"6","7","4","St Agnes Terrace","Victoria Park Road","","1-4","RG 12/204","168
+"
+"6","7","5","St Agnes Terrace","Victoria Park Road","","5-8","RG 12/205","157
+"
+"6","7","6","St Andrews Mews & Pavement","Dunsmure Road","","","RG 12/183","59-63
+"
+"6","7","7","St Andrews Road","St Kildas Road","","","RG 12/179","51-52
+"
+"6","7","8","St James Terrace & Villas,","pt Lower Clapton Road","","","RG 12/198","11-12
+"
+"6","7","9","St Johns Church Road","Urswick Road","","","RG 12/196","45-49
+"
+"6","7","10","St Johns Place","Well Street","now Priory Place","","",""
+"6","7","11","St Kildas Road","Lordship Road","","","RG 12/179","38-45
+"
+"6","7","12","St Marks Road & Square","Sandringham Road","","1-14","RG 12/187","48-49
+"
+"6","7","13","St Marks Road & Square","Sandringham Road","","Vicarage, St Marks Road & Square","RG 12/187","41
+"
+"6","7","14","St Marks Terrace & Villas","St Marks Road","","","RG 12/187","13-16
+"
+"6","7","15","St Peters Road","Kingsland Road","","2-6 Even","RG 12/189","87
+"
+"6","7","16","St Peters Road","Kingsland Road","","3-7 Odd","RG 12/190","22-23
+"
+"6","7","17","St Phlips Road","Richmond Road","","","RG 12/195","18-22
+"
+"6","7","18","St Scholasticas Retreat","Kenninghall Road","","","RG 12/196","110-111
+"
+"6","7","19","St Thomas Cottages","pt Lyme Grove","","","RG 12/195","106
+"
+"6","7","20","St Thomas Place","Well Street","","","RG 12/205","50-53
+"
+"6","7","21","St Thomas Road","Well Street","","1-49 Odd","RG 12/205","147-151
+"
+"6","7","22","St Thomas Road","Well Street","","2-34 Even","RG 12/205","60-62
+"
+"6","7","23","St Thomas Road","Well Street","","36-42 Even","RG 12/205","185
+"
+"6","7","24","St Thomas Road","Well Street","","44-48 Even","RG 12/205","158
+"
+"6","7","25","St Thomas Road","Well Street","","51-67 Odd","RG 12/205","184-185
+"
+"6","7","26","St Thomas Road","Well Street","","69-107 Odd","RG 12/205","158-160
+"
+"6","7","27","St Thomas Square","Mare Street","","1-20","RG 12/195","98-100
+"
+"6","7","28","St Thomas Square","Mare Street","","St Thomas, St Margarets, Penfrys and Chapter Houses, St Thomas Square","RG 12/205","50
+"
+"6","7","29","Salcombe Road","Trumans Road","","","RG 12/180","158-159
+"
+"6","7","30","Salisbury Cottages","pt Arcola Street","","","RG 12/186","59-60
+"
+"6","7","31","Salisbury Road","Wilton Road","","","RG 12/195","22-24
+"
+"6","7","32","Sandbrook Road","Broughton Road","","","RG 12/181","46-54
+"
+"6","7","33","Sandringham Road","Kingsland High Street","","1-105 Odd","RG 12/187","25-31
+"
+"6","7","34","Sandringham Road","Kingsland High Street","","107-185 Odd","RG 12/192","116-123
+"
+"6","7","35","Sandringham Road","Kingsland High Street","","2-84 Even","RG 12/187","37-41
+"
+"6","7","36","Sandringham Road","Kingsland High Street","","86-174 Even","RG 12/192","114-122
+"
+"6","7","37","Sandringham Road","Kingsland High Street","","St Marks Vicarage, Sandringham Road","RG 12/187","41
+"
+"6","7","38","Sanford Cottages","","","1-6 Sanford Lane","RG 12/184","38-39
+"
+"6","7","39","Sanford Lane","Stoke Newington High Street","now with Cottages 1 & 2","Even Nos","RG 12/184","32-33
+"
+"6","7","40","Sanford Lane","Stoke Newington High Street","now with Cottages 1 & 2","Odd Nos","RG 12/184","20-22
+"
+"6","7","41","Sanford Terrace","Stoke Newington Common","now with Caroline Place","1-21","RG 12/184","33-35
+"
+"6","7","42","Sanford Terrace","Stoke Newington Common","now with Caroline Place","22-46","RG 12/184","5-8
+"
+"6","7","43","Saratoga Road","MilIfields Road","","","RG 12/198","21-23
+"
+"6","7","44","Saxony Cottages","Mare Street","","","RG 12/205","49-50
+"
+"6","7","45","School Nook","Lea Bridge","","","RG 12/197","50-52
+"
+"6","7","46","Schoolhouses","","","All Souls, Overbury Street","RG 12/199","104
+"
+"6","7","47","Schoolhouses","","","Chatham Place, Schoolhouses","RG 12/196","61
+"
+"6","7","48","Schoolhouses","","","Daubeney Road","RG 12/201","76
+"
+"6","7","49","Schoolhouses","","","Detmold Road","RG 12/197","32
+"
+"6","7","50","Schoolhouses","","","Gainsborough Road","RG 12/207","92
+"
+"6","7","51","Schoolhouses","","","Hindle Street","RG 12/186","69
+"
+"6","7","52","Schoolhouses","","","Homerton Row, Schoolhouses","RG 12/200","113
+"
+"6","7","53","Schoolhouses","","","Lamb Lane","RG 12/204","32
+"
+"6","7","54","Schoolhouses","","","Lansdowne Road","RG 12/195","12
+"
+"6","7","55","Schoolhouses","","","Oldfield Road","RG 12/181","104
+"
+"6","7","56","Schoolhouses","","","Ottaway Street","RG 12/185","67
+"
+"6","7","57","Schoolhouses","","","Paragon Road","RG 12/195","125
+"
+"6","7","58","Schoolhouses","","","Percy Road","RG 12/205","129
+"
+"6","7","59","Schoolhouses","","","Powell Road","RG 12/197","90-91
+"
+"6","7","60","Schoolhouses","","","Rushmore Road","RG 12/198","136
+"
+"6","7","61","Schoolhouses","","","St Augustines, Victoria Park Road","RG 12/206","188
+"
+"6","7","62","Schoolhouses","","","St Matthews, Harrington Hill, Schoolhouses","RG 12/183","147
+"
+"6","7","63","Schoolhouses","","","Shepherds Lane","RG 12/202","57
+"
+"6","7","64","Schoolhouses","","","Sidney Road","RG 12/202","116
+"
+"6","7","65","Schoolhouses","","","W Hackney, Church Street","RG 12/185","93
+"
+"6","7","66","Schoolhouses","","","Woodland Street","RG 12/193","58
+"
+"6","7","67","Schools","","","Blind School, Northumberland House","RG 12/198","27
+"
+"6","7","68","Schools","","","Convent School, Hassett Road","RG 12/203","119-124
+"
+"6","7","69","Schools","","","Jewish, Birkbeck Road","RG 12/187","49
+"
+"6","7","70","Schools","","","King Edward Industrial School for Girls, Andrews Road (partly damaged)","RG 12/207","203-206
+"
+"6","7","71","Schools","","","Parochial School, Chatham Place","RG 12/201","101
+"
+"6","7","72","Schools","","","Upton House Truant School Industrial, Warwick Road","RG 12/203","130-134
+"
+"6","7","73","Seal Street","Shacklewell Lane","","","RG 12/186","38-43
+"
+"6","7","74","Sedgewick Villas","Homerton High Street","","","RG 12/202","78-79
+"
+"6","7","75","Sedgwick Street","Homerton High Street","","","RG 12/202","103-109
+"
+"6","7","76","Seven Sisters Road","","*including Crittenden, Vivian & River Houses","","",""
+"6","7","77","Seven Sisters Road","","Hackney Part","273-305 Odd","RG 12/179","179-180
+"
+"6","7","78","Seven Sisters Road","","Hackney Part","307-335 Odd *","RG 12/179","72-73, 69
+"
+"6","7","79","Seven Sisters Road","","Hackney Part","430-438 Even","RG 12/179","180-181
+"
+"6","7","80","Seven Sisters Road","","Hackney Part","440-484 Even","RG 12/179","74-76
+"
+"6","7","81","Seven Sisters Road","","Islington part","1-29 Odd","RG 12/144","139-140
+"
+"6","7","82","Seven Sisters Road","","Islington part","126-152 Evwn","RG 12/176","76-77
+"
+"6","7","83","Seven Sisters Road","","Islington part","145-261 Odd","RG 12/149","75-80
+"
+"6","7","84","Seven Sisters Road","","Islington part","154-240 Even","RG 12/175","162-166
+"
+"6","7","85","Seven Sisters Road","","Islington part","2-32 Even","RG 12/176","43-45
+"
+"6","7","86","Seven Sisters Road","","Islington part","242-284 Even","RG 12/175","106-108
+"
+"6","7","87","Seven Sisters Road","","Islington part","31-65 Odd","RG 12/148","150-151
+"
+"6","7","88","Seven Sisters Road","","Islington part","34-124 Even","RG 12/176","68-72
+"
+"6","7","89","Seven Sisters Road","","Islington part","85-95 Odd","RG 12/148","4
+"
+"6","7","90","Seven Sisters Road","","Islington part","97-143 Odd","RG 12/148","124-126
+"
+"6","7","91","Seven Sisters Road","","Islington part","Crisp & Co Stores 67-83? Odd","RG 12/150","142-147
+"
+"6","7","92","Seven Sisters Road","","continued in EDMONTON District","","",""
+"6","7","93","Sewdley Street","Millfields Road","","","RG 12/199","34-38
+"
+"6","7","94","Shacklewell Lane","Kingsland High Street","","1-57 Odd","RG 12/186","48-51
+"
+"6","7","95","Shacklewell Lane","Kingsland High Street","","2-42 Even","RG 12/187","5-7
+"
+"6","7","96","Shacklewell Lane","Kingsland High Street","","44-134 Even","RG 12/186","96-101
+"
+"6","7","97","Shacklewell Lane","Kingsland High Street","","59-61 Odd","RG 12/186","60
+"
+"6","7","98","Shacklewell Lane","Kingsland High Street","","63-143 Odd","RG 12/186","12-18
+"
+"6","7","99","Shacklewell Row","Shacklewell Lane","","","RG 12/186","77-81
+"
+"6","7","100","Shafton Road","Victoria Park Road","","","RG 12/207","11-13
+"
+"6","7","101","Shakespeare Road","Howard Road","","1-85 Odd","RG 12/1066","87-95
+"
+"6","7","102","Shakespeare Road","Howard Road","","100-134 Even","RG 12/180","178-180
+"
+"6","7","103","Shakespeare Road","Howard Road","","2-98 Even","RG 12/1066","95-102
+"
+"6","7","104","Shakespeare Road","Howard Road","","93-141 Odd","RG 12/180","180-184
+"
+"6","7","105","Shakespeare Road","Howard Road","","Shakespeare Cottage, Shakespeare Road","RG 12/1066","95
+"
+"6","7","106","Sheep Lane","West Street","","1-51 Odd","RG 12/204","137-140
+"
+"6","7","107","Sheep Lane","West Street","","2-76 Even","RG 12/204","132-137
+"
+"6","7","108","Sheep Lane","West Street","Continued in BETHNAL GREEN District","","",""
+"6","7","109","Shellgrove Road","Boleyn Road","","","RG 12/180","137-140
+"
+"6","7","110","Shepherds Lane","Homerton High Street","","1-4","RG 12/202","44
+"
+"6","7","111","Shepherds Lane","Homerton High Street","","1-4","RG 12/202","55-56
+"
+"6","7","112","Shepherds Lane","Homerton High Street","","5","RG 12/202","46
+"
+"6","7","113","Shepherds Lane","Homerton High Street","","Bergers Cottage, Shepherds Lane","RG 12/202","55
+"
+"6","7","114","Shepherds Lane","Homerton High Street","","School House and Factory House, Shepherds Lane","RG 12/202","57
+"
+"6","7","115","Shepherds Lane","Homerton High Street","","Warwick Villas, Shepherds Lane","RG 12/202","52-54
+"
+"6","7","116","Shipway Terrace","Victoria Road","","","RG 12/1065","147-148
+"
+"6","7","117","Shore Road","Victoria Park Road","","2-4 Even","RG 12/205","163
+"
+"6","7","118","Shore Road","Victoria Park Road","","6-28 Even","RG 12/205","64-65
+"
+"6","7","119","Shore Road","Victoria Park Road","","Odd Nos","RG 12/205","12-15
+"
+"6","7","120","Shoreditch Broadway","London Fields","see Broadway","","",""
+"6","7","121","Shrubland Grove","Queens Road, Dalston","later Mapledene Road","1-13 Odd","RG 12/193","139-140
+"
+"6","7","122","Shrubland Grove","Queens Road, Dalston","later Mapledene Road","15-45 Odd","RG 12/194","14-16
+"
+"6","7","123","Shrubland Grove","Queens Road, Dalston","later Mapledene Road","16-52 Even","RG 12/194","12-14
+"
+"6","7","124","Shrubland Grove","Queens Road, Dalston","later Mapledene Road","2-14 Even","RG 12/193","140-141
+"
+"6","7","125","Shrubland Grove","Queens Road, Dalston","later Mapledene Road","47-99 Odd","RG 12/194","60-63
+"
+"6","7","126","Shrubland Grove","Queens Road, Dalston","later Mapledene Road","54-108 Even","RG 12/194","63-66
+"
+"6","7","127","Shrubland Road","Queens Road, Dalston","","68-112 Even","RG 12/194","88-91
+"
+"6","7","128","Shrubland Road","Queens Road, Dalston","","69-99 Odd","RG 12/194","86-88
+"
+"6","7","129","Shrubland Road","Queens Road, Dalston","","Barracks, Shrubland Road","RG 12/194","91
+"
+"6","7","130","Shrubland Road","Queens Road, Dalston","see SHOREDITCH District","1-67 Odd & 2-66 Even","","
+"
+"6","7","131","Sidney Road & Place","Homerton High Street","","","RG 12/202","115-120
+"
+"6","7","132","Sidney Road & Place","Homerton High Street","","Union Workhouse, Sidney Road & Place","RG 12/203","65-88
+"
+"6","7","133","Sidney Terrace","pt Sidney Street","","","RG 12/203","39-44
+"
+"6","7","134","Sidworth Street","Lamb Lane","","","RG 12/204","23-25
+"
+"6","7","135","Sigdon Road","Dalston Lane","","","RG 12/192","110-114
+"
+"6","7","136","Silvester Row","Grove Place","now-pt-Sylvester Road","","",""
+"6","7","137","SlIk Mill Gardens","Cassland Road","","","RG 12/206","53
+"
+"6","7","138","Smalley Road","Brooke Road","","","RG 12/184","39-43
+"
+"6","7","139","Somerford Grove","Stoke Newington Road","","12 Even","RG 12/186","43
+"
+"6","7","140","Somerford Grove","Stoke Newington Road","","14-36 Even","RG 12/186","31-32
+"
+"6","7","141","Somerford Grove","Stoke Newington Road","","2-10 Even","RG 12/186","30-31
+"
+"6","7","142","Somerford Grove","Stoke Newington Road","","Odd Nos","RG 12/186","28-30
+"
+"6","7","143","South Side Terrace","Stoke Newington Common","","","RG 12/184","71-72
+"
+"6","7","144","Southborough Road","Lauriston Road","","1-47 Odd","RG 12/205","179-182
+"
+"6","7","145","Southborough Road","Lauriston Road","","2-54 Even","RG 12/205","174-177
+"
+"6","7","146","Southborough Road","Lauriston Road","","49-71 Odd","RG 12/207","60-61
+"
+"6","7","147","Southborough Road","Lauriston Road","","56-78 Even","RG 12/207","61-62
+"
+"6","7","148","Southgate Grove","Southgate Road","","","RG 12/189","51-53
+"
+"6","7","149","Southgate Road","","","1-5 Odd","RG 12/190","76
+"
+"6","7","150","Southgate Road","","","100-124 Even","RG 12/189","22-23
+"
+"6","7","151","Southgate Road","","","115-137 Odd","RG 12/189","23-24
+"
+"6","7","152","Southgate Road","","","126-174 Even","RG 12/188","71-73
+"
+"6","7","153","Southgate Road","","","139-195 Odd","RG 12/188","68-71
+"
+"6","7","154","Southgate Road","","","176-200 Even","RG 12/188","23-24
+"
+"6","7","155","Southgate Road","","","197-225 Odd","RG 12/188","25-26
+"
+"6","7","156","Southgate Road","","","2-50 Even","RG 12/190","71-74
+"
+"6","7","157","Southgate Road","","","227-229 Odd","RG 12/164","45
+"
+"6","7","158","Southgate Road","","","47-113 Odd","RG 12/189","53-56
+"
+"6","7","159","Southgate Road","","","52-98 Even","RG 12/189","56-58
+"
+"6","7","160","Southgate Road","","","7 Odd","RG 12/190","99
+"
+"6","7","161","Southgate Road","","","9-45 Odd","RG 12/190","74-76
+"
+"6","7","162","Southwold Road & Terrace","Upper Clapton Road","","Even Nos","RG 12/197","41-46
+"
+"6","7","163","Southwold Road & Terrace","Upper Clapton Road","","Hornsey Chambers","RG 12/197","40-41
+"
+"6","7","164","Southwold Road & Terrace","Upper Clapton Road","","Odd Nos","RG 12/197","9-12
+"
+"6","7","165","Southwold Road & Terrace","Upper Clapton Road","","Southwold Terrace, Southwold Road & Terrace","RG 12/197","14-15
+"
+"6","7","166","Southwold Road & Terrace","Upper Clapton Road","","Stones Buildings, Southwold Road & Terrace, Southwold Road & Terrace","RG 12/197","12-14
+"
+"6","7","167","Sovereign Lane","Northwold Road","","","RG 12/182","111-112
+"
+"6","7","168","Speldhurst Road","King Edwards Road","","","RG 12/205","177-179
+"
+"6","7","169","Spenser Road","Matthias Road","","Even Nos","RG 12/1066","78-87
+"
+"6","7","170","Spenser Road","Matthias Road","","Odd Nos","RG 12/1066","55-64
+"
+"6","7","171","Spring Hill","Upper Clapton Road","","Buccleugh Cottages, Spring Hill","RG 12/182","14
+"
+"6","7","172","Spring Hill","Upper Clapton Road","","Other Cottages & Boat House, Spring Hill","RG 12/183","140-141
+"
+"6","7","173","Spring Hill","Upper Clapton Road","","Spring Hill Farm & Cottage, Spring Hill","RG 12/183","140
+"
+"6","7","174","Spring Hill","Upper Clapton Road","","Spring Hill House, Spring Hill","RG 12/182","13-14
+"
+"6","7","175","Spring Lane","Spring Hill","","Laburnam & other Cottages, Spring Lane","RG 12/183","138-140
+"
+"6","7","176","Spring Lane","Spring Hill","","Wilsons & Willow Cottages, Spring Lane","RG 12/183","138
+"
+"6","7","177","Springdale Road","Green Lanes","","","RG 12/181","207-215
+"
+"6","7","178","Springfield","Clapton Road","","","RG 12/182","9-11
+"
+"6","7","179","Springfield Terrace","Gascoyne Road","now part Bradstock Road","","",""
+"6","7","180","Spurstowe Road","Manor Place","","1-41 Odd","RG 12/191","104-106
+"
+"6","7","181","Spurstowe Road","Manor Place","","2-34 Even","RG 12/191","102-103
+"
+"6","7","182","Spurstowe Road","Manor Place","","36-38 Even","RG 12/191","118
+"
+"6","7","183","Spurstowe Road","Manor Place","","40-44 Even","RG 12/191","103-104
+"
+"6","7","184","Spurstowe Road","Manor Place","","43 Odd","RG 12/191","118
+"
+"6","7","185","Spurstowe Road","Manor Place","","45-47 odd","RG 12/191","104
+"
+"6","7","186","Spurstowe Road","Manor Place","","54-58 Even","RG 12/192","24-25
+"
+"6","7","187","Spurstowe Road","Manor Place","","55-57 Odd","RG 12/192","24-25
+"
+"6","7","188","Spurstowe Terrace","Spurstowe Road","","","RG 12/192","19-21
+"
+"6","7","189","Stafford House Stables","Downs Park Road","","","RG 12/186","107
+"
+"6","7","190","Stafford Place","pt Grove Road","","","RG 12/183","172-173
+"
+"6","7","191","Stalnforth Cottages","Clapton Terrace Mews","","","RG 12/182","54
+"
+"6","7","192","Stamford Grove","Hill Street","East & West","","RG 12/183","162-164
+"
+"6","7","193","Stamford Hill","","","1-39 Odd","RG 12/179","4-6
+"
+"6","7","194","Stamford Hill","","","2-36 Even","RG 12/182","115-117
+"
+"6","7","195","Stamford Hill","","","38-176 Even","RG 12/182","120-129
+"
+"6","7","196","Stamford Hill","","","41-113 (112?)","RG 12/183","39-44
+"
+"6","7","197","Stamford Hill","","","85-101 Odd repeated North of Amhurst Park to Parish Boundary","RG 12/183","4-5
+"
+"6","7","198","Stamford Hill","","","Part in EDMONTON District Nos 1-44 consecutive & other Terraces and Cottages etc","RG 12/1072","33-40
+"
+"6","7","199","Stamford Hill","","","These are renumbered in 1897 as 115-131","","
+"
+"6","7","200","Stamford Road","Kingsland Road","","","RG 12/188","96-105
+"
+"6","7","201","Stamford Terrace","Stamford Hill","","1A-4A","RG 12/182","120
+"
+"6","7","202","Stamford Terrace","Stamford Hill","","Even Nos","RG 12/182","117-119
+"
+"6","7","203","Stanboroughs Yard","Kingsland High Street","","","RG 12/187","100
+"
+"6","7","204","Stannard Road","Graham Road","","","RG 12/193","23-24
+"
+"6","7","205","Statham Grove","Green Lanes","(Villas)","","RG 12/181","186-189
+"
+"6","7","206","Station Buildings","Acton Street","","","RG 12/190","12-14
+"
+"6","7","207","Stellman Street","Landfield Street","","","RG 12/185","59-62
+"
+"6","7","208","Stillman Street see Stellman Street","","","","",""
+"6","7","209","Stockmar Road","Morning Lane","","Ellen Cottage, Stockmar Road","RG 12/195","114
+"
+"6","7","210","Stockmar Road","Morning Lane","","Even Nos","RG 12/195","114-116
+"
+"6","7","211","Stockmar Road","Morning Lane","","Odd Nos","RG 12/195","130-134
+"
+"6","7","212","Stoke Newington Buildings","Abney Gardens","was Jolly Butchers Yard","","RG 12/184","22
+"
+"6","7","213","Stoke Newington Common","","","Sanford Terrace, Stoke Newington Common, 1-21","RG 12/184","33-35
+"
+"6","7","214","Stoke Newington Common","","","Sanford Terrace, Stoke Newington Common, 22-46","RG 12/184","5-8
+"
+"6","7","215","Stoke Newington Common","","","Southside & Belmont Terraces, Stoke Newington Common","RG 12/184","71-73
+"
+"6","7","216","Stoke Newington High Street","","","1-71 Odd","RG 12/1065","126-129
+"
+"6","7","217","Stoke Newington High Street","","","175-177 Odd","RG 12/179","101
+"
+"6","7","218","Stoke Newington High Street","","","179-217 Odd","RG 12/179","97-99
+"
+"6","7","219","Stoke Newington High Street","","","180-238 Even","RG 12/184","24-26
+"
+"6","7","220","Stoke Newington High Street","","","2-178 Even","RG 12/184","60-67
+"
+"6","7","221","Stoke Newington High Street","","","73-173 Odd","RG 12/180","78-82
+"
+"6","7","222","Stoke Newington High Street","","","Abney Park Cemetery Lodge, Stoke Newington High Street","RG 12/179","4
+"
+"6","7","223","Stoke Newington High Street","","","Abney Park Terrace, Stoke Newington High Street","RG 12/184","26-27
+"
+"6","7","224","Stoke Newington High Street","","","Chapel House, Stoke Newington High Street","RG 12/184","64
+"
+"6","7","225","Stoke Newington High Street","","","Police Station, Stoke Newington High Street","RG 12/1065","127-128
+"
+"6","7","226","Stoke Newington Road","","","1-107 Odd","RG 12/180","95-100
+"
+"6","7","227","Stoke Newington Road","","","102-136 Even","RG 12/186","5-6
+"
+"6","7","228","Stoke Newington Road","","","111-135 Odd","RG 12/1066","37-39
+"
+"6","7","229","Stoke Newington Road","","","2-48 Even","RG 12/186","52-54
+"
+"6","7","230","Stoke Newington Road","","","80 & Police Court","RG 12/186","60
+"
+"6","7","231","Stoke Newington Road","","","92-100 Even","RG 12/186","60-61
+"
+"6","7","232","Stoke Newington Road","","No other numbers","138-182 Even","RG 12/185","120-122
+"
+"6","7","233","Stones Buildings","pt Southwold Road","","","RG 12/197","12-14
+"
+"6","7","234","Suffolk Place","Acton Street","","No 6 only","RG 12/190","9
+"
+"6","7","235","Summerhouse Road","Church Street","","","RG 12/179","106-108
+"
+"6","7","236","Suther Street","Wallis Road","","","RG 12/207","194-195
+"
+"6","7","237","Sutton Place","Boleyn Road","","","RG 12/187","133-134
+"
+"6","7","238","Sutton Place","Urswick Road","","","RG 12/196","49-50
+"
+"6","7","239","Swiss Cottages","Laurlston Road","","","RG 12/207","15-17
+"
+"6","7","240","Sydner Road","Amhurst Road","","","RG 12/185","83-89
+"
+"6","7","241","Sylvester Road","Mare Street","was Silvester Row & Grove Place","","RG 12/191","56-59
+"
+"6","7","242","Templar Road","Homerton Row","","","RG 12/201","28-41
+"
+"6","7","243","Temple Street","Hackney Marsh","including White Hart Public House and Shop","","RG 12/201","58
+"
+"6","7","244","Temple Street","Queens Road, Dalston","","","RG 12/193","126-130
+"
+"6","7","245","Terrace Road","Well Street","","","RG 12/206","26-29
+"
+"6","7","246","Theydon Road","Southwold Road","","","RG 12/197","21-23
+"
+"6","7","247","Thlstlewaite Road","Lower Clapton Road","","","RG 12/198","6-11
+"
+"6","7","248","Thomas Place","Matthias Road","later part Hewling Street","","RG 12/1066","112
+"
+"6","7","249","Thomas Street","Water Lane","now Ribstone Street","","",""
+"6","7","250","Thompsons Yard","Shepherds Lane","","","RG 12/202","44
+"
+"6","7","251","Tilia Road","Clarence Road","","","RG 12/192","52-55
+"
+"6","7","252","Toll Houses","Hill Street","","","RG 12/183","162
+"
+"6","7","253","Tottenham Road & Square","Kingsland Road","","","RG 12/188","5-21
+"
+"6","7","254","Tower Street","London Fields","","1-49 Odd","RG 12/191","43-47
+"
+"6","7","255","Tower Street","London Fields","","30-38 Even","RG 12/191","41-42
+"
+"6","7","256","Tower Street","London Fields","","50 or 51?","RG 12/204","42-43
+"
+"6","7","257","Tower Street","London Fields","","6-28 Even","RG 12/204","41-42
+"
+"6","7","258","Tower Street","London Fields","","Childrens Home","RG 12/204","40-41
+"
+"6","7","259","Town Hall Buildings","Mare Street","","","RG 12/191","7-8
+"
+"6","7","260","Town Hall Terrace","pt Grove Lane","","","RG 12/191","19-21
+"
+"6","7","261","Tram Depot","Bohemia Place, Mare Street","","","RG 12/196","32
+"
+"6","7","262","Tranby Place","Homerton High Street","Was Janes Place","","RG 12/201","47-48
+"
+"6","7","263","Tranquil Place","Abbott Street","","","RG 12/187","106-107
+"
+"6","7","264","Trederwen Road","Lansdowne Road","","","RG 12/194","99-105
+"
+"6","7","265","Trelawney Road","Paragon Road","","","RG 12/195","136-140
+"
+"6","7","266","Triangle Place and Road","West Street","","","RG 12/204","51-54
+"
+"6","7","267","Triangle Terrace","pt West Street","","","RG 12/204","60-61
+"
+"6","7","268","Trinity Church Mews","Mare Street","","","RG 12/205","31
+"
+"6","7","269","Trumans Road","Stoke Newington Road","was Avenue Road & Trumans Place","","RG 12/180","89-95
+"
+"6","7","270","Tudor Grove & Road","Shore Road","","","RG 12/205","4-12
+"
+"6","7","271","Twemlow Terrace","pt West Street","","","RG 12/204","85
+"
+"6","7","272","Tyssen Passage & Place","Dalston Lane","","Mixed, Tyssen Passage & Place, Tyssen Passage & Place","RG 12/187","80-82
+"
+"6","7","273","Tyssen Pavement","Dalston Lane","","","RG 12/187","80
+"
+"6","7","274","Tyssen Road was Street","Stoke Newington High Street","","","RG 12/184","52-55
+"
+"6","7","275","Tyssen Street","Dalston Lane","","1","RG 12/187","81
+"
+"6","7","276","Tyssen Street","Dalston Lane","","1-21","RG 12/187","82-85
+"
+"6","7","277","Tyssen Street","Dalston Lane","","22-33","RG 12/187","94-96
+"
